@@ -9,6 +9,87 @@
       "utl?per": "2024-04-29",
       "kjelde": "epost",
       "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "855e89c1-4e05-4df1-ae72-e23c4b817016",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-20 % p? rengj?ringsprodukter fra Jif (Klubbpris)",
+      "kode": null,
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "dd4a4b4d-ed55-470d-aeb5-d21c15cfac74",
+      "butikk": "Elico",
+      "beskriving": "15 % rabatt p? hele bestillingen",
+      "kode": "EASTER15",
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "9f4a5bd0-a119-4273-8ed7-b13387c8b253",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil -40% p? bestselgere til baby",
+      "kode": null,
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "e192f3eb-94f6-4b03-a954-fe7639fdd8b3",
+      "butikk": "Kid",
+      "beskriving": "50% p? sengesett, dundyner, laken og sengetepper",
+      "kode": null,
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "42861e92-baf0-446a-a509-24a9b9be4a57",
+      "butikk": "Kid",
+      "beskriving": "50% p? gardiner og pynteputer",
+      "kode": null,
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "b41e7915-64a9-4267-afa1-2df4c58a249b",
+      "butikk": "MENY",
+      "beskriving": "F? 5% Trumf-bonus p? netthandel og levering.",
+      "kode": null,
+      "utl?per": "2024-04-30",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "eead85b7-dbef-41f0-b0db-5957d9979e1d",
+      "butikk": "MENY",
+      "beskriving": "Tilbud p? Evergood, Jarlsberg og pizza-produkter.",
+      "kode": null,
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "59252c52-dd48-44cd-a963-d00f5ad8a48d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sun Stripe badelagen og matchende tote bag til introduksjonspris (290 DKK, normalpris 485 DKK)",
+      "kode": null,
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "24b7d03a-c8f2-406b-8f96-895e47f1f390",
+      "butikk": "Barnas Hus",
+      "beskriving": "Body og pysj til 59,- / 89,-",
+      "kode": null,
+      "utl?per": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
     }
   ]
 }
