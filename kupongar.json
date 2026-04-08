@@ -200,15 +200,6 @@
       "lagt_til": "2026-04-08"
     },
     {
-      "id": "fa2df8fb-6322-4440-a9bb-e60911982e91",
-      "butikk": "MENY",
-      "beskriving": "5% Trumf-bonus på netthandel og levering",
-      "kode": null,
-      "utløper": "2024-04-30",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-08"
-    },
-    {
       "id": "8a097a88-3cd5-488a-a2f1-903b444014c8",
       "butikk": "MENY",
       "beskriving": "Tilbud på Evergood, Jarlsberg og pizza-produkter",
@@ -221,6 +212,78 @@
       "id": "b55a2848-f7e3-46a0-8d28-613c881bd09b",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Sun Stripe badelagen og matchende tote bag til introduktionspris. Normalpris 485 DKK, introduktionspris 290 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "715fb152-1137-4877-b24b-448e48506835",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-20 % på rengjøringsprodukter fra Jif (klubbpris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "9906050c-b196-4aef-9bea-ac60cc26a54e",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 61% rabatt på TV-er under Vårsalget.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "c8f279c7-68b4-420f-8eb2-57e67f094e7b",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 40% rabatt på mobiltelefoner under Vårsalget.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "5ee759f0-7e97-45a9-aa15-3b009dc28e01",
+      "butikk": "Elkjøp",
+      "beskriving": "Gode priser på PC-er og mer under Vårsalget.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "e63e4afb-b200-4c6b-8397-dfac71679a2e",
+      "butikk": "Klint",
+      "beskriving": "Tilbod på eit utval startprodukt (Starter Kit) via personleg lenke",
+      "kode": "STARTERKIT",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "3d5782ad-dc49-4036-88a6-ae1b44c7f853",
+      "butikk": "Norwegian (via Spenn)",
+      "beskriving": "Få 3x Spenn-poeng på alle Norwegian-ruter. Gjelder for reiser i perioden 07.04.26 - 30.08.26.",
+      "kode": "SUPERSPENN",
+      "utløper": "2024-05-15",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "f7c6cfc8-f28a-41b0-aecc-2711d6178f54",
+      "butikk": "MENY",
+      "beskriving": "5% Trumf-bonus på netthandel",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "a3ff8422-e04f-4f04-8d1c-3afc8fa8a7fc",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sun Stripe badelagen og matchende tote bag til introduktionspris (290 DKK, normalpris 485 DKK)",
       "kode": null,
       "utløper": null,
       "kjelde": "epost",
