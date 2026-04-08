@@ -90,6 +90,141 @@
       "utl?per": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "c261d348-9e18-4122-b148-8d8259df1ccb",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-20% på rengjøringsprodukter fra Jif (Klubbpris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "bc6920b2-60c8-4fe4-b8d2-b010e4f2780b",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 61% på TV-er under vårsalget.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "2656fe61-81c7-4818-b12b-0edcd769f393",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 40% på mobiltelefoner under vårsalget.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "bbb9e1ba-2b3c-4a5c-a3e2-e067350f021e",
+      "butikk": "Elkjøp",
+      "beskriving": "Gode priser på PC-er og andre produkter under vårsalget.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "404a8708-0aa9-42d4-9c28-451791797201",
+      "butikk": "Klint",
+      "beskriving": "Tilbud på startpakke med utvalgte produkter",
+      "kode": "STARTERKIT",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "11c870b1-3ae8-44cd-b5e9-97ad1c0bf585",
+      "butikk": "Norwegian",
+      "beskriving": "Få 3x Spenn (bonuspoeng/cashback) på alle flyreiser med Norwegian for reiser i perioden 07.04.2026 - 30.08.2026.",
+      "kode": "SUPERSPENN",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "5e330297-b6ab-4407-910a-452ab4b83df2",
+      "butikk": "Komplett",
+      "beskriving": "10% rabatt på alle demovarer",
+      "kode": null,
+      "utløper": "2027-04-02",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "89c6c2d0-6763-4bf7-8208-246b4213e4f3",
+      "butikk": "Komplett",
+      "beskriving": "Fri frakt for medlemmer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "ce9274fb-e959-4fd8-b085-bb6ebeac21b8",
+      "butikk": "Elico",
+      "beskriving": "15 % rabatt på hele bestillingen",
+      "kode": "EASTER15",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "1be68865-56b9-47c9-81ed-57695f78d8fc",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil -40% på bestselgere til baby",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "f85b7a39-187d-4594-9f6f-5161628afc39",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett, dundyner, laken og sengetepper",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "1b4f375f-0e1f-4956-9e37-7171c529d342",
+      "butikk": "Kid",
+      "beskriving": "50% på gardiner og pynteputer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "fa2df8fb-6322-4440-a9bb-e60911982e91",
+      "butikk": "MENY",
+      "beskriving": "5% Trumf-bonus på netthandel og levering",
+      "kode": null,
+      "utløper": "2024-04-30",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "8a097a88-3cd5-488a-a2f1-903b444014c8",
+      "butikk": "MENY",
+      "beskriving": "Tilbud på Evergood, Jarlsberg og pizza-produkter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "b55a2848-f7e3-46a0-8d28-613c881bd09b",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sun Stripe badelagen og matchende tote bag til introduktionspris. Normalpris 485 DKK, introduktionspris 290 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
     }
   ]
 }
