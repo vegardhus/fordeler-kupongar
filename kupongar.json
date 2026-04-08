@@ -1,4 +1,14 @@
 {
   "oppdatert": "2026-04-08",
-  "kupongar": []
+  "kupongar": [
+    {
+      "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
+      "butikk": "Kiwi",
+      "beskriving": "10% rabatt",
+      "kode": "KIWI10",
+      "utl?per": "2024-04-29",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-08"
+    }
+  ]
 }
