@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-08",
+  "oppdatert": "2026-04-09",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -263,15 +263,6 @@
       "lagt_til": "2026-04-08"
     },
     {
-      "id": "3d5782ad-dc49-4036-88a6-ae1b44c7f853",
-      "butikk": "Norwegian (via Spenn)",
-      "beskriving": "Få 3x Spenn-poeng på alle Norwegian-ruter. Gjelder for reiser i perioden 07.04.26 - 30.08.26.",
-      "kode": "SUPERSPENN",
-      "utløper": "2024-05-15",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-08"
-    },
-    {
       "id": "f7c6cfc8-f28a-41b0-aecc-2711d6178f54",
       "butikk": "MENY",
       "beskriving": "5% Trumf-bonus på netthandel",
@@ -288,6 +279,123 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-08"
+    },
+    {
+      "id": "8ea29fff-ebe8-4e50-8c91-eebc2d5219ce",
+      "butikk": "Komplett Club",
+      "beskriving": "Alltid fri frakt på rimeligste fraktalternativ til fastlands-Norge for medlemmer. Gjelder ikke hjemlevering med Porterbuddy.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "8260080d-6c11-4407-a6d2-071131d4e8cc",
+      "butikk": "Komplett Club",
+      "beskriving": "Få 200 CLUB-poeng for hver produktanmeldelse du skriver.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "63690163-a595-43ef-8bf3-4c2f653f416d",
+      "butikk": "Komplett Club",
+      "beskriving": "Tjen CLUB-poeng på alle kjøp du gjør som medlem.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "67d65ff3-07f4-416a-ae78-61ec6d20d30e",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 10.000 på ny TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "623c2d30-3ac1-4b5e-a0b2-19ddd22d8889",
+      "butikk": "Komplett Club",
+      "beskriving": "Ukens tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "7a5cdebe-2749-425e-bcfe-9e5b90d2066b",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming deals",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "f094e17e-5611-4872-8557-2c8255f6aec1",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 2.000,- på Samsung Galaxy Tab S10 FE WiFi 128GB (grå)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "f651fbce-05cc-4e1e-b43f-590ea7994196",
+      "butikk": "Strawberry",
+      "beskriving": "Forsalg på billetter til Manchester United Tour i Helsinki, Trondheim, Stockholm og Gøteborg.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "efbc4b1f-7353-4189-84a1-71577378a028",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% rabatt på gardiner, pynteputer og pledd til soverommet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "3881e0d9-d9a9-4e1e-84b7-979d045e2b80",
+      "butikk": "Barnas Hus",
+      "beskriving": "-40% på alle parkdresser fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "504aec20-e165-4aec-9a4e-1e26eda58fdc",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-20 % på rengjøringsprodukter fra Jif (klubbpris for medlemmer)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "571370b0-c137-4fd9-bed5-3a1d2d9e1a70",
+      "butikk": "Norwegian (via Spenn)",
+      "beskriving": "Få 3x Spenn på alle ruter med Norwegian for reiser i perioden 07.04.26 - 30.08.26.",
+      "kode": "SUPERSPENN",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
+    },
+    {
+      "id": "657ca546-5e19-4b88-b422-f204ac6b73cb",
+      "butikk": "MENY",
+      "beskriving": "5% Trumf-bonus på levering (netthandel)",
+      "kode": null,
+      "utløper": "2024-04-30",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-09"
     }
   ]
 }
