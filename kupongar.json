@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-09",
+  "oppdatert": "2026-04-10",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -389,13 +389,94 @@
       "lagt_til": "2026-04-09"
     },
     {
-      "id": "657ca546-5e19-4b88-b422-f204ac6b73cb",
-      "butikk": "MENY",
-      "beskriving": "5% Trumf-bonus på levering (netthandel)",
+      "id": "6dc65d72-e395-4b5f-abec-f3511e09169e",
+      "butikk": "Komplett Club",
+      "beskriving": "Fri frakt for medlemmer (gjelder uansett kjøpesum, på rimeligste fraktalternativ til fastlands-Norge. Gjelder ikke hjemlevering med Porterbuddy).",
       "kode": null,
-      "utløper": "2024-04-30",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-04-09"
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "c0af43d1-f730-4725-964d-46dd67bd169e",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 10.000 kr på din nye TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "b88dde36-dac6-4f9c-b9a8-8c7614409f50",
+      "butikk": "Komplett Club",
+      "beskriving": "Ukens tilbud (generelle tilbud som varer ut uken)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "44a3b93a-533c-495c-9c46-e11ce0a09ab6",
+      "butikk": "Komplett Club",
+      "beskriving": "Flashsale: Spar 2 000 kr på Samsung Galaxy Tab S10 FE WiFi 128GB (grå). Tilbudet gjelder kun ut uken.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "e36e2488-09ed-4fd1-9a06-f48b94696c61",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 61% rabatt på TV-er",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "8e4da7d4-8580-4049-9739-d6c894080997",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 40% rabatt på mobiltelefoner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "7e9ef663-310d-4d31-a68e-4adf2d852685",
+      "butikk": "Elkjøp",
+      "beskriving": "Gode priser på PC-er og andre produkter under vårsalget",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "d5967f77-f978-4eca-81b1-fc4679a5385b",
+      "butikk": "Klint",
+      "beskriving": "Voucher for a selection of products to help you get started on your journey (starter kit)",
+      "kode": "STARTERKIT",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "50c2c3e2-cbfb-4d92-8397-0a762ca9d1ed",
+      "butikk": "Komplett Club",
+      "beskriving": "10% rabatt på alle demovarer. Gyldig i 12 måneder fra aktivering.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "6fd0b8cb-db46-4ce6-bef8-e08f37ebdc98",
+      "butikk": "Komplett Club",
+      "beskriving": "Fri frakt for medlemmer.",
+      "kode": null,
+      "utløper": "2027-04-02",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-10"
     }
   ]
 }
