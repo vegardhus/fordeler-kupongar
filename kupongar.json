@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-10",
+  "oppdatert": "2026-04-11",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -477,6 +477,141 @@
       "utløper": "2027-04-02",
       "kjelde": "epost",
       "lagt_til": "2026-04-10"
+    },
+    {
+      "id": "9323df93-ad44-46b7-a783-5cd30e384ed5",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett, putevar, laken, sengetepper og dundyner og -puter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "49f42148-25f0-414d-b5c9-c4928c0c7999",
+      "butikk": "Komplett Club",
+      "beskriving": "Alltid fri frakt på rimeligste fraktalternativ til fastlands-Norge (gjelder ikke hjemlevering med Porterbuddy).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "0de4bad3-69b7-4c84-86dd-dcd4e7ce500f",
+      "butikk": "Komplett Club",
+      "beskriving": "Få 200 poeng for hver produktanmeldelse.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "b1f14086-c45c-41bf-9550-09a948d68a0a",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 2 000,- på Samsung Galaxy Tab S10 FE WiFi 128GB (grå). Tilbudet gjelder kun ut denne uken.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "a3328e3d-e43c-4d9d-9789-f194e7ff175f",
+      "butikk": "Komplett Club",
+      "beskriving": "Se ukens tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "fc09cfbe-d451-4a8b-b9c4-ce71f2b84879",
+      "butikk": "Komplett Club",
+      "beskriving": "Se gaming deals",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "def9515e-e058-4627-ba0f-dc3e366df0c6",
+      "butikk": "Komplett Club",
+      "beskriving": "Se nyheter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "65b77ff3-4086-4ead-a778-6f828e6e997b",
+      "butikk": "Komplett Club",
+      "beskriving": "Se Flex-tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "d06c1caa-145c-41b4-bdb2-41f77864fcc4",
+      "butikk": "Elkjøp",
+      "beskriving": "Vårsalget avsluttes snart",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "a18ca0b6-7744-491c-95df-7c2d1835812b",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på utvalgte varer til soverommet (gardiner, pynteputer, pledd)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "5ebfbd77-3c7c-4dba-b1e5-a93163300ead",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% rabatt på alle parkdresser fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "a1f4ebcf-0db7-44ee-a435-24f4e00e0548",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-20 % på rengjøringsprodukter fra Jif (Klubbpris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "549d6a1f-e368-47bf-a0b7-ded0b7f230c0",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 61% rabatt på TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "849e67c4-9b0c-4ecd-99c2-ac8a895d8657",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 40% rabatt på mobil",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "feabca0d-8f7b-4a0e-a662-938f199c3643",
+      "butikk": "Klint",
+      "beskriving": "Voucher for eit startsett med utvalde produkt",
+      "kode": "STARTERKIT",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-11"
     }
   ]
 }
