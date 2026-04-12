@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-11",
+  "oppdatert": "2026-04-12",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -612,6 +612,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-11"
+    },
+    {
+      "id": "bc941dee-dfcd-4d47-ad54-f9a0d90794f6",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Supima Pinstripe sengetøj i Minimal Blue til særpris. Pris frå 850 DKK (førpris frå 1.150 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "b4f2fb9a-ff39-4cb0-a208-8661ad576bb5",
+      "butikk": "IKEA",
+      "beskriving": "Mulighet til å finne flotte kupp i IKEA sin gjenbruksbutikk på loppemarkedet.",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "396e6326-39ca-4490-bd03-6a3dba8f3dcf",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett, putevar, laken, sengetepper og dundyner og -puter under Soveromsdager",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "03cf0515-a474-43ef-af0f-f98d54f2916d",
+      "butikk": "Komplett Club",
+      "beskriving": "Tjen poeng på alt du kjøper.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "4c130c34-41d3-45ff-97d2-eebb768f78d9",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 2 000,- på Samsung Galaxy Tab S10 FE WiFi 128GB (grå)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "aa6d7d21-e8d0-466b-b0f1-9d7743b57244",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 10.000 på din nye TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "d5488d45-0b72-4cf1-9466-b9fea2867f0c",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på gardiner, pynteputer og pledd til soverommet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "0f9aea0f-247d-4de9-829b-5c54ad39fc59",
+      "butikk": "Elkjøp",
+      "beskriving": "Gode priser på PC-er og mer (Vårsalget)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "8aa8f784-b922-4214-b89e-243b052dd8ae",
+      "butikk": "Klint",
+      "beskriving": "Tilbod på eit utval startprodukt (starter kit)",
+      "kode": "STARTERKIT",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-12"
     }
   ]
 }
