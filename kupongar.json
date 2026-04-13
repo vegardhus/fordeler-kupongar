@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-12",
+  "oppdatert": "2026-04-13",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -623,15 +623,6 @@
       "lagt_til": "2026-04-12"
     },
     {
-      "id": "b4f2fb9a-ff39-4cb0-a208-8661ad576bb5",
-      "butikk": "IKEA",
-      "beskriving": "Mulighet til å finne flotte kupp i IKEA sin gjenbruksbutikk på loppemarkedet.",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-12"
-    },
-    {
       "id": "396e6326-39ca-4490-bd03-6a3dba8f3dcf",
       "butikk": "Kid",
       "beskriving": "50% på sengesett, putevar, laken, sengetepper og dundyner og -puter under Soveromsdager",
@@ -693,6 +684,96 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-12"
+    },
+    {
+      "id": "027a5286-31a9-4ea9-b35e-3e581bd810c2",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "2 for 1 på yoga og hjemmetreningsprodukter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "59100728-ffe1-48f5-ba52-883d34d827f7",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Supima Pinstripe sengetøj i Minimal Blue til særpris. Førpris fra 1.150 DKK, nu fra 850 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "efbfdce3-5109-473f-8d52-218395dd3380",
+      "butikk": "Kid interiør",
+      "beskriving": "50% på sengesett, putevar, laken, sengetepper, dundyner og -puter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "1c9b1471-3983-4f5c-9761-e5668a339ffd",
+      "butikk": "Komplett Club",
+      "beskriving": "Alltid fri frakt på rimeligste fraktalternativ til fastlands-Norge. Gjelder ikke hjemlevering med Porterbuddy.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "f2b3a99d-c82a-4847-a0d9-6411cb8f4d86",
+      "butikk": "Komplett Club",
+      "beskriving": "Eksklusivt tilbud på Samsung Galaxy Tab.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "6c5a1052-621c-4195-9a1a-2b40f19d8fe4",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 10.000,- på din nye TV.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "296c2843-e5b9-4f65-9e9e-da7eb4e2fbbe",
+      "butikk": "Komplett Club",
+      "beskriving": "Ukens tilbud (generell kategori).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "767d21b4-5dd1-43e5-a1a6-a0925449bd90",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming deals (generell kategori).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "68037875-99ae-4c18-9c2d-f70de55ad039",
+      "butikk": "Komplett Club",
+      "beskriving": "Flashsale: Spar 2 000,- på Samsung Galaxy Tab S10 FE WiFi 128GB (grå).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "a33be4cf-285a-4985-b9bc-c986fa51fe05",
+      "butikk": "Barnas Hus",
+      "beskriving": "-40% på alle parkdresser fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-13"
     }
   ]
 }
