@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-13",
+  "oppdatert": "2026-04-14",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -774,6 +774,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-13"
+    },
+    {
+      "id": "b6f2afff-31ed-4a64-8a56-036b137e022c",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonstilbod på Minimal Lines kjøkkenpakke: 2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) og 2 stk. 3PLY karklutar for 295 DKK (normalpris 425 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-14"
+    },
+    {
+      "id": "58e9c829-f7eb-4834-a2e0-a85e84a45b36",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Supima Pinstripe sengetøj i Minimal Blue til særpris. Førpris fra 1.150 DKK, Særpris fra 850 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-14"
+    },
+    {
+      "id": "ad3114ec-f5d3-4a15-ae90-35da7dcaff4e",
+      "butikk": "Komplett.no",
+      "beskriving": "Fri frakt på rimeligste fraktalternativ til fastlands-Norge. Gjelder ikke hjemlevering med Porterbuddy.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-14"
+    },
+    {
+      "id": "3555408d-bc90-410a-9d5c-b5b86bb7f833",
+      "butikk": "Komplett.no",
+      "beskriving": "Få 200 poeng for hver produktanmeldelse.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-14"
+    },
+    {
+      "id": "c3663c71-2f40-444b-810d-2090ce944146",
+      "butikk": "Komplett Club",
+      "beskriving": "Flashsale: Spar 2 000,- på Samsung Galaxy Tab S10 FE WiFi 128GB (grå). Tilbudet gjelder kun ut uken.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-14"
+    },
+    {
+      "id": "a1fdb1ed-7a13-46e3-a930-13aefcc423f5",
+      "butikk": "Strawberry",
+      "beskriving": "Forsalg på billetter til Manchester United Tour i Helsinki, Trondheim, Stockholm og Gøteborg",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-14"
     }
   ]
 }
