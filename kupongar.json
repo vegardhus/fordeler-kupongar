@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-14",
+  "oppdatert": "2026-04-15",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -828,6 +828,96 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-14"
+    },
+    {
+      "id": "431e9393-dff7-4c47-91ac-3ceb3047a42e",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) + 2 stk. 3PLY karklude til introduktionspris. Spar 130 DKK (Normalpris 425 DKK, Introduktionspris 295 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "adcf9b84-f27a-4e4c-a718-346947ee625e",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på yoga og hjemmetreningsprodukter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "a4e6bfe0-91a1-45e8-8136-5f6e5ee4fdf0",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Supima Pinstripe sengetøj i Minimal Blue til særpris (fra 850 DKK, før 1.150 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "d00ea290-dfee-4fb8-a24f-1f16abfab201",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett, putevar, laken, sengetepper og dundyner og -puter under Soveromsdager.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "3278a309-6efa-4a7f-ab0a-95cb7ff9503b",
+      "butikk": "Komplett Club",
+      "beskriving": "Fri frakt på rimeligste fraktalternativ til fastlands-Norge (gjelder ikke hjemlevering med Porterbuddy). Gjelder uansett kjøpesum.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "a5b34c28-b7b3-4030-ab56-5b868668c45a",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 2 000,- på Samsung Galaxy Tab S10 FE WiFi 128GB (grå) i flashsale. Tilbudet gjelder kun ut denne uken, så lenge lageret rekker.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "f6d65921-22cb-4fca-ba50-c540aa29c8bd",
+      "butikk": "Komplett Club",
+      "beskriving": "Tilgang til ukens tilbud for Club-medlemmer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "15c323fa-8d16-4a69-8a4a-06f259888a17",
+      "butikk": "Komplett Club",
+      "beskriving": "Tilgang til gaming deals for Club-medlemmer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "7507d107-7929-4052-a4d2-b6a7f5c6e6d1",
+      "butikk": "Komplett Club",
+      "beskriving": "Tilgang til nyheter med gode kjøp for Club-medlemmer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "069270e5-57a5-4d8f-bc03-e14493b3e652",
+      "butikk": "Komplett Club",
+      "beskriving": "Tilgang til Flex-tilbud for Club-medlemmer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-15"
     }
   ]
 }
