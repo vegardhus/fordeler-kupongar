@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-15",
+  "oppdatert": "2026-04-16",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -918,6 +918,123 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-15"
+    },
+    {
+      "id": "a4a3583a-684b-443a-9957-aae79359942a",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 60% på TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "88422ef7-3c34-4b3b-8604-98b967bf1eed",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalg på lageret",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "a98b3396-2bbd-472b-8cec-b9a155a143ad",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger tilgjengelig i Coop-appen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "590afbe9-733a-43c3-a696-a36ee7ed6177",
+      "butikk": "Coop (via Ving)",
+      "beskriving": "2000 kr rabatt på årets sommerferie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "f2780cb4-6136-4d72-a059-a4c1ea63844f",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% rabatt på alle varer fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "de348927-584c-4bf8-aab3-19d515937fff",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% på kjøkkenvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "7e855265-346e-4819-9eac-160765ddecf1",
+      "butikk": "Kid Interiør",
+      "beskriving": "40% på bordtekstiler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "d7b766b5-c1ef-4a7a-915d-8391bb8d228f",
+      "butikk": "Clas Ohlson",
+      "beskriving": "25% rabatt på alle batterier",
+      "kode": null,
+      "utløper": "2024-03-19",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "0777e387-4382-4c95-84a7-bd0b0e717be5",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Kjøp 3, betal for 2 på utvalgte rengjøringsmidler",
+      "kode": null,
+      "utløper": "2024-03-19",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "6365a7e5-50ca-4daf-a856-1fd90411b232",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Medlemstilbud: Kaffetrakter til 599,-",
+      "kode": null,
+      "utløper": "2024-03-15",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "08fbdb47-3c53-4f49-830c-27d81b8c2ef8",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle lamper",
+      "kode": null,
+      "utløper": "2024-03-19",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "686c6221-e332-49e2-a8bb-d39905adbb53",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonstilbod: 2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) og 2 stk. 3PLY karklutar for 295 DKK (normalpris 425 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "539de174-10dd-4a06-811a-5d4171484769",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "50% på sengesett, putevar, laken, sengetepper, dundyner og -puter under 'Soveromsdager'. Siste dager.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-16"
     }
   ]
 }
