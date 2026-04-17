@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-16",
+  "oppdatert": "2026-04-17",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -983,42 +983,6 @@
       "lagt_til": "2026-04-16"
     },
     {
-      "id": "d7b766b5-c1ef-4a7a-915d-8391bb8d228f",
-      "butikk": "Clas Ohlson",
-      "beskriving": "25% rabatt på alle batterier",
-      "kode": null,
-      "utløper": "2024-03-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-16"
-    },
-    {
-      "id": "0777e387-4382-4c95-84a7-bd0b0e717be5",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kjøp 3, betal for 2 på utvalgte rengjøringsmidler",
-      "kode": null,
-      "utløper": "2024-03-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-16"
-    },
-    {
-      "id": "6365a7e5-50ca-4daf-a856-1fd90411b232",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Medlemstilbud: Kaffetrakter til 599,-",
-      "kode": null,
-      "utløper": "2024-03-15",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-16"
-    },
-    {
-      "id": "08fbdb47-3c53-4f49-830c-27d81b8c2ef8",
-      "butikk": "Clas Ohlson",
-      "beskriving": "20% rabatt på alle lamper",
-      "kode": null,
-      "utløper": "2024-03-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-16"
-    },
-    {
       "id": "686c6221-e332-49e2-a8bb-d39905adbb53",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Introduksjonstilbod: 2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) og 2 stk. 3PLY karklutar for 295 DKK (normalpris 425 DKK).",
@@ -1035,6 +999,96 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-16"
+    },
+    {
+      "id": "8c4b0dd0-255c-49cd-bd56-e68dcc97beb3",
+      "butikk": "Komplett",
+      "beskriving": "15% rabatt på grilltilbehør",
+      "kode": "CLUB15",
+      "utløper": "2020-04-19",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "cff0f97a-d544-433f-8e8e-711bbdb7e794",
+      "butikk": "Komplett",
+      "beskriving": "Spar 500,- på Austin and Barbeque AABQ Classic 4+1B gassgrill",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "853fdd23-85a7-4185-ab3b-6f5ceab17c21",
+      "butikk": "Komplett",
+      "beskriving": "Ukens tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "b87b4f37-a08e-419f-aa69-882f563494a0",
+      "butikk": "Komplett",
+      "beskriving": "Gaming deals",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "a15c97ea-e9e8-4dba-98aa-1d669e0ae2ad",
+      "butikk": "Komplett",
+      "beskriving": "Nyheter (produkter)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "ca832479-d4b7-42a5-ada1-3a830c2ed90c",
+      "butikk": "Komplett",
+      "beskriving": "Flex (tilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "e4629345-4cd3-4238-a25e-0b3f2f67a02a",
+      "butikk": "Obs",
+      "beskriving": "Tilbud på festdrakter til hele familien",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "35c4e0a7-4f5c-4239-87c9-e1c3e25646a4",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger tilgjengelig i appen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "004e02b3-8206-4747-9579-45fdf568c536",
+      "butikk": "Coop",
+      "beskriving": "2000 kr rabatt på årets sommerferie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "06cf3440-cbc8-4ade-85ad-be6f141c77de",
+      "butikk": "Barnas Hus",
+      "beskriving": "-40% på alt fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-17"
     }
   ]
 }
