@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-17",
+  "oppdatert": "2026-04-18",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1001,15 +1001,6 @@
       "lagt_til": "2026-04-16"
     },
     {
-      "id": "8c4b0dd0-255c-49cd-bd56-e68dcc97beb3",
-      "butikk": "Komplett",
-      "beskriving": "15% rabatt på grilltilbehør",
-      "kode": "CLUB15",
-      "utløper": "2020-04-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-17"
-    },
-    {
       "id": "cff0f97a-d544-433f-8e8e-711bbdb7e794",
       "butikk": "Komplett",
       "beskriving": "Spar 500,- på Austin and Barbeque AABQ Classic 4+1B gassgrill",
@@ -1089,6 +1080,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-17"
+    },
+    {
+      "id": "232fce30-0948-4727-aeb0-ed061b887fd9",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. runde Herringbone dækkeservietter til særpris (220 DKK, før 290 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "fdffe1c3-20d7-45e1-8e25-5ec7fc8e40bc",
+      "butikk": "Kid Horisont",
+      "beskriving": "50% på soveromsvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "9623bb34-10d7-4048-a18c-c840c7720bad",
+      "butikk": "Kid",
+      "beskriving": "Utepotter 2 for 1 (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "c7cf9cf2-9ee6-4236-a671-766daddf24c1",
+      "butikk": "Komplett",
+      "beskriving": "Nyheter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "8e2df30f-a64e-44ca-9f3b-3c57baefe9d7",
+      "butikk": "Komplett",
+      "beskriving": "Flex-produkter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "d8f5c550-c9cf-4b78-b480-354e785ba394",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalg",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "5c75abce-9ae5-46a7-b229-59b9a7450d63",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger er tilgjengelige i Coop appen for å spare på neste handletur",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "3092054b-60a6-477b-97e6-b4028d7259e9",
+      "butikk": "Barnas Hus",
+      "beskriving": "-40% på ALT fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "4fb812d0-339c-490e-adc1-c40b03a392e8",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonstilbod: 2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) + 2 stk. 3PLY karklutar for 295 DKK (normalpris 425 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-18"
     }
   ]
 }
