@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-18",
+  "oppdatert": "2026-04-19",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1161,6 +1161,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-18"
+    },
+    {
+      "id": "ef74a8c4-8457-4092-9567-5bb053628a6f",
+      "butikk": "IKEA Family",
+      "beskriving": "Bollemiddag til under 100 kr",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "c9ae9d8b-0861-4c02-a869-060c403a0941",
+      "butikk": "IKEA Family",
+      "beskriving": "Smaksprøver",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "41edffcb-f649-474f-84c0-649dc28acc53",
+      "butikk": "Barnas Hus",
+      "beskriving": "-40% på ALT fra Reflex!",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "9c17f960-d329-49c8-ab19-58061e596f03",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. runde Herringbone dækkeservietter til særpris. Førpris 290 DKK, Særpris 220 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "4ff48cde-e08d-48da-9d5c-bf98bab41d29",
+      "butikk": "Komplett",
+      "beskriving": "15% rabatt på grilltilbehør",
+      "kode": "CLUB15",
+      "utløper": "2024-04-19",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "3678d1ab-428e-4a8b-abdd-4ccaa8e6a609",
+      "butikk": "Komplett",
+      "beskriving": "Spar 500,- på Austin and Barbeque Classic 4+1B gassgrill",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "ee59553c-96f5-424d-a1f9-39d0eac5ed07",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger tilgjengelig for aktivering i Coop-appen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "b1e78869-c888-4621-9f58-a509fcfacae1",
+      "butikk": "Coop / Ving",
+      "beskriving": "2000 kr rabatt på årets sommerferie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "fa61cad0-73c0-466f-ad66-a495436bb1b0",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonstilbod på 2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) og 2 stk. 3PLY karklutar. Pris: 295 DKK (normalpris 425 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-19"
     }
   ]
 }
