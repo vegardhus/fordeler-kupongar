@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-19",
+  "oppdatert": "2026-04-20",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1163,24 +1163,6 @@
       "lagt_til": "2026-04-18"
     },
     {
-      "id": "ef74a8c4-8457-4092-9567-5bb053628a6f",
-      "butikk": "IKEA Family",
-      "beskriving": "Bollemiddag til under 100 kr",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-19"
-    },
-    {
-      "id": "c9ae9d8b-0861-4c02-a869-060c403a0941",
-      "butikk": "IKEA Family",
-      "beskriving": "Smaksprøver",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-19"
-    },
-    {
       "id": "41edffcb-f649-474f-84c0-649dc28acc53",
       "butikk": "Barnas Hus",
       "beskriving": "-40% på ALT fra Reflex!",
@@ -1195,15 +1177,6 @@
       "beskriving": "2 stk. runde Herringbone dækkeservietter til særpris. Førpris 290 DKK, Særpris 220 DKK.",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-04-19"
-    },
-    {
-      "id": "4ff48cde-e08d-48da-9d5c-bf98bab41d29",
-      "butikk": "Komplett",
-      "beskriving": "15% rabatt på grilltilbehør",
-      "kode": "CLUB15",
-      "utløper": "2024-04-19",
       "kjelde": "epost",
       "lagt_til": "2026-04-19"
     },
@@ -1242,6 +1215,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-19"
+    },
+    {
+      "id": "0bda91c3-18b1-46cf-a7a6-737ab3b73fd2",
+      "butikk": "Kid",
+      "beskriving": "50% på soveromsvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-20"
+    },
+    {
+      "id": "ecb8ea75-dae8-4d3a-8a77-6bf41ff4f4ba",
+      "butikk": "Kid",
+      "beskriving": "50% på alle 17. mai-varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-20"
+    },
+    {
+      "id": "f8689bf2-af4d-4e21-aa4e-7d749ddc8e48",
+      "butikk": "Kid",
+      "beskriving": "Eden sateng sengesett 2 for 899,- (medlemspris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-20"
+    },
+    {
+      "id": "7e35e901-f0c8-416d-bd8d-35d48c61e803",
+      "butikk": "IKEA",
+      "beskriving": "Bollemiddag til under hundrelappen",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-20"
+    },
+    {
+      "id": "566b8c96-14b6-45f3-8eae-307e0a994aab",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% rabatt på ALT fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-20"
+    },
+    {
+      "id": "221eae4b-fd92-411f-95d3-3a47e680460d",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% på ALT fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-20"
     }
   ]
 }
