@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-20",
+  "oppdatert": "2026-04-21",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1244,15 +1244,6 @@
       "lagt_til": "2026-04-20"
     },
     {
-      "id": "7e35e901-f0c8-416d-bd8d-35d48c61e803",
-      "butikk": "IKEA",
-      "beskriving": "Bollemiddag til under hundrelappen",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-20"
-    },
-    {
       "id": "566b8c96-14b6-45f3-8eae-307e0a994aab",
       "butikk": "Barnas Hus",
       "beskriving": "40% rabatt på ALT fra Reflex",
@@ -1269,6 +1260,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-20"
+    },
+    {
+      "id": "0e9d047a-f93c-4906-a865-6367e65f66ad",
+      "butikk": "Strawberry",
+      "beskriving": "Tjen 3x Spenn (triple poeng)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-21"
+    },
+    {
+      "id": "1cc11211-d3b6-44bf-9add-6eefdfe37e5c",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000 for hver 5000 brukt på komponenter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-21"
+    },
+    {
+      "id": "c2b37c22-266c-4246-b5d5-4510ceff8183",
+      "butikk": "IKEA",
+      "beskriving": "Smaksprøver",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-21"
+    },
+    {
+      "id": "4e0bc7bc-59cd-4784-bba2-aa2d7d5ef947",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% rabatt på alt fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-21"
+    },
+    {
+      "id": "b8e3c5d0-f845-4f7b-b32d-8e41a78a92a5",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. runde Herringbone dækkeservietter til særpris (220 DKK, før 290 DKK). Vælg mellem otte farver.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-21"
+    },
+    {
+      "id": "c22cf6e9-d773-4a56-839f-bf4101803dfc",
+      "butikk": "Komplett",
+      "beskriving": "15% rabatt på grilltilbehør",
+      "kode": "CLUB15",
+      "utløper": "2024-04-19",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-21"
+    },
+    {
+      "id": "86de73a3-d9bb-45cd-a52e-96b8fe3f86bd",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger tilgjengelig i appen for å spare på neste handletur",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-21"
     }
   ]
 }
