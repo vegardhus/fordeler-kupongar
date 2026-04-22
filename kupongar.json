@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-21",
+  "oppdatert": "2026-04-22",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1280,15 +1280,6 @@
       "lagt_til": "2026-04-21"
     },
     {
-      "id": "c2b37c22-266c-4246-b5d5-4510ceff8183",
-      "butikk": "IKEA",
-      "beskriving": "Smaksprøver",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-21"
-    },
-    {
       "id": "4e0bc7bc-59cd-4784-bba2-aa2d7d5ef947",
       "butikk": "Barnas Hus",
       "beskriving": "40% rabatt på alt fra Reflex",
@@ -1307,15 +1298,6 @@
       "lagt_til": "2026-04-21"
     },
     {
-      "id": "c22cf6e9-d773-4a56-839f-bf4101803dfc",
-      "butikk": "Komplett",
-      "beskriving": "15% rabatt på grilltilbehør",
-      "kode": "CLUB15",
-      "utløper": "2024-04-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-21"
-    },
-    {
       "id": "86de73a3-d9bb-45cd-a52e-96b8fe3f86bd",
       "butikk": "Coop",
       "beskriving": "Nye kuponger tilgjengelig i appen for å spare på neste handletur",
@@ -1323,6 +1305,123 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-21"
+    },
+    {
+      "id": "5c1e1122-8f04-4328-a3b7-b83c373f47db",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Kjøp 3, betal for 2 på alle batterier",
+      "kode": null,
+      "utløper": "2024-05-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "3e601bd2-a030-4d50-ad99-93b62bc79683",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på utvalgte produkter fra en rekke kjente merker (inkludert Kärcher, Philips Hue, Bosch, Fiskars, Gardena, Ryobi, Makita, DeWalt, Dyson, Samsung, Apple, Sony, JBL, Weber, OBH Nordica, Wilfa, Nespresso, iRobot)",
+      "kode": null,
+      "utløper": "2024-05-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "c02f6d52-a896-494b-9b29-4583a8550761",
+      "butikk": "Elkjøp Alna og Lørenskog",
+      "beskriving": "Spar opptil 68% på Samsung-tilbud",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "d271eb58-6866-4c49-b92a-1ff874a39955",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på årets festdrakter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "224c8063-1c64-4c85-be99-d609403a3b2b",
+      "butikk": "Strawberry",
+      "beskriving": "Tjen 3x Spenn",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "467cb813-8951-40f9-85ef-2b19908b5e34",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000 kr for hver 5000 kr brukt på komponenter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "e369aefb-6981-421c-8d1e-819422f62df6",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på soveromsvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "9e741668-e496-40fa-aecb-33612a9486fa",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på alle 17. mai-varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "70fe8860-259d-4c41-8e9c-3df5b1e24641",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Eden sateng sengesett 2 for 899,- (medlemspris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "ce1603db-8135-4dab-9b5c-90f8e8b2b923",
+      "butikk": "IKEA Family",
+      "beskriving": "Bollemiddag til under 100 kr",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "bd4bd0c2-496e-4310-9200-5e71df3a4cdf",
+      "butikk": "IKEA Family",
+      "beskriving": "Gratis smaksprøver",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "b4b3ad27-d27f-4909-b7ff-2c7717959ce1",
+      "butikk": "Komplett Club",
+      "beskriving": "15% rabatt på grilltilbehør",
+      "kode": "CLUB15",
+      "utløper": "2024-04-19",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "bcced33d-f924-49f4-a3be-6843a31f637a",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 500,- på Austin and Barbeque AABQ Classic 4+1B gassgrill",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-22"
     }
   ]
 }
