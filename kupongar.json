@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-22",
+  "oppdatert": "2026-04-23",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1307,33 +1307,6 @@
       "lagt_til": "2026-04-21"
     },
     {
-      "id": "5c1e1122-8f04-4328-a3b7-b83c373f47db",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kjøp 3, betal for 2 på alle batterier",
-      "kode": null,
-      "utløper": "2024-05-26",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-22"
-    },
-    {
-      "id": "3e601bd2-a030-4d50-ad99-93b62bc79683",
-      "butikk": "Clas Ohlson",
-      "beskriving": "20% rabatt på utvalgte produkter fra en rekke kjente merker (inkludert Kärcher, Philips Hue, Bosch, Fiskars, Gardena, Ryobi, Makita, DeWalt, Dyson, Samsung, Apple, Sony, JBL, Weber, OBH Nordica, Wilfa, Nespresso, iRobot)",
-      "kode": null,
-      "utløper": "2024-05-26",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-22"
-    },
-    {
-      "id": "c02f6d52-a896-494b-9b29-4583a8550761",
-      "butikk": "Elkjøp Alna og Lørenskog",
-      "beskriving": "Spar opptil 68% på Samsung-tilbud",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-22"
-    },
-    {
       "id": "d271eb58-6866-4c49-b92a-1ff874a39955",
       "butikk": "Barnas Hus",
       "beskriving": "30% rabatt på årets festdrakter",
@@ -1388,33 +1361,6 @@
       "lagt_til": "2026-04-22"
     },
     {
-      "id": "ce1603db-8135-4dab-9b5c-90f8e8b2b923",
-      "butikk": "IKEA Family",
-      "beskriving": "Bollemiddag til under 100 kr",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-22"
-    },
-    {
-      "id": "bd4bd0c2-496e-4310-9200-5e71df3a4cdf",
-      "butikk": "IKEA Family",
-      "beskriving": "Gratis smaksprøver",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-22"
-    },
-    {
-      "id": "b4b3ad27-d27f-4909-b7ff-2c7717959ce1",
-      "butikk": "Komplett Club",
-      "beskriving": "15% rabatt på grilltilbehør",
-      "kode": "CLUB15",
-      "utløper": "2024-04-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-22"
-    },
-    {
       "id": "bcced33d-f924-49f4-a3be-6843a31f637a",
       "butikk": "Komplett Club",
       "beskriving": "Spar 500,- på Austin and Barbeque AABQ Classic 4+1B gassgrill",
@@ -1422,6 +1368,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-22"
+    },
+    {
+      "id": "157b9afc-306d-4d6c-9795-99bc38d0fb5e",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Babydyne til særpris 600 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-23"
+    },
+    {
+      "id": "50b210d2-0e65-4d49-b618-83c147f10ef6",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Juniordyne til særpris 850 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-23"
+    },
+    {
+      "id": "5ed46952-40e5-4d3f-b539-0675a1319ed0",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "40-50% på bordtekstiler og kjøkkenvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-23"
+    },
+    {
+      "id": "741feb3c-cbf1-4197-b020-5d12bde35412",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 68% på Samsung-tilbud hos Elkjøp Alna og Lørenskog.",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-23"
+    },
+    {
+      "id": "51d9f518-9efd-4ec8-b31c-b5c8b1aa08da",
+      "butikk": "IKEA Family",
+      "beskriving": "Bollemiddag til under hundrelappen",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-23"
+    },
+    {
+      "id": "3c2d9d79-2314-43ee-93e3-6e997e2a50a8",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. runde Herringbone dekkebrikker til særpris (220 DKK, førpris 290 DKK). Velg mellom åtte farger.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-23"
     }
   ]
 }
