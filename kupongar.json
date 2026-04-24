@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-23",
+  "oppdatert": "2026-04-24",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1397,24 +1397,6 @@
       "lagt_til": "2026-04-23"
     },
     {
-      "id": "741feb3c-cbf1-4197-b020-5d12bde35412",
-      "butikk": "Elkjøp",
-      "beskriving": "Spar opptil 68% på Samsung-tilbud hos Elkjøp Alna og Lørenskog.",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-23"
-    },
-    {
-      "id": "51d9f518-9efd-4ec8-b31c-b5c8b1aa08da",
-      "butikk": "IKEA Family",
-      "beskriving": "Bollemiddag til under hundrelappen",
-      "kode": null,
-      "utløper": "2024-04-25",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-23"
-    },
-    {
       "id": "3c2d9d79-2314-43ee-93e3-6e997e2a50a8",
       "butikk": "Georg Jensen Damask",
       "beskriving": "2 stk. runde Herringbone dekkebrikker til særpris (220 DKK, førpris 290 DKK). Velg mellom åtte farger.",
@@ -1422,6 +1404,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-23"
+    },
+    {
+      "id": "29df15a5-0848-4b07-a105-d9b6e2026d3b",
+      "butikk": "Komplett Club",
+      "beskriving": "2 for 1 på headset fra Sony",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
+    },
+    {
+      "id": "7dd21eee-be08-490f-9d41-bc051df8aba7",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 4899,- på Samsung Galaxy S26 256GB (black), med vegglader inkludert. Nå: 8490,-.",
+      "kode": null,
+      "utløper": "2024-04-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
+    },
+    {
+      "id": "fe941239-058b-47db-a6a7-98f01e066e5f",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Babydyne (dyne til baby) til særpris 600 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
+    },
+    {
+      "id": "e54cfc21-2beb-4eed-9ed0-4d2b9937b723",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Juniordyne (dyne til junior) til særpris 850 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
+    },
+    {
+      "id": "6f05d49d-84e0-4df4-8350-c5dbb7f3643d",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalg med ekstra gode priser på et begrenset antall varer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
+    },
+    {
+      "id": "da27f056-f0f1-4e7c-a207-740cabc52674",
+      "butikk": "Kid",
+      "beskriving": "40-50% på bordtekstiler og kjøkkenvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
+    },
+    {
+      "id": "9c516d3d-6158-4572-9114-24f6d5827bc8",
+      "butikk": "Elkjøp Alna og Lørenskog",
+      "beskriving": "Spar opptil 68% på Samsung-tilbud. Kun i butikk.",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
+    },
+    {
+      "id": "8eba2c67-10f0-455f-8d4d-f7f4ed2e324a",
+      "butikk": "IKEA",
+      "beskriving": "Bollemiddag til under 100 kr",
+      "kode": null,
+      "utløper": "2024-04-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-24"
     }
   ]
 }
