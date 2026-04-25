@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-24",
+  "oppdatert": "2026-04-25",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1415,15 +1415,6 @@
       "lagt_til": "2026-04-24"
     },
     {
-      "id": "7dd21eee-be08-490f-9d41-bc051df8aba7",
-      "butikk": "Komplett Club",
-      "beskriving": "Spar 4899,- på Samsung Galaxy S26 256GB (black), med vegglader inkludert. Nå: 8490,-.",
-      "kode": null,
-      "utløper": "2024-04-26",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-24"
-    },
-    {
       "id": "fe941239-058b-47db-a6a7-98f01e066e5f",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Babydyne (dyne til baby) til særpris 600 DKK",
@@ -1460,22 +1451,238 @@
       "lagt_til": "2026-04-24"
     },
     {
-      "id": "9c516d3d-6158-4572-9114-24f6d5827bc8",
-      "butikk": "Elkjøp Alna og Lørenskog",
-      "beskriving": "Spar opptil 68% på Samsung-tilbud. Kun i butikk.",
+      "id": "40333d2f-2bbb-4061-8002-be1dcb1fa701",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Solid badelagner til særpris. Førpris 780 DKK, no 365 DKK.",
       "kode": null,
-      "utløper": "2024-04-25",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-04-24"
+      "lagt_til": "2026-04-25"
     },
     {
-      "id": "8eba2c67-10f0-455f-8d4d-f7f4ed2e324a",
-      "butikk": "IKEA",
-      "beskriving": "Bollemiddag til under 100 kr",
+      "id": "6fa582f1-b392-4628-aa15-c26af90f1ea3",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% rabatt på pynt og dekor",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "27b88724-d461-4545-9f12-abe32adfdaad",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 4899,- på Samsung Galaxy S26 256GB (black) med vegglader inkludert. Nå 8490,-.",
+      "kode": null,
+      "utløper": "2024-04-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "cb8f082d-71a7-4b6f-b550-6abcb651dc67",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Dundyner til barn (baby og junior) til særpris. Babydyne 600 DKK, Juniordyne 850 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "42cc3ff3-e7a9-4c67-bbbc-b128256a0e81",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalg med ekstra gode priser",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "d82582e4-9a1d-4bdb-8c9a-669eed6102f4",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Kjøp 3, betal for 2 på alle batterier",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "5dd82548-cfff-457b-bd72-362ced0d960f",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Kärcher",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "bb41cedf-e9b8-479f-9d9b-5f998486d639",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Ryobi",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "38b7f824-85e0-4182-828a-8ae453da0527",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Gardena",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "fbdc1c39-b85f-4951-b7b7-6720f92760bb",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Fiskars",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "29dc1989-730f-489b-8dbf-b7c5a8b172f5",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Bosch",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "1a67e82e-c504-4e18-a673-4be54114e444",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Philips Hue",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "ab1dc143-a164-49ce-91e0-29518dc6c561",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Nordsjø",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "d8d3d647-7d6c-4607-9ad9-69d04cb0ee05",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Jotun",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "abe9f28e-d3e1-4511-87fb-03daae07e6ed",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Beckers",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "1d338e63-e881-4c64-ae12-26d56cf4bf04",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Anza",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "1328987d-a873-41b1-8366-8e8c24477913",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Jordan",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "a9c14d78-bcdb-4fa5-b744-ed59fe814baa",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Essve",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "c551db15-4936-4784-8002-a8d887b5d9ed",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Tesa",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "18d2a21d-713d-4d98-9162-1cd78a2ed570",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra 3M",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "e48e44ad-b2b3-40f8-8e55-9eb8150d3c78",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Pattex",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "4f97f394-a94b-4a1e-8bfa-28bf01d45809",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Loctite",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "d6715865-4bac-4a96-b3bd-fcafe6e1459c",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Casco",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "e57590f5-c697-4c44-b481-74c5af4dc0a1",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Tec7",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "b0f876df-95b1-4f93-93cd-444370516d4e",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Sika",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-25"
+    },
+    {
+      "id": "e6feab8d-03ca-46db-a843-a549257719b8",
+      "butikk": "Elkjøp Alna og Lørenskog",
+      "beskriving": "Spar opptil 68% på Samsung-produkter",
       "kode": null,
       "utløper": "2024-04-25",
       "kjelde": "epost",
-      "lagt_til": "2026-04-24"
+      "lagt_til": "2026-04-25"
     }
   ]
 }
