@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-26",
+  "oppdatert": "2026-04-27",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1514,15 +1514,6 @@
       "lagt_til": "2026-04-26"
     },
     {
-      "id": "7179e133-896a-46a0-a93f-fe2d95b3b77f",
-      "butikk": "Komplett Club",
-      "beskriving": "Spar 4899,- på Samsung Galaxy S26 (256GB, black), med vegglader inkludert. Nå: 8490,-",
-      "kode": null,
-      "utløper": "2024-04-26",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-26"
-    },
-    {
       "id": "915105b2-fc73-42d8-84d6-ebe18cb22ff4",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Babydyne (dyne til børn) til særpris 600 DKK",
@@ -1629,6 +1620,96 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-26"
+    },
+    {
+      "id": "10929e6d-2f50-41b4-a0a1-8007ba664cd9",
+      "butikk": "IKEA Family",
+      "beskriving": "20% på alle sofaer",
+      "kode": null,
+      "utløper": "2026-05-10",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "421489df-6955-4b8e-a04e-7020d96e2003",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalg avsluttes snart",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "81b4d10f-52c5-4b10-af2b-dbf06e9c64f0",
+      "butikk": "Kid Interiør",
+      "beskriving": "2 for 1 på Birgitta sengesett (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "6d4e84be-52de-457c-b0e8-6479cd4e8721",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Særpris på patenterte fiberhovedpuder. Førpris frå 790 DKK, no 490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "c25c8cb5-1758-4299-84af-a65b950244c4",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Solid badelagner for 365 DKK (førpris 780 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "a84d58fa-f9c4-4ac0-9c7b-cb572912b5b9",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% rabatt på pynt og dekor",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "bc37ca2d-39c7-44c5-ad22-32765473fd11",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 4899,- på Samsung Galaxy S26 (256GB, black) med vegglader inkludert",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "459cb8f5-e606-433a-bdb0-3cc9b0287efc",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Babydyne (andedun) til særpris 600 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "8bec5775-0b19-44e6-a92c-654ff7666c9e",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Juniordyne (andedun) til særpris 850 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "a92e478c-b6f2-450a-ae92-5cbc64f9195f",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalg med ekstra gode priser på et begrenset antall varer. Førstemann til mølla.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-27"
     }
   ]
 }
