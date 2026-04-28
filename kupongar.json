@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-27",
+  "oppdatert": "2026-04-28",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1710,6 +1710,114 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-27"
+    },
+    {
+      "id": "1425125b-e076-471b-bf6a-76f7a4f9fc52",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt ved kjøp av minst 2 produkter i nettbutikken",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "a9bc01de-d1ff-4427-9024-a0ee3304f4fd",
+      "butikk": "Strawberry",
+      "beskriving": "Opptil 25% rabatt på hotellopphold i Norden",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "761e889b-4bec-44b1-b83d-ffee6c9453fa",
+      "butikk": "IKEA Family",
+      "beskriving": "20% rabatt på alle sofaer",
+      "kode": null,
+      "utløper": "2026-05-10",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "3365e3f9-13bf-495a-911f-0d48989cd617",
+      "butikk": "Elkjøp",
+      "beskriving": "Siste sjanse på ryddesalget",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "6a0ac52b-ed37-4f5d-8620-f9b131381346",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på Birgitta sengesett",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "52206842-be9e-4111-b26c-c5df06aa4e2b",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Få -20 % ved kjøp av minst 2 produkter i nettbutikken",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "b85547de-79ec-4577-8b44-c8998c0160f7",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Patenterede fiberpuder til s490 DKK (førpris frå 790 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "1abdbc56-09c0-4e8e-96aa-d6277ba48842",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Solid badelagner til særpris: 365 DKK (førpris 780 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "a1bd5af7-68cc-44c8-a2fd-8a72e30d1be9",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 4899,- på Samsung Galaxy S26 256GB (black) inkludert vegglader",
+      "kode": null,
+      "utløper": "2024-04-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "e8729d04-5e8b-453a-8d55-3eaaf202fd3b",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Babydyne (dundyne) til s600 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "7d62905f-53fc-4f34-ac5b-e4a681a1eae2",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Juniordyne (dundyne) til særpris 850 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "61e058ce-d2c7-4aa1-a0cd-cf7570f95ac8",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalg med ekstra gode priser på et begrenset antall varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-28"
     }
   ]
 }
