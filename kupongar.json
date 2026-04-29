@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-28",
+  "oppdatert": "2026-04-29",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1784,15 +1784,6 @@
       "lagt_til": "2026-04-28"
     },
     {
-      "id": "a1bd5af7-68cc-44c8-a2fd-8a72e30d1be9",
-      "butikk": "Komplett Club",
-      "beskriving": "Spar 4899,- på Samsung Galaxy S26 256GB (black) inkludert vegglader",
-      "kode": null,
-      "utløper": "2024-04-26",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-28"
-    },
-    {
       "id": "e8729d04-5e8b-453a-8d55-3eaaf202fd3b",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Babydyne (dundyne) til s600 DKK",
@@ -1818,6 +1809,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-28"
+    },
+    {
+      "id": "b4c1f545-0a15-4951-a6d1-e60303f14b0e",
+      "butikk": "Komplett Club",
+      "beskriving": "Opp til 50% rabatt på AVA Master høytrykkspyler og Ooni pizzaovn.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "42e525e0-8774-4bfd-9aea-b491c2357145",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 2 398,- på Ooni Koda 2 Pro 30mBar pizzaovn (sort) + termometer. Nå: 5 990,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "4dcb9dec-9f90-4f44-844b-fb7a5a546a1f",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger er tilgjengelige for aktivering",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "a6912d32-904d-4b33-9e4d-d709d258bdba",
+      "butikk": "Obs BYGG",
+      "beskriving": "Unike tilbud og mulighet til å vinne premier (verdi kr 13 000) under Live Shopping event om grillnyheter og pizzaovner.",
+      "kode": null,
+      "utløper": "2026-04-29",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "c2a40853-3ed7-4855-bddd-2e225a8a5d17",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på pynt, dekor og kurver",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "3e1003b8-45fd-4799-9d4f-91e255c69f9c",
+      "butikk": "Strawberry",
+      "beskriving": "Bruk 10364 Spenn for å booke en Superdeal med hotellovernattinger til svært gode priser.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "7d6d5be7-404e-40e7-97a4-a9692b59a9e9",
+      "butikk": "Kid",
+      "beskriving": "Ukens medlemstilbud: 2 for 1 på Birgitta sengesett",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "da47388a-dd15-46d3-9b4e-6d472dfeae72",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Særpris på patenterte fiberhovedpuder. Førpris fra 790 DKK, nå 490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "efeb0b19-730f-471a-b9a7-5c019d2329a4",
+      "butikk": "Kid",
+      "beskriving": "Pynt og dekor 50%",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-29"
     }
   ]
 }
