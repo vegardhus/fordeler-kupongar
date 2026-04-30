@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-29",
+  "oppdatert": "2026-04-30",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1838,15 +1838,6 @@
       "lagt_til": "2026-04-29"
     },
     {
-      "id": "a6912d32-904d-4b33-9e4d-d709d258bdba",
-      "butikk": "Obs BYGG",
-      "beskriving": "Unike tilbud og mulighet til å vinne premier (verdi kr 13 000) under Live Shopping event om grillnyheter og pizzaovner.",
-      "kode": null,
-      "utløper": "2026-04-29",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-29"
-    },
-    {
       "id": "c2a40853-3ed7-4855-bddd-2e225a8a5d17",
       "butikk": "Kid interiørklubb",
       "beskriving": "50% på pynt, dekor og kurver",
@@ -1890,6 +1881,96 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-29"
+    },
+    {
+      "id": "2d40da3f-c943-4f4b-b970-866ba8837505",
+      "butikk": "Komplett Club",
+      "beskriving": "10% rabatt på alle demovarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "a2c4dc3e-0f19-4531-9eba-e69132d06d06",
+      "butikk": "Komplett Club",
+      "beskriving": "Eksklusive tilbud for CLUB-medlemmer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "17cbe33b-68fe-43ca-8987-3e93045535ac",
+      "butikk": "Komplett Club",
+      "beskriving": "Fri frakt på alle kjøp for Club-medlemmer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "2691824e-d91c-4cc0-a8f9-b7922fe6cf2f",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 50% på utvalgte hvitevarer fra Electrolux og AEG",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "d73d59fd-d92e-4314-8d7c-777f09f95c66",
+      "butikk": "Barnas Hus",
+      "beskriving": "-20% på sykler og uteleker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "8c41d7f4-1f41-48d4-8064-3222b4472aa7",
+      "butikk": "Komplett Club",
+      "beskriving": "Opp til 50% rabatt på pizzaovner (Ooni) og høytrykkspylere (AVA Master).",
+      "kode": null,
+      "utløper": "2024-05-03",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "a3c55633-30f0-47b2-8744-014590801601",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 2398,- på Ooni Koda 2 Pro 30mBar pizzaovn (sort) + termometer.",
+      "kode": null,
+      "utløper": "2024-05-03",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "9c52386e-7e9b-4213-954f-44952c7003e9",
+      "butikk": "IKEA",
+      "beskriving": "STOCKHOLM 2025 3-seters sofa til 13.595,- (vanlig pris 16.995,-)",
+      "kode": null,
+      "utløper": "2026-05-10",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "f2308e58-ce80-49ee-a708-cc15a8e20567",
+      "butikk": "IKEA",
+      "beskriving": "20% rabatt på alle sofaer",
+      "kode": null,
+      "utløper": "2026-05-10",
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "17bf3c11-5a16-4e9f-9c0f-6ac37cbef66e",
+      "butikk": "Strawberry",
+      "beskriving": "Book hotellovernattinger til svært gode priser (Superdeal) ved å bruke dine 10364 Spenn.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-04-30"
     }
   ]
 }
