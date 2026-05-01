@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-04-30",
+  "oppdatert": "2026-05-01",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1928,24 +1928,6 @@
       "lagt_til": "2026-04-30"
     },
     {
-      "id": "8c41d7f4-1f41-48d4-8064-3222b4472aa7",
-      "butikk": "Komplett Club",
-      "beskriving": "Opp til 50% rabatt på pizzaovner (Ooni) og høytrykkspylere (AVA Master).",
-      "kode": null,
-      "utløper": "2024-05-03",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-30"
-    },
-    {
-      "id": "a3c55633-30f0-47b2-8744-014590801601",
-      "butikk": "Komplett Club",
-      "beskriving": "Spar 2398,- på Ooni Koda 2 Pro 30mBar pizzaovn (sort) + termometer.",
-      "kode": null,
-      "utløper": "2024-05-03",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-30"
-    },
-    {
       "id": "9c52386e-7e9b-4213-954f-44952c7003e9",
       "butikk": "IKEA",
       "beskriving": "STOCKHOLM 2025 3-seters sofa til 13.595,- (vanlig pris 16.995,-)",
@@ -1971,6 +1953,114 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-04-30"
+    },
+    {
+      "id": "0b1ff457-d2b3-4d6f-b230-a02e62d087b7",
+      "butikk": "Obs",
+      "beskriving": "Maikupp med flere nettkupp",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "abacab0c-2871-42ce-8ef3-5dfc2f5d28ea",
+      "butikk": "Spenn / Strawberry",
+      "beskriving": "Delta i Strawberry resortquiz for å vinne 5000 Spenn som kan brukes på hotell hos Strawberry, flyreiser eller opplevelser.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "49db645a-27df-44c4-83ac-6bf5724e20ec",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20% rabatt på nesten alle varer (gjelder ikke Lillerød og allerede nedsatte varer)",
+      "kode": null,
+      "utløper": "2020-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "34934e9e-dbe4-40ef-8df2-693847d4edae",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gratis tote bag ved alle kjøp",
+      "kode": null,
+      "utløper": "2020-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "86c2c01a-72e1-467f-98a4-7bb047d468e3",
+      "butikk": "Komplett Club",
+      "beskriving": "Opp til 50% rabatt på pizzaovn og høytrykkspyler fra AVA Master og Ooni",
+      "kode": null,
+      "utløper": "2020-05-03",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "2cda3ac4-aa99-40c1-8b84-703b3dbbd285",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 2 398,- på utvalgte produkter (f.eks. Ooni Koda 2 Pro pizzaovn)",
+      "kode": null,
+      "utløper": "2020-05-03",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "177dd46e-6cd1-49bb-8caf-7afa7b6de33f",
+      "butikk": "Komplett Club",
+      "beskriving": "Ooni Koda 2 Pro 30mBar pizzaovn (sort) + termometer til 5 990,-",
+      "kode": null,
+      "utløper": "2020-05-03",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "f3d4838f-a94d-4048-8671-7d5911420800",
+      "butikk": "Komplett Club",
+      "beskriving": "Ukens tilbud (se lenke for detaljer)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "02651773-b123-4cb1-9b23-cbb8a5086702",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming deals (se lenke for detaljer)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "e8bcbefb-7829-4a9e-9a67-e1672ecb8e09",
+      "butikk": "Kid",
+      "beskriving": "50% på pynt, dekor og kurver",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "52548840-a27e-4fda-8a7c-6eb580790559",
+      "butikk": "Elkjøp",
+      "beskriving": "Ryddesalget avsluttes snart",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "d57306ac-68f7-41f1-a594-17d5d35d9c91",
+      "butikk": "Strawberry",
+      "beskriving": "Book hotellovernattinger til svært gode priser med en Superdeal, ved å bruke dine 10364 Spenn (lojalitetspoeng).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-01"
     }
   ]
 }
