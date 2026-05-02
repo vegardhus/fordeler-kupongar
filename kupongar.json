@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-01",
+  "oppdatert": "2026-05-02",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1973,51 +1973,6 @@
       "lagt_til": "2026-05-01"
     },
     {
-      "id": "49db645a-27df-44c4-83ac-6bf5724e20ec",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "20% rabatt på nesten alle varer (gjelder ikke Lillerød og allerede nedsatte varer)",
-      "kode": null,
-      "utløper": "2020-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-01"
-    },
-    {
-      "id": "34934e9e-dbe4-40ef-8df2-693847d4edae",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Gratis tote bag ved alle kjøp",
-      "kode": null,
-      "utløper": "2020-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-01"
-    },
-    {
-      "id": "86c2c01a-72e1-467f-98a4-7bb047d468e3",
-      "butikk": "Komplett Club",
-      "beskriving": "Opp til 50% rabatt på pizzaovn og høytrykkspyler fra AVA Master og Ooni",
-      "kode": null,
-      "utløper": "2020-05-03",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-01"
-    },
-    {
-      "id": "2cda3ac4-aa99-40c1-8b84-703b3dbbd285",
-      "butikk": "Komplett Club",
-      "beskriving": "Spar 2 398,- på utvalgte produkter (f.eks. Ooni Koda 2 Pro pizzaovn)",
-      "kode": null,
-      "utløper": "2020-05-03",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-01"
-    },
-    {
-      "id": "177dd46e-6cd1-49bb-8caf-7afa7b6de33f",
-      "butikk": "Komplett Club",
-      "beskriving": "Ooni Koda 2 Pro 30mBar pizzaovn (sort) + termometer til 5 990,-",
-      "kode": null,
-      "utløper": "2020-05-03",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-01"
-    },
-    {
       "id": "f3d4838f-a94d-4048-8671-7d5911420800",
       "butikk": "Komplett Club",
       "beskriving": "Ukens tilbud (se lenke for detaljer)",
@@ -2061,6 +2016,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-01"
+    },
+    {
+      "id": "106179d9-889f-440b-bbf0-8544dcd0564f",
+      "butikk": "Barnas Hus",
+      "beskriving": "20% rabatt på alt fra Reima",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-02"
+    },
+    {
+      "id": "3ff2fee7-6e34-400c-9d66-3ec9e293d366",
+      "butikk": "Kid interiør",
+      "beskriving": "2 for 1 på all solskjerming",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-02"
+    },
+    {
+      "id": "e8c011da-d9db-40ae-91b9-0e92b6bdcd25",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Classic Lines sengetøj (satinvævet i 100% bomuld) til kampagnepris fra 700 DKK. Vælg mellem Silver Sage eller Platinum Grey.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-02"
+    },
+    {
+      "id": "219903e0-dedb-47de-83ca-a4c1dab80cbf",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20% på alt (gælder ikke Lillerød og i forvejen nedsatte varer). Få også en gratis tote bag med ved alle køb.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-02"
+    },
+    {
+      "id": "6f60c4c6-c83b-4707-b9b4-f9b5d5b58457",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20 % rabatt på alt (gjelder ikke Lillerød og allerede nedsatte varer)",
+      "kode": null,
+      "utløper": "2020-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-02"
+    },
+    {
+      "id": "eff37fbf-20aa-405e-a809-0b82a674af92",
+      "butikk": "Komplett Club",
+      "beskriving": "Opp til 50% rabatt på utvalgte pizzaovner (Ooni) og høytrykkspylere (AVA Master). Eksempel: Ooni Koda 2 Pro pizzaovn + termometer for 5990,- (spar 2398,-). Tilbudet gjelder ut søndag 3. mai.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-02"
     }
   ]
 }
