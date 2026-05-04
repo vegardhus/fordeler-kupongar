@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-03",
+  "oppdatert": "2026-05-04",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2045,92 +2045,11 @@
       "lagt_til": "2026-05-02"
     },
     {
-      "id": "a5502a31-5c54-4417-af77-d8d96e849bdc",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Frottépakke med 2 gæstehåndklæder, 2 håndklæder og 2 badehåndklæder i Cool Grey eller Nutmeg for 740 DKK.",
-      "kode": null,
-      "utløper": "2024-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "12e4c058-c22d-4ab6-9d06-b36bc6331889",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Spar 20% på alt (gjelder ikke Lillerød og allerede nedsatte varer) og få en gratis tote bag ved alle kjøp.",
-      "kode": null,
-      "utløper": "2024-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "0587a96f-ecc2-4818-a22a-88fb3a3df892",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Classic Lines sengetøj (Silver Sage eller Platinum Grey) til kampagnepris fra 700 DKK.",
-      "kode": null,
-      "utløper": "2023-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "fdc15b38-63f6-4aeb-a65a-1085f37c6680",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Spar 20 % på alt (gælder ikke Lillerød og i forvejen nedsatte varer) og få en gratis tote bag ved alle køb.",
-      "kode": null,
-      "utløper": "2023-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "c785229d-484a-45d5-9071-45a586524f3f",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "20% rabatt på alt (gjelder ikke Lillerød og allerede nedsatte varer)",
-      "kode": null,
-      "utløper": "2020-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "1c01daf0-e04b-4815-a9ab-14468d2244c3",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Gratis tote bag ved alle kjøp",
-      "kode": null,
-      "utløper": "2020-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
       "id": "9c121867-348c-47c2-80b7-0cb5adc1ab76",
       "butikk": "Komplett Club",
       "beskriving": "Fri frakt på alle kjøp (gjelder billigste fraktmåte til fastlands-Norge)",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "2ba45120-0ddc-42b5-97b4-0cfa2137ca5b",
-      "butikk": "Komplett Club",
-      "beskriving": "Opp til 50% rabatt på kvalitetshøyttrykkspyler fra AVA Master og pizzaovn fra Ooni.",
-      "kode": null,
-      "utløper": "2024-05-03",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "838e87c8-4cae-4843-963a-31a242b03c0a",
-      "butikk": "Komplett Club",
-      "beskriving": "Spar 2 398,- på Ooni Koda 2 Pro 30mBar pizzaovn (sort) + termometer.",
-      "kode": null,
-      "utløper": "2024-05-03",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-03"
-    },
-    {
-      "id": "dd1f920a-c3e8-4fa2-b581-ac50557893f0",
-      "butikk": "Komplett Club",
-      "beskriving": "Ooni Koda 2 Pro 30mBar pizzaovn (sort) + termometer for 5 990,-.",
-      "kode": null,
-      "utløper": "2024-05-03",
       "kjelde": "epost",
       "lagt_til": "2026-05-03"
     },
@@ -2144,13 +2063,139 @@
       "lagt_til": "2026-05-03"
     },
     {
-      "id": "5c38d087-3c6e-4e65-b145-6a0792004015",
-      "butikk": "Obs BYGG",
-      "beskriving": "Unike tilbud og mulighet til å vinne premier for kr 13 000 under Live Shopping event om grillnyheter og pizzaovner.",
+      "id": "2bc1f335-1f98-4e23-81c5-35366d018339",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-30% på solcellebelysning (klubbpris)",
       "kode": null,
-      "utløper": "2026-04-29",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-05-03"
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "656bbd2e-4697-4967-a594-b78f3c7e1262",
+      "butikk": "Coop",
+      "beskriving": "Tilbud på alle flerpakninger fra Diplom-Is",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "5fee596a-cddd-4e3d-bb2b-214f2d6d0736",
+      "butikk": "Coop",
+      "beskriving": "Tilbud på sammenleggbar krakk",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "e42921cf-5601-4a34-a4cc-af97ba8de488",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20 % rabatt på alt (gjelder ikke Lillerød og allerede nedsatte varer)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "74c8f9fd-b366-47c7-b6f1-0e0681c7433a",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,- du handler for.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "be7ee9db-2253-4748-859f-fc22587e53e9",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på alle kjøkkenvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "0a8bddd8-052a-4274-a6f4-8c7f5618681e",
+      "butikk": "Kid",
+      "beskriving": "Halv pris på pynt og dekor",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "81a1b2c7-5e96-49c7-880e-6d05ce390b13",
+      "butikk": "Kid",
+      "beskriving": "Møbler og tepper 30-50%",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "c0b453f4-88ea-4afd-afc8-a83ab1850cd1",
+      "butikk": "Komplett.no",
+      "beskriving": "Få 200 poeng for hver godkjent produktanmeldelse (gjelder for CLUB-medlemmer eller ved innmelding).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "47994325-fcc1-4028-a0b4-f7e7285d9f4a",
+      "butikk": "Komplett.no",
+      "beskriving": "Tjen 1 poeng for hver krone brukt.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "684f2e7e-cb13-455f-b76a-0eb81ba8dcbc",
+      "butikk": "Komplett.no",
+      "beskriving": "Alltid fri frakt for Komplett Club-medlemmer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "085a5f7c-011f-479e-9ba7-a76495e4d85e",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20% på alt (gjelder ikke Lillerød og allerede nedsatte varer) og få en gratis tote bag med alle kjøp.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "e44ce0fe-6931-415a-a355-a42c0bb46ced",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Classic Lines sengetøj (satinvævet i 100 % bomuld) til kampagnepris fra 700 DKK. Vælg mellem farverne Silver Sage eller Platinum Grey.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "d818ac61-1849-4847-be08-afb1018595a6",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20 % på alt* (gælder ikke Lillerød og i forvejen nedsatte varer). Få også en gratis tote bag med ved alle køb.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
+    },
+    {
+      "id": "d102bc54-56aa-493c-9d34-f8f9e9c333b3",
+      "butikk": "Komplett Club",
+      "beskriving": "Fri frakt på alle kjøp (gjelder billigste fraktmåte til fastlands-Norge, ikke ekspresslevering)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-04"
     }
   ]
 }
