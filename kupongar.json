@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-05",
+  "oppdatert": "2026-05-06",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2171,15 +2171,6 @@
       "lagt_til": "2026-05-04"
     },
     {
-      "id": "7c099755-19a0-4425-90e2-218726f22bf1",
-      "butikk": "IKEA",
-      "beskriving": "30 % på alle vaser og bestikk",
-      "kode": null,
-      "utløper": "2024-05-17",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-05"
-    },
-    {
       "id": "c0439cf7-ba60-4f16-8570-c6dd4893d8c5",
       "butikk": "Norwegian",
       "beskriving": "Få 3x Spenn på alle ruter med Norwegian for reiser i perioden 05.05.26 - 30.08.26.",
@@ -2252,42 +2243,6 @@
       "lagt_til": "2026-05-05"
     },
     {
-      "id": "3c56da18-0fce-4e5b-89a4-1feb45e1f5ac",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Frottépakke med 2 gæstehåndklæder, 2 håndklæder og 2 badehåndklæder i Cool Grey eller Nutmeg til kampagnepris.",
-      "kode": null,
-      "utløper": "2024-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-05"
-    },
-    {
-      "id": "d496f6eb-66a7-487c-b186-f83fd3cbe5ea",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Spar 20 % på alt* (gælder ikke Lillerød og i forvejen nedsatte varer) og få en gratis tote bag med ved alle køb.",
-      "kode": null,
-      "utløper": "2024-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-05"
-    },
-    {
-      "id": "c6b5d203-6880-4b4b-bdf9-35987a5f2eb6",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Classic Lines sengetøj (satinvævet i 100% bomuld) til kampagnepris fra 700 DKK. Vælg mellem Silver Sage eller Platinum Grey.",
-      "kode": null,
-      "utløper": "2024-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-05"
-    },
-    {
-      "id": "cf372976-43e1-4eab-a890-9aeb9b5747cd",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Spar 20% på alt (gælder ikke Lillerød og i forvejen nedsatte varer). Få også en gratis tote bag med ved alle køb.",
-      "kode": null,
-      "utløper": "2024-05-04",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-05"
-    },
-    {
       "id": "d0664f33-8510-4176-8f11-c205f3ce7ae5",
       "butikk": "Strawberry",
       "beskriving": "Vinn 5000 Spenn ved å ta Strawberry resortquiz. Spenn kan brukast på hotell hos Strawberry, flyreiser eller opplevingar.",
@@ -2297,22 +2252,121 @@
       "lagt_til": "2026-05-05"
     },
     {
-      "id": "c15fd7a8-8ad5-44ce-adb3-59aa31bee0eb",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "20 % rabatt på nesten alle varer (gjelder ikke Lillerød og allerede nedsatte varer)",
+      "id": "7aa43151-de65-4168-bbbd-91819c4e3c05",
+      "butikk": "Barnas Hus",
+      "beskriving": "Spar 2500 kr på Bugaboo Fox 5",
       "kode": null,
-      "utløper": "2024-05-04",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-05-05"
+      "lagt_til": "2026-05-06"
     },
     {
-      "id": "00dc93d4-afd2-4ad4-a917-19fbfad357fb",
+      "id": "ec4138da-b794-46c8-843d-0ed4bf41209b",
+      "butikk": "Kid",
+      "beskriving": "Krepp sengesett fra 199,- (medlemspris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "10665d1e-cb4f-4555-a318-c13ff4042d75",
+      "butikk": "Kid",
+      "beskriving": "Eden sateng sengesett 2 for 899,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "e1616f30-baa3-486a-9a38-92f066f023bc",
+      "butikk": "IKEA Family",
+      "beskriving": "30 % rabatt på vaser og bestikk",
+      "kode": null,
+      "utløper": "2024-05-17",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "adc559dc-e893-44c7-b3f5-6246d49a3c05",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-30 % på solcellebelysning (klubbpris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "b6d248d2-bb55-4822-b868-0bd566006112",
       "butikk": "Georg Jensen Damask",
-      "beskriving": "Gratis tote bag ved alle kjøp",
+      "beskriving": "20 % rabatt på alt (gjelder ikke Lillerød og allerede nedsatte varer). Siste sjanse i dag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "25fbc77a-2263-47a6-aae8-95718cf4ecb7",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gratis tote bag ved alle kjøp. Siste sjanse i dag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "d0cb28f0-deff-4008-a2bd-680ea3d89aba",
+      "butikk": "Komplett.no",
+      "beskriving": "Få 200 poeng for hver godkjent produktanmeldelse (gjelder for CLUB-medlemmer).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "9e491439-abf9-4ead-a956-e8005b1468c8",
+      "butikk": "Komplett.no",
+      "beskriving": "Tjen 1 poeng for hver krone brukt (lojalitetsprogram for CLUB-medlemmer).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "051377e8-f050-43eb-846b-9dcd52402f4b",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Frottépakke med 2 gæstehåndklæder, 2 håndklæder og 2 badehåndklæder i farverne Cool Grey eller Nutmeg til kampagnepris.",
       "kode": null,
       "utløper": "2024-05-04",
       "kjelde": "epost",
-      "lagt_til": "2026-05-05"
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "6310a559-b6b7-4f6e-8f0f-c8261b6b0173",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20 % på alt (gælder ikke Lillerød og i forvejen nedsatte varer). Få også en gratis tote bag med ved alle køb.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "62f4ac17-4adc-4b73-ae53-4cca552504bd",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Classic Lines sengetøj (satinvævet i 100 % bomuld) til kampagnepris fra 700 DKK. Gælder farverne Silver Sage eller Platinum Grey.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
+    },
+    {
+      "id": "eb7bd26d-12d9-4860-9c93-194b62b431fe",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20 % på alt (gælder ikke Lillerød og i forvejen nedsatte varer). Få en gratis tote bag med ved alle køb.",
+      "kode": null,
+      "utløper": "2024-05-04",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-06"
     }
   ]
 }
