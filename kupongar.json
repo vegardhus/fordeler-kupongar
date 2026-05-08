@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-07",
+  "oppdatert": "2026-05-08",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2324,15 +2324,6 @@
       "lagt_til": "2026-05-06"
     },
     {
-      "id": "eb96d94a-1f74-44a7-b5d6-d7e66f0930ed",
-      "butikk": "IKEA",
-      "beskriving": "30 % på alle vaser og bestikk",
-      "kode": null,
-      "utløper": "2024-05-17",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-07"
-    },
-    {
       "id": "e053dca2-cdbe-4838-b128-7af625043f52",
       "butikk": "Elkjøp Lørenskog",
       "beskriving": "Crazy deals starter torsdag 06:00 i butikk",
@@ -2432,22 +2423,94 @@
       "lagt_til": "2026-05-07"
     },
     {
-      "id": "a22e3e23-a3c5-4d9e-9062-9ef354a73c68",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Spar 20 % på alt (gjelder ikke Lillerød og allerede nedsatte varer). Få en gratis tote bag med alle kjøp.",
+      "id": "fd9a2e34-69b2-457f-a92f-e0f580ce60b0",
+      "butikk": "Komplett.no",
+      "beskriving": "Over 50% rabatt på Roborock Saros 20 Sonic Complete. Nå 9 990,- (før 16 280,-).",
       "kode": null,
-      "utløper": "2024-05-04",
+      "utløper": "2020-05-10",
       "kjelde": "epost",
-      "lagt_til": "2026-05-07"
+      "lagt_til": "2026-05-08"
     },
     {
-      "id": "156f4c27-618e-4353-8859-b22dcb1cd75d",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Frottépakke med 2 gjestehåndklær, 2 håndklær og 2 badehåndklær i fargene Cool Grey eller Nutmeg for 740 DKK.",
+      "id": "95e970bd-d376-496c-9d8d-9ae5c523b3f1",
+      "butikk": "Komplett.no",
+      "beskriving": "Over 50% rabatt på Kärcher K 3 Horizontal høytrykkspyler. Nå 890,- (før 1 490,-).",
       "kode": null,
-      "utløper": "2024-05-04",
+      "utløper": "2020-05-10",
       "kjelde": "epost",
-      "lagt_til": "2026-05-07"
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "5ad179ba-d1db-43b9-b67f-5e6714ba4537",
+      "butikk": "IKEA",
+      "beskriving": "30 % på vaser og bestikk",
+      "kode": null,
+      "utløper": "2024-05-17",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "b9390fc0-6910-4fb0-ac86-09c55d7d5a41",
+      "butikk": "Norwegian (via Spenn)",
+      "beskriving": "Få 3x Spenn på alle flyreiser med Norwegian. Gjelder for reiser i perioden 05.05.26 - 30.08.26.",
+      "kode": "SUPERSPENN",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "9044ec63-1edc-4883-ad29-d4087c32df37",
+      "butikk": "Coop",
+      "beskriving": "Alle flerpakninger fra Diplom-Is",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "2a31a66e-abcb-4f28-aefd-6c55c58892a0",
+      "butikk": "Coop",
+      "beskriving": "Sammenleggbar krakk",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "f85ec08c-33fb-42bc-b6b7-b001cf13d74a",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20% rabatt på alt (gjelder ikke Lillerød og allerede nedsatte varer). Siste sjanse i dag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "06d7e2a2-8a8a-42ba-a74d-605ce507a350",
+      "butikk": "Komplett.no",
+      "beskriving": "Få 200 poeng for hver godkjent produktanmeldelse (for CLUB-medlemmer).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "9397a368-5832-469d-8adb-b8caf8ce2b97",
+      "butikk": "Komplett.no",
+      "beskriving": "Tjen 1 poeng for hver krone brukt (for CLUB-medlemmer).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
+    },
+    {
+      "id": "b964a24d-7d20-48eb-bd87-9d2b6d67e645",
+      "butikk": "Komplett.no",
+      "beskriving": "Alltid fri frakt for CLUB-medlemmer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-08"
     }
   ]
 }
