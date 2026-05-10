@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-09",
+  "oppdatert": "2026-05-10",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2495,33 +2495,6 @@
       "lagt_til": "2026-05-09"
     },
     {
-      "id": "0a4984ed-906b-42cc-8c4d-879db0901e3f",
-      "butikk": "Komplett.no",
-      "beskriving": "Over 50% rabatt på Roborock Saros 20 Sonic Complete (nå 9 990,-, før 16 280,-)",
-      "kode": null,
-      "utløper": "2020-05-10",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-09"
-    },
-    {
-      "id": "1b04f893-198e-4c82-9971-34a309a81da5",
-      "butikk": "Komplett.no",
-      "beskriving": "Spar over 50% på Kärcher K 3 Horizontal høytrykkspyler (nå 890,-, før 1 490,-)",
-      "kode": null,
-      "utløper": "2020-05-10",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-09"
-    },
-    {
-      "id": "fece5dc1-cd8a-4884-85a3-37d4b9353061",
-      "butikk": "IKEA",
-      "beskriving": "30 % på alle vaser og bestikk",
-      "kode": null,
-      "utløper": "2024-05-17",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-09"
-    },
-    {
       "id": "044f7cbf-11be-4152-a0db-e62a043e6eb3",
       "butikk": "Norwegian",
       "beskriving": "Få 3x Spenn på alle ruter med Norwegian. Reiseperiode: 05.05.26 - 30.08.26.",
@@ -2574,6 +2547,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-09"
+    },
+    {
+      "id": "a5051f32-3554-4443-a3aa-4d7f89b4347a",
+      "butikk": "Barnas Hus",
+      "beskriving": "-25% på mange kjente merker. Kun i dag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "7428063d-75e7-4e13-9fc4-b6face140a4d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sommerdyne (andedunsdyne) til særpris. Førpris frå 1.750 DKK, no frå 990 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "659f12d0-b036-420b-bcba-dfbd20dfd993",
+      "butikk": "Komplett.no",
+      "beskriving": "Roborock Saros 20 Sonic Complete til 9 990,- (før 16 280,-), spar over 50%",
+      "kode": null,
+      "utløper": "2024-05-10",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "a89e4533-3384-4311-9a94-5bb83c0007ca",
+      "butikk": "Komplett.no",
+      "beskriving": "Kärcher K 3 Horizontal høytrykkspyler til 890,- (før 1 490,-), spar over 50%",
+      "kode": null,
+      "utløper": "2024-05-10",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "57ac2c70-8964-4c53-8af4-4a8c27e886c9",
+      "butikk": "Kid Interiør",
+      "beskriving": "Krepp sengesett fra 199,- (medlemspris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "1a990781-3a59-40b3-aa55-11b7e4abeac9",
+      "butikk": "Kid Interiør",
+      "beskriving": "Eden sateng sengesett 2 for 899,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "afadc04b-f81e-4512-b9f8-0e5a519b6466",
+      "butikk": "IKEA Family",
+      "beskriving": "30 % på vaser og bestikk",
+      "kode": null,
+      "utløper": "2024-05-17",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "0f2a822c-62a3-4f34-b3b0-b28404f0f83b",
+      "butikk": "Norwegian",
+      "beskriving": "3x Spenn på alle flyruter. Gjelder reiser i perioden 05.05.26 - 30.08.26.",
+      "kode": "SUPERSPENN",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "77c44935-a8de-4ce0-84fe-21069246aacc",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20% rabatt på alt (unntatt Lillerød og allerede nedsatte varer). Gjelder så lenge lageret rekker.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-10"
     }
   ]
 }
