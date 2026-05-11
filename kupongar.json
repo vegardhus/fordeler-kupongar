@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-10",
+  "oppdatert": "2026-05-11",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -1622,15 +1622,6 @@
       "lagt_til": "2026-04-26"
     },
     {
-      "id": "10929e6d-2f50-41b4-a0a1-8007ba664cd9",
-      "butikk": "IKEA Family",
-      "beskriving": "20% på alle sofaer",
-      "kode": null,
-      "utløper": "2026-05-10",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-27"
-    },
-    {
       "id": "421489df-6955-4b8e-a04e-7020d96e2003",
       "butikk": "Elkjøp",
       "beskriving": "Ryddesalg avsluttes snart",
@@ -1726,15 +1717,6 @@
       "beskriving": "Opptil 25% rabatt på hotellopphold i Norden",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-04-28"
-    },
-    {
-      "id": "761e889b-4bec-44b1-b83d-ffee6c9453fa",
-      "butikk": "IKEA Family",
-      "beskriving": "20% rabatt på alle sofaer",
-      "kode": null,
-      "utløper": "2026-05-10",
       "kjelde": "epost",
       "lagt_til": "2026-04-28"
     },
@@ -1924,24 +1906,6 @@
       "beskriving": "-20% på sykler og uteleker",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-04-30"
-    },
-    {
-      "id": "9c52386e-7e9b-4213-954f-44952c7003e9",
-      "butikk": "IKEA",
-      "beskriving": "STOCKHOLM 2025 3-seters sofa til 13.595,- (vanlig pris 16.995,-)",
-      "kode": null,
-      "utløper": "2026-05-10",
-      "kjelde": "epost",
-      "lagt_til": "2026-04-30"
-    },
-    {
-      "id": "f2308e58-ce80-49ee-a708-cc15a8e20567",
-      "butikk": "IKEA",
-      "beskriving": "20% rabatt på alle sofaer",
-      "kode": null,
-      "utløper": "2026-05-10",
       "kjelde": "epost",
       "lagt_til": "2026-04-30"
     },
@@ -2567,24 +2531,6 @@
       "lagt_til": "2026-05-10"
     },
     {
-      "id": "659f12d0-b036-420b-bcba-dfbd20dfd993",
-      "butikk": "Komplett.no",
-      "beskriving": "Roborock Saros 20 Sonic Complete til 9 990,- (før 16 280,-), spar over 50%",
-      "kode": null,
-      "utløper": "2024-05-10",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-10"
-    },
-    {
-      "id": "a89e4533-3384-4311-9a94-5bb83c0007ca",
-      "butikk": "Komplett.no",
-      "beskriving": "Kärcher K 3 Horizontal høytrykkspyler til 890,- (før 1 490,-), spar over 50%",
-      "kode": null,
-      "utløper": "2024-05-10",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-10"
-    },
-    {
       "id": "57ac2c70-8964-4c53-8af4-4a8c27e886c9",
       "butikk": "Kid Interiør",
       "beskriving": "Krepp sengesett fra 199,- (medlemspris)",
@@ -2599,15 +2545,6 @@
       "beskriving": "Eden sateng sengesett 2 for 899,-",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-05-10"
-    },
-    {
-      "id": "afadc04b-f81e-4512-b9f8-0e5a519b6466",
-      "butikk": "IKEA Family",
-      "beskriving": "30 % på vaser og bestikk",
-      "kode": null,
-      "utløper": "2024-05-17",
       "kjelde": "epost",
       "lagt_til": "2026-05-10"
     },
@@ -2628,6 +2565,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-10"
+    },
+    {
+      "id": "aa846c85-2514-429c-b412-5164ce9cab28",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-15 % når du kjøper minst to varer i nettbutikken",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-11"
+    },
+    {
+      "id": "b87b2947-7dcd-404e-9855-5512230cb765",
+      "butikk": "Kid interiør",
+      "beskriving": "50% på alle varer ved kjøp av tre eller flere (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-11"
+    },
+    {
+      "id": "919cb661-da3e-43e4-b335-ed6725623022",
+      "butikk": "Barnas Hus",
+      "beskriving": "-25% på mange kjente merker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-11"
+    },
+    {
+      "id": "3112db47-cb9d-4585-9a3c-1c702fe944e4",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sommerdyne til særpris. Førpris fra 1.750 DKK, nu fra 990 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-11"
+    },
+    {
+      "id": "87e7e4bf-7942-4520-a922-a02d289a51fe",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "30% på senger, sengegavler, sengebenker og madrasser",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-11"
     }
   ]
 }
