@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-11",
+  "oppdatert": "2026-05-12",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2610,6 +2610,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-11"
+    },
+    {
+      "id": "d5198626-1520-412f-8df8-4e1f471d3507",
+      "butikk": "IKEA",
+      "beskriving": "20% rabatt på utendørs sofagrupper",
+      "kode": null,
+      "utløper": "2024-06-07",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-12"
+    },
+    {
+      "id": "b2596633-5687-40d4-99b0-fa0145131507",
+      "butikk": "Strawberry",
+      "beskriving": "Fast pris på hotellnetter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-12"
+    },
+    {
+      "id": "5d03a8b2-9322-4630-9f12-fdffe5d98bd4",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Linen Melange plaid (50% bomuld, 50% hør). Normalpris 990 DKK, nå 390 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-12"
+    },
+    {
+      "id": "44290d98-7b22-488f-bf14-db912a15eed3",
+      "butikk": "Barnas Hus",
+      "beskriving": "Festdrakter kun 349,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-12"
+    },
+    {
+      "id": "7e99c874-c34e-467c-9a98-d16044b5a883",
+      "butikk": "Clas Ohlson",
+      "beskriving": "-15 % når du kjøper minst to varer i nettbutikken",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-12"
+    },
+    {
+      "id": "cba96b82-374b-42b7-80c6-99473fd0fc4f",
+      "butikk": "Kid",
+      "beskriving": "50% på alle varer ved kjøp av tre eller flere (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-12"
     }
   ]
 }
