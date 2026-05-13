@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-12",
+  "oppdatert": "2026-05-13",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2612,15 +2612,6 @@
       "lagt_til": "2026-05-11"
     },
     {
-      "id": "d5198626-1520-412f-8df8-4e1f471d3507",
-      "butikk": "IKEA",
-      "beskriving": "20% rabatt på utendørs sofagrupper",
-      "kode": null,
-      "utløper": "2024-06-07",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-12"
-    },
-    {
       "id": "b2596633-5687-40d4-99b0-fa0145131507",
       "butikk": "Strawberry",
       "beskriving": "Fast pris på hotellnetter",
@@ -2664,6 +2655,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-12"
+    },
+    {
+      "id": "18f129ea-e7aa-4910-85ee-ef17657f2c64",
+      "butikk": "Obs",
+      "beskriving": "Maikupp med sterke tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-13"
+    },
+    {
+      "id": "6a790f2f-5aef-4aca-a6d9-ec003ce73c01",
+      "butikk": "Clas Ohlson",
+      "beskriving": "100 kr velkomstbonus ved kjøp over 500 kr med Clas Ohlson-kortet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-13"
+    },
+    {
+      "id": "76974fb6-0cd0-4273-88c1-4507abeb8014",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% rabatt på yttertøy fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-13"
+    },
+    {
+      "id": "91688762-061a-422c-a6c1-c9d393e08f75",
+      "butikk": "Strawberry",
+      "beskriving": "Fast pris på hotellnetter for reiser i Norden i sommer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-13"
+    },
+    {
+      "id": "3c196458-eedc-4b67-b67b-e92d7097025f",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Linen Melange plaid (390 DKK, normalpris 990 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-13"
+    },
+    {
+      "id": "c8ecad9c-9d73-4070-ae64-d8181d749468",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Fiksedager: 15 % rabatt når du kjøper minst to varer i nettbutikken.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-13"
     }
   ]
 }
