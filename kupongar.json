@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-13",
+  "oppdatert": "2026-05-14",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2709,6 +2709,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-13"
+    },
+    {
+      "id": "9176fc48-6778-4ee0-854c-9ca847a69789",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,- brukt",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-14"
+    },
+    {
+      "id": "25ad2c63-ac53-45cf-862e-067c0d0f9298",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Særpris på andeduns hovedpuder. Førpris fra 990 DKK, nu fra 590 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-14"
+    },
+    {
+      "id": "a13aa1bf-4e09-4533-9b7b-3037023856a1",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% rabatt på pynteputer, pledd og gardiner ved kjøp av tre eller flere varer (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-14"
+    },
+    {
+      "id": "06ddcf4f-42d0-4e59-82c4-bef2067ba20d",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger tilgjengelig i Coop-appen for å spare på neste handletur.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-14"
+    },
+    {
+      "id": "dff19487-b5ff-47f0-bce7-c9ee7f79375a",
+      "butikk": "Obs!",
+      "beskriving": "Maikupp med sterke tilbud på utvalgte varer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-14"
+    },
+    {
+      "id": "f2b29c18-e224-4a8e-aac1-64eb03133cff",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Linen Melange plaid til introduktionspris. Pris: 390 DKK (normalpris 990 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-14"
     }
   ]
 }
