@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-14",
+  "oppdatert": "2026-05-15",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2763,6 +2763,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-14"
+    },
+    {
+      "id": "60396ca7-e2f3-4c05-91cf-3110b6eefb75",
+      "butikk": "Komplett",
+      "beskriving": "Spar 5 000,- på TV (nå 7 990,-, før 12 990,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "2ee8f093-d9b4-436d-8389-ac548e59d2ef",
+      "butikk": "Komplett",
+      "beskriving": "Spar 6 000,- på TV (nå 4 490,-, før 10 490,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "134bbecf-bbc0-416d-a27a-231547f6a190",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil -50% på regntøy og yttertøy",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "9b0801b5-0380-4946-90c6-830e8895b058",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Dunpuder (hovudputer) til særpris. Førpris frå 990 DKK, no frå 590 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "32792748-fe74-41f7-9435-ec4af623b71e",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "50% på alle varer (pynteputer, pledd, gardiner) ved kjøp av tre eller flere (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "04a04cbd-fe75-4c12-8ae8-d3d534dc338d",
+      "butikk": "Coop",
+      "beskriving": "Ekstra kuponger tilgjengelig i Coop-appen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "6efdd29b-df51-4742-afae-5b0dbae24a8d",
+      "butikk": "Obs!",
+      "beskriving": "Maikupp: Sterke tilbud på utvalgte varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "8b3ca44b-985e-4e46-a625-84463ac764d3",
+      "butikk": "IKEA",
+      "beskriving": "20% på utendørs sofagrupper",
+      "kode": null,
+      "utløper": "2024-06-07",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "c5594c68-27fb-48a2-8d2c-fe970206ca75",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Linen Melange plaid (50% bomull, 50% hør). Normalpris 990 DKK, nå 390 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-15"
     }
   ]
 }
