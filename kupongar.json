@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-15",
+  "oppdatert": "2026-05-16",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2828,15 +2828,6 @@
       "lagt_til": "2026-05-15"
     },
     {
-      "id": "8b3ca44b-985e-4e46-a625-84463ac764d3",
-      "butikk": "IKEA",
-      "beskriving": "20% på utendørs sofagrupper",
-      "kode": null,
-      "utløper": "2024-06-07",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-15"
-    },
-    {
       "id": "c5594c68-27fb-48a2-8d2c-fe970206ca75",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Introduksjonspris på Linen Melange plaid (50% bomull, 50% hør). Normalpris 990 DKK, nå 390 DKK.",
@@ -2844,6 +2835,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-15"
+    },
+    {
+      "id": "98777ac2-038b-4c0a-864f-af18226e0fda",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Stripe 1979 badekåpe for voksne (790 DKK, normalpris 1.350 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-16"
+    },
+    {
+      "id": "77d19528-8de7-4427-9b36-61ba146d4f79",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Stripe 1979 badekåpe for barn (450 DKK, normalpris 750 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-16"
+    },
+    {
+      "id": "3325de29-e3a0-45e1-84b3-e5b0d11b9b86",
+      "butikk": "Kid",
+      "beskriving": "50% på alle varer ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-16"
+    },
+    {
+      "id": "b4e1cccd-8d59-46a6-b547-cb84732e9dac",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 5 000,- på TV (nå 7 990,-, før 12 990,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-16"
+    },
+    {
+      "id": "c1965845-ba7e-492e-a466-12161304351c",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 6 000,- på TV (nå 4 490,-, før 10 490,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-16"
+    },
+    {
+      "id": "01ccde0f-f94d-4512-8a19-abea065bafbd",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Dunpuder (hovedpuder) med andedun til særpris. Førpris frå 990 DKK, no frå 590 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-16"
     }
   ]
 }
