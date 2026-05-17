@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-16",
+  "oppdatert": "2026-05-17",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -2889,6 +2889,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-16"
+    },
+    {
+      "id": "8d9e0862-ff9c-4ee2-9ad2-bcb88c77086c",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på badekåpe for voksne (Stripe 1979). Nå 790 DKK (normalpris 1.350 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
+    },
+    {
+      "id": "079a3d08-030b-4501-b90a-b557dd891238",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på badekåpe for barn (Stripe 1979). Nå 450 DKK (normalpris 750 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
+    },
+    {
+      "id": "62a8c93f-e0ce-4114-bbef-8d7149895773",
+      "butikk": "Komplett",
+      "beskriving": "Spar 5 000,- på TV. Nå 7 990,- (før 12 990,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
+    },
+    {
+      "id": "8591be36-00db-48e6-9ad7-0a699fa4834c",
+      "butikk": "Komplett",
+      "beskriving": "Spar 6 000,- på TV. Nå 4 490,- (før 10 490,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
+    },
+    {
+      "id": "e6ba4360-1fdc-49b9-91a4-232f3005aba7",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,- brukt under Mobiluker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
+    },
+    {
+      "id": "e898d7f9-be8c-424b-9c51-4f013c81e357",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Dunpuder (hovedpuder) til særpris. Førpris frå 990 DKK, no frå 590 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
+    },
+    {
+      "id": "999a5009-9ec9-44b5-831e-d422d49d00e7",
+      "butikk": "Coop",
+      "beskriving": "Ekstra kuponger tilgjengelig i appen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
+    },
+    {
+      "id": "4a61992d-a738-4730-a153-6c6d8fdf1b9a",
+      "butikk": "Obs",
+      "beskriving": "Maikupp med sterke tilbud på varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-17"
     }
   ]
 }
