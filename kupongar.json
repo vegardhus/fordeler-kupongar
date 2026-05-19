@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-18",
+  "oppdatert": "2026-05-19",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3033,6 +3033,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-18"
+    },
+    {
+      "id": "474a5344-e9ea-4b46-a81d-a96ea9bd4c6f",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Stripe 1979 strandtaske og clutch. Prisen er redusert frå 780 DKK til 490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-19"
     }
   ]
 }
