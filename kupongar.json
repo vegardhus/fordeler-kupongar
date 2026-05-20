@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-19",
+  "oppdatert": "2026-05-20",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3042,6 +3042,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-19"
+    },
+    {
+      "id": "cdb77eb5-86ea-40f2-960f-7af776fe8143",
+      "butikk": "Komplett",
+      "beskriving": "1000,- rabatt på utvalgte Centurion laptoper: Centurion Edge E1 Laptop 14\" FHD, Centurion Pro P1 Laptop 14\" OLED og Centurion Lite L2 laptop 15,6\" FHD.",
+      "kode": "C1000",
+      "utløper": "2024-06-07",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-20"
+    },
+    {
+      "id": "c7c09768-6915-4a48-bcab-708cb237b3e4",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på alle sko fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-20"
+    },
+    {
+      "id": "1e24df8f-880a-456b-906d-8fa45506b993",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Stripe 1979 strandtaske og clutch. Førpris 780 DKK, no 490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-20"
     }
   ]
 }
