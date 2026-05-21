@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-20",
+  "oppdatert": "2026-05-21",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3044,15 +3044,6 @@
       "lagt_til": "2026-05-19"
     },
     {
-      "id": "cdb77eb5-86ea-40f2-960f-7af776fe8143",
-      "butikk": "Komplett",
-      "beskriving": "1000,- rabatt på utvalgte Centurion laptoper: Centurion Edge E1 Laptop 14\" FHD, Centurion Pro P1 Laptop 14\" OLED og Centurion Lite L2 laptop 15,6\" FHD.",
-      "kode": "C1000",
-      "utløper": "2024-06-07",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-20"
-    },
-    {
       "id": "c7c09768-6915-4a48-bcab-708cb237b3e4",
       "butikk": "Barnas Hus",
       "beskriving": "30% rabatt på alle sko fra Reflex",
@@ -3069,6 +3060,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-20"
+    },
+    {
+      "id": "b7542dcc-78d8-4cc2-9d68-e27b54a463c3",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 64% på utvalgte varer (helgetilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-21"
+    },
+    {
+      "id": "a11431b5-4477-45e8-b92b-d5cc4cf7ea05",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil 40% på masse klær & sko",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-21"
     }
   ]
 }
