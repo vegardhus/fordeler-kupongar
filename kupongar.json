@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-21",
+  "oppdatert": "2026-05-22",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3078,6 +3078,168 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-21"
+    },
+    {
+      "id": "1f131cbd-fc8e-4f52-b2e3-d29426eb66bd",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Kjøkkenmaskin med blender og kjøttkvern: Klubbpris 2999,- (spar 2000,-)",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "4a67149b-4c8d-4c22-94e5-f168da7ade79",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Robotstøvsuger med moppefunksjon: Klubbpris 1999,- (spar 2000,-)",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "546d1d66-04d8-46f2-aeb8-fb1db824e821",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Batteridrevet gressklipper 2x20V: Klubbpris 2999,- (spar 1500,-)",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "6c63c956-de1f-410d-8167-bfd7f46551f2",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Høytrykksspyler 140 bar: Klubbpris 1499,- (spar 1000,-)",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "342f9d5f-fc58-4b1d-9b24-f876e3b8906f",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Kaffemaskin med kvern: Klubbpris 1999,- (spar 1000,-)",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "218b03c7-2d39-4a30-8e78-cdd6a428c493",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Vannkoker 1,7 liter: Klubbpris 399,- (spar 300,-)",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "a3742d23-1950-415f-940d-b64cc3560d2c",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Poseløs støvsuger: Klubbpris 999,- (spar 1000,-)",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "0dadbe21-6aeb-4bc5-a1a2-98790247c184",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 50% rabatt på kjøkkenmaskiner",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "415e8f43-7b95-42f1-94ce-063083d50fa3",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 50% rabatt på robotstøvsugere",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "f07f873d-4c72-44dd-a51e-5a220e6a0e56",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 40% rabatt på gressklippere",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "987e59fe-cba1-4775-94b4-9a66ff9f6150",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 40% rabatt på høytrykksspylere",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "79bb6580-ae09-4985-b9d2-9bb0f0552a1d",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 33% rabatt på kaffemaskiner",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "d999f228-a9ae-47a5-9c8c-46e693cfc5de",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 43% rabatt på vannkokere",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "9085d709-836a-45ea-b64e-28a9f89fae48",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 50% rabatt på støvsugere",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "f8c92647-7dba-4bfe-b762-d68df44105b2",
+      "butikk": "Elkjøp",
+      "beskriving": "16% rabatt på hele butikken",
+      "kode": null,
+      "utløper": "2024-05-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "4bbe963f-12cd-4a6c-9447-a7db44955a2f",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sommerdyne til særpris (før 1.450 DKK, no 790 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "f870b2cd-ae38-4dbb-ab3c-f2c22583a582",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 64% rabatt på utvalgte varer i helgen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
+    },
+    {
+      "id": "38f063a9-e162-4800-9741-394158e38a27",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på gardiner og pynteputer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-22"
     }
   ]
 }
