@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-23",
+  "oppdatert": "2026-05-24",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3116,114 +3116,6 @@
       "lagt_til": "2026-05-23"
     },
     {
-      "id": "1e593e9f-3842-4515-9ac4-23cd00a2d489",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher vindusvasker WV 2 Plus N til klubbpris 699,- (spar 300,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "79fc53bf-951e-4a39-947f-bfe97ea11365",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher høytrykksspyler K 3 Power Control til klubbpris 1 799,- (spar 700,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "5de419a8-1d9f-4c95-ac00-714c945c35d9",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher terrassevasker T 5 til klubbpris 899,- (spar 300,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "632659a1-d79b-44ab-a425-754c4469bbcd",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher bilvaskebørste WB 60 til klubbpris 199,- (spar 100,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "8412cd9f-2304-4581-b1b7-6cbaec727945",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher skumdyse FJ 6 til klubbpris 299,- (spar 100,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "9c8c064d-fc35-4885-8b0d-10d9f348abb8",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher vaskemiddel for stein og fasade 3-i-1 til klubbpris 149,- (spar 50,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "9b82cb43-1681-4064-b8a2-e35f412bb150",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher vaskemiddel for bil 3-i-1 til klubbpris 149,- (spar 50,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "1367ce54-3350-4c12-a4c1-6ec516bf8c0d",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher vaskemiddel for tre 3-i-1 til klubbpris 149,- (spar 50,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "db112ff7-5776-46db-8ec2-d645a22377bc",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher vaskemiddel for plast 3-i-1 til klubbpris 149,- (spar 50,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "d9031b33-d953-48f6-853c-2cb99af2ed08",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher vaskemiddel for bil og motorsykkel til klubbpris 149,- (spar 50,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "6adb74dd-484a-4706-a14c-c92e3eaa5739",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Kärcher vaskemiddel for universalbruk til klubbpris 149,- (spar 50,-)",
-      "kode": null,
-      "utløper": "2024-05-19",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
-      "id": "7008f972-7b81-4fc2-9ef3-cf7252fc32ba",
-      "butikk": "Elkjøp",
-      "beskriving": "16% på hele butikken",
-      "kode": null,
-      "utløper": "2024-05-23",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-23"
-    },
-    {
       "id": "cc9ae775-98d5-4b02-be64-2152c83c7806",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Sommerdyne (Patenteret Fiber dyne) til særpris. Førpris 1.450 DKK, nu 790 DKK.",
@@ -3242,13 +3134,49 @@
       "lagt_til": "2026-05-23"
     },
     {
-      "id": "3fae6fcf-8840-4d2b-b6d2-3727c81893f7",
+      "id": "613cd58c-e528-479d-b89a-18a7995be62d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Abild badehåndklæde og tote bag-sæt til jubilæumspris (350 DKK, normalpris 590 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-24"
+    },
+    {
+      "id": "14a79628-468d-4e0e-ab45-8cab046c2c04",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på alt til sommerlivet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-24"
+    },
+    {
+      "id": "2443eff7-2833-4064-96e1-41ee4cb5a64c",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sommerdyne med patenterede fibre til særpris: 790 DKK (før 1450 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-24"
+    },
+    {
+      "id": "b342a47e-281c-4b64-9a87-8b7cdb3f6dbc",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 64% rabatt på utvalgte varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-24"
+    },
+    {
+      "id": "17482661-8e59-484e-846c-83409899d0ab",
       "butikk": "Komplett",
-      "beskriving": "1000,- rabatt på utvalgte Centurion PC-modeller (Centurion Edge E1 Laptop 14\" FHD, Centurion Pro P1 Laptop 14\" OLED, Centurion Lite L2 laptop 15,6\" FHD)",
+      "beskriving": "Få 1000,- rabatt på utvalgte Centurion PC-modeller (Centurion Edge E1 Laptop 14\" FHD, Centurion Pro P1 Laptop 14\" OLED, Centurion Lite L2 laptop 15,6\" FHD)",
       "kode": "C1000",
       "utløper": "2024-06-07",
       "kjelde": "epost",
-      "lagt_til": "2026-05-23"
+      "lagt_til": "2026-05-24"
     }
   ]
 }
