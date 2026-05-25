@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-24",
+  "oppdatert": "2026-05-25",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3170,13 +3170,49 @@
       "lagt_til": "2026-05-24"
     },
     {
-      "id": "17482661-8e59-484e-846c-83409899d0ab",
-      "butikk": "Komplett",
-      "beskriving": "Få 1000,- rabatt på utvalgte Centurion PC-modeller (Centurion Edge E1 Laptop 14\" FHD, Centurion Pro P1 Laptop 14\" OLED, Centurion Lite L2 laptop 15,6\" FHD)",
-      "kode": "C1000",
-      "utløper": "2024-06-07",
+      "id": "6919813d-b272-4fbd-b579-daa8becff6a0",
+      "butikk": "Kid",
+      "beskriving": "Petra dyne- og putepakke fra 249,- (medlemspris)",
+      "kode": null,
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-05-24"
+      "lagt_til": "2026-05-25"
+    },
+    {
+      "id": "8121ae8a-0f54-4145-8045-6b9018f59949",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Abild badehåndklæde (100x150 cm) og matchende tote bag til jubilæumspris (350 DKK, normalpris 590 DKK). Vælg mellem Mint Green og Blue Wave. Limiteret jubilæumsvariant.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-25"
+    },
+    {
+      "id": "d63f162d-577f-4f9b-9088-711b68c9b328",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% på alt til sommerlivet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-25"
+    },
+    {
+      "id": "b7b4a40c-bc1d-4ca0-8bd5-3b77f54ebdb0",
+      "butikk": "Elkjøp",
+      "beskriving": "16% på hele butikken",
+      "kode": null,
+      "utløper": "2024-05-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-25"
+    },
+    {
+      "id": "34d333e7-c5aa-48f3-93fc-dbac765eb778",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sommerdyne til særpris: Førpris 1.450 DKK, Nå 790 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-25"
     }
   ]
 }
