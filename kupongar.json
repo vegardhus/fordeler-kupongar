@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-25",
+  "oppdatert": "2026-05-26",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3197,15 +3197,6 @@
       "lagt_til": "2026-05-25"
     },
     {
-      "id": "b7b4a40c-bc1d-4ca0-8bd5-3b77f54ebdb0",
-      "butikk": "Elkjøp",
-      "beskriving": "16% på hele butikken",
-      "kode": null,
-      "utløper": "2024-05-23",
-      "kjelde": "epost",
-      "lagt_til": "2026-05-25"
-    },
-    {
       "id": "34d333e7-c5aa-48f3-93fc-dbac765eb778",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Sommerdyne til særpris: Førpris 1.450 DKK, Nå 790 DKK",
@@ -3213,6 +3204,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-25"
+    },
+    {
+      "id": "5f9ce045-26b0-41c5-9378-b09da709d530",
+      "butikk": "IKEA",
+      "beskriving": "NÄMMARÖ 3-seters modulhjørnesofa med puter til IKEA Family-pris 5.450,– (vanlig pris 6.530,–)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-26"
+    },
+    {
+      "id": "f9fb5521-4780-4d7f-b6c2-14f7f3c372af",
+      "butikk": "Strawberry",
+      "beskriving": "Middag, overnatting og hotellfrokost i én pakke",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-26"
+    },
+    {
+      "id": "0e57b67d-180a-4905-b6da-9b2b05d41266",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil 2000 kr på bilstoler fra BeSafe og Cybex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-26"
+    },
+    {
+      "id": "f7fac48e-76e8-4c53-a185-1584d7bd642b",
+      "butikk": "Komplett",
+      "beskriving": "Få 1000,- rabatt på utvalgte Centurion laptoper (Centurion Edge E1 Laptop 14\" FHD, Centurion Pro P1 Laptop 14\" OLED og Centurion Lite L2 laptop 15,6\" FHD).",
+      "kode": "C1000",
+      "utløper": "2024-06-07",
+      "kjelde": "epost",
+      "lagt_til": "2026-05-26"
     }
   ]
 }
