@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-26",
+  "oppdatert": "2026-05-27",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3233,13 +3233,31 @@
       "lagt_til": "2026-05-26"
     },
     {
-      "id": "f7fac48e-76e8-4c53-a185-1584d7bd642b",
+      "id": "a5690086-8255-40e1-94c6-1cb5d1a88cc4",
       "butikk": "Komplett",
-      "beskriving": "Få 1000,- rabatt på utvalgte Centurion laptoper (Centurion Edge E1 Laptop 14\" FHD, Centurion Pro P1 Laptop 14\" OLED og Centurion Lite L2 laptop 15,6\" FHD).",
-      "kode": "C1000",
-      "utløper": "2024-06-07",
+      "beskriving": "Spar 11 300,- på Samsung 85\" QN70F Neo QLED 4K Mini LED Smart TV (2025). Nå 14 990,- (før 26 290,-).",
+      "kode": null,
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-05-26"
+      "lagt_til": "2026-05-27"
+    },
+    {
+      "id": "6015432f-d302-4b77-99a4-01c564cc230b",
+      "butikk": "Komplett",
+      "beskriving": "Spar 6000,- på Samsung HW-Q995F soundbar med subwoofer (2025).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-27"
+    },
+    {
+      "id": "a39d4407-f9b4-4b6d-b929-de7bc5f59e55",
+      "butikk": "IKEA",
+      "beskriving": "NÄMMARÖ 3-seters modulhjørnesofa med puter (IKEA Family-tilbud: 5.450,–, vanlig pris 6.530,–)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-27"
     }
   ]
 }
