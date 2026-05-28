@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-27",
+  "oppdatert": "2026-05-28",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3258,6 +3258,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-27"
+    },
+    {
+      "id": "38a52bd5-913d-4ec4-aa9d-5259a8dd581d",
+      "butikk": "Barnas Hus",
+      "beskriving": "-30% på Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-28"
+    },
+    {
+      "id": "aadf36a8-9357-45a2-8b0f-a1a886eb074b",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 59% rabatt på utvalgte varer denne uken",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-28"
+    },
+    {
+      "id": "f7976fd9-e1ea-40b5-bc6d-c64d996a5e2c",
+      "butikk": "Kid interiør",
+      "beskriving": "Opptil 50% på alt til baderommet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-28"
+    },
+    {
+      "id": "73c1f042-735b-44f2-9b49-c4b367de29cb",
+      "butikk": "Kid interiør",
+      "beskriving": "50% på favoritter til sommerlivet (Sommershop)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-28"
+    },
+    {
+      "id": "0372596c-1161-44a6-949d-97a8a0faef64",
+      "butikk": "Komplett",
+      "beskriving": "Samsung 85\" QN70F Neo QLED 4K Mini LED Smart TV (2025) til 14 990,- (spar 11 300,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-28"
+    },
+    {
+      "id": "af98057b-f5f4-4f5c-ad3d-cb2cc42385e9",
+      "butikk": "Komplett",
+      "beskriving": "Samsung HW-Q995F soundbar med subwoofer (2025) - spar 6000,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-28"
+    },
+    {
+      "id": "b70ed8c4-adb9-42b1-958f-3e8a582d9268",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Petra dyne- og putepakke til medlemspris fra 249,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-28"
     }
   ]
 }
