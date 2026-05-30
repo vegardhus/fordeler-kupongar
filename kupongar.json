@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-29",
+  "oppdatert": "2026-05-30",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3366,6 +3366,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-29"
+    },
+    {
+      "id": "4da89764-6805-4b09-af7a-34b01c7c80cd",
+      "butikk": "Kid",
+      "beskriving": "50% på alt i sommershoppen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-30"
+    },
+    {
+      "id": "13cb4124-fc91-44a3-a000-95879aa70be9",
+      "butikk": "Kid interiør",
+      "beskriving": "Opptil 50% rabatt på alt til baderommet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-30"
+    },
+    {
+      "id": "a01ff6b4-66bb-4b8b-807a-a36cc3a6b375",
+      "butikk": "Kid interiør",
+      "beskriving": "50% rabatt på favoritter til sommerlivet (Sommershop)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-30"
+    },
+    {
+      "id": "e90f23c5-85ce-4afe-86fa-3d7668baefb6",
+      "butikk": "IKEA",
+      "beskriving": "NÄMMARÖ 3-seters modulhjørnesofa med puter til 5.450,– (vanlig pris 6.530,–)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-30"
     }
   ]
 }
