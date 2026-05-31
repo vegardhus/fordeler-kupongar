@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-30",
+  "oppdatert": "2026-05-31",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3402,6 +3402,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-30"
+    },
+    {
+      "id": "9227c1a4-209b-47e8-8bd2-e9a15cebb9d0",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Beach badehåndklæde + tote bag til introduktionspris (290 DKK, normalpris 485 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-31"
+    },
+    {
+      "id": "5ab207a2-c007-48b4-ad73-b7079a7cffac",
+      "butikk": "Kid",
+      "beskriving": "50% på soveromsvarer hos Kid Horisont",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-31"
+    },
+    {
+      "id": "f94daed0-40ac-44ca-b6f4-382fd43e039c",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 59% rabatt på utvalgte varer (TV, mobil, PC, lyd, hvitevarer)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-31"
+    },
+    {
+      "id": "b30fa021-ef38-4ebf-9d97-8a98277202e6",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på favoritter til sommerlivet (Sommershop)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-05-31"
     }
   ]
 }
