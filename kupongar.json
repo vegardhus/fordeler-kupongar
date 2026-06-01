@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-05-31",
+  "oppdatert": "2026-06-01",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3438,6 +3438,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-05-31"
+    },
+    {
+      "id": "cceb8a4c-2b0a-40ae-9379-f68f1c100841",
+      "butikk": "Clas Ohlson",
+      "beskriving": "30% rabatt på ladere, kabler og adaptere (klubbpris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-01"
+    },
+    {
+      "id": "4e46adb4-54a1-4097-bca1-835df86e1568",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% rabatt på sengesett, laken og dundyner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-01"
+    },
+    {
+      "id": "0a2da322-a094-4f6d-8332-633067ebc5c8",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Thomas hotellpute 2 for 1",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-01"
+    },
+    {
+      "id": "f0749bd4-97a1-4a3d-a11e-acc84ca731a8",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 46% på utvalgte varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-01"
     }
   ]
 }
