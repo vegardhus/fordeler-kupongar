@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-01",
+  "oppdatert": "2026-06-02",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3474,6 +3474,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-01"
+    },
+    {
+      "id": "dd218aaa-1d4e-4284-9099-10b34c76cc79",
+      "butikk": "IKEA Family",
+      "beskriving": "Mulighet til å vinne et gavekort på 1.000 kr ved å delta i midtsommer-quiz. Fem vinnere trekkes hver uke.",
+      "kode": null,
+      "utløper": "2024-06-21",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-02"
+    },
+    {
+      "id": "52e3217d-1e7f-4ca6-b51f-3adc07fce010",
+      "butikk": "Strawberry",
+      "beskriving": "Summer Getaway – opptil 30 % rabatt ved å bo lenger",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-02"
+    },
+    {
+      "id": "90269a06-dcd4-4576-9198-48b89ab55d06",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Klubbpris -30 % på ladere, kabler og adaptere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-02"
+    },
+    {
+      "id": "b02c7e83-d311-45a7-aba1-02b413e3c560",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Thomas hotellpute 2 for 1 (Ukens medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-02"
+    },
+    {
+      "id": "ceb4c483-18bc-4e09-a097-7f675ba8796a",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 46%",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-02"
     }
   ]
 }
