@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-03",
+  "oppdatert": "2026-06-04",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3548,15 +3548,6 @@
       "lagt_til": "2026-06-03"
     },
     {
-      "id": "9f71c284-b139-4905-87fe-c6adb4d3df42",
-      "butikk": "Coop / Ving",
-      "beskriving": "1200,- i dobbel Coop-rabatt på charterreiser (fly og hotell) med Ving. Gjelder reiser i perioden 1. oktober – 19. desember 2026.",
-      "kode": null,
-      "utløper": "2024-06-21",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-03"
-    },
-    {
       "id": "db1036a7-af5f-4ddb-9136-a73b9deb17f1",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Siste sjanse til å bestille badehåndkle med navn. Bestill i dag for levering i oktober.",
@@ -3564,6 +3555,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-03"
+    },
+    {
+      "id": "68c2e9b4-23dd-4b3c-8b03-65fd6c2d465f",
+      "butikk": "Elkjøp",
+      "beskriving": "Superdeals med opptil 55% rabatt",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-04"
+    },
+    {
+      "id": "ffdef8c8-8d1f-41e7-844b-30b66451daad",
+      "butikk": "Elkjøp",
+      "beskriving": "TCL 65\" TV til 4990 kr",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-04"
+    },
+    {
+      "id": "323cc816-7234-4e29-9cd2-e81b5d4d2170",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) og 2 stk. 3PLY karklude til særpris. Normalpris 425 DKK, særpris 295 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-04"
+    },
+    {
+      "id": "ebf20b36-0cb4-4b5a-b207-c1786e3adcc3",
+      "butikk": "Kid",
+      "beskriving": "50% på sommerens favoritter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-04"
+    },
+    {
+      "id": "c93bf1ea-f82d-4170-b0aa-39a83a1662e0",
+      "butikk": "Komplett Club",
+      "beskriving": "35 000,- i rabatt på Samsung 100\" QN80F Neo QLED 4K Smart TV (2025). Nå 24 990,- (før 59 990,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-04"
+    },
+    {
+      "id": "e7b7a9ae-e175-4a20-8c82-7db5905860cc",
+      "butikk": "Komplett Club",
+      "beskriving": "11 300,- i rabatt på Samsung 85\" QN70F Neo QLED 4K Mini LED Smart TV (2025). Nå 14 990,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-04"
     }
   ]
 }
