@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-04",
+  "oppdatert": "2026-06-05",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3609,6 +3609,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-04"
+    },
+    {
+      "id": "09910749-bdf9-47b0-bae2-8801169e7d96",
+      "butikk": "Elkjøp",
+      "beskriving": "TCL 65\" TV til 4990,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-05"
+    },
+    {
+      "id": "205c43c2-da87-4c06-8584-b8a2b76f45d5",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Minimal Lines viskestykker og 2 stk. 3PLY karklude til særpris 295 DKK (normalpris 425 DKK). Fås i fargen Dew Blue eller Desert Sand.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-05"
+    },
+    {
+      "id": "e221be5e-2071-41ff-95e7-13e022c548cc",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på The summer shop / sommerens favoritter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-05"
     }
   ]
 }
