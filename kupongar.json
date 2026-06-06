@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-05",
+  "oppdatert": "2026-06-06",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3636,6 +3636,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-05"
+    },
+    {
+      "id": "5308d8cc-caa0-4e94-a55f-53509edebb47",
+      "butikk": "Kid",
+      "beskriving": "50% på mengder av varer til soverommet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-06"
+    },
+    {
+      "id": "365804d3-49c0-414d-9158-cbea226e257c",
+      "butikk": "Kid",
+      "beskriving": "Thomas hotellpute 2 for 1",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-06"
+    },
+    {
+      "id": "85f64d8b-a8cc-43e3-996f-4c15fe5f03e9",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil 50% rabatt på utvalgte produkter",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-06"
+    },
+    {
+      "id": "ed1c42a8-7ee4-4492-8ef0-03357ec21989",
+      "butikk": "Clas Ohlson",
+      "beskriving": "10% rabatt på første kjøp ved innmelding i kundeklubben",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-06"
+    },
+    {
+      "id": "b0d64d83-da03-459f-9d9b-381b3b0e91fd",
+      "butikk": "Elkjøp",
+      "beskriving": "TCL 65\" TV til kun 4990,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-06"
+    },
+    {
+      "id": "52bfb95a-5eff-4be1-bc01-57e155ea164f",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Minimal Lines viskestykker (Dew Blue eller Desert Sand) og 2 stk. 3PLY karkluter til særpris 295 DKK (normalpris 425 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-06"
+    },
+    {
+      "id": "c7ee738d-a7be-48d2-ac5c-cfec47ddff2b",
+      "butikk": "Coop Medlemsfordel (Ving)",
+      "beskriving": "1200 kr i dobbel rabatt på charterreiser (fly og hotell) med Ving. Gjelder reiser i perioden 1. oktober – 19. desember 2026.",
+      "kode": null,
+      "utløper": "2024-06-21",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-06"
     }
   ]
 }
