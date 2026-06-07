@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-06",
+  "oppdatert": "2026-06-07",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3656,15 +3656,6 @@
       "lagt_til": "2026-06-06"
     },
     {
-      "id": "85f64d8b-a8cc-43e3-996f-4c15fe5f03e9",
-      "butikk": "Clas Ohlson",
-      "beskriving": "Opptil 50% rabatt på utvalgte produkter",
-      "kode": null,
-      "utløper": "2024-06-23",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-06"
-    },
-    {
       "id": "ed1c42a8-7ee4-4492-8ef0-03357ec21989",
       "butikk": "Clas Ohlson",
       "beskriving": "10% rabatt på første kjøp ved innmelding i kundeklubben",
@@ -3692,13 +3683,76 @@
       "lagt_til": "2026-06-06"
     },
     {
-      "id": "c7ee738d-a7be-48d2-ac5c-cfec47ddff2b",
-      "butikk": "Coop Medlemsfordel (Ving)",
-      "beskriving": "1200 kr i dobbel rabatt på charterreiser (fly og hotell) med Ving. Gjelder reiser i perioden 1. oktober – 19. desember 2026.",
+      "id": "535c01b2-703f-46e5-b154-c4b506aa2c59",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sommerdyne med europæiske klasse 1-gåsedun til særpris (fra 1.700 DKK, før 2.900 DKK)",
       "kode": null,
-      "utløper": "2024-06-21",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-06"
+      "lagt_til": "2026-06-07"
+    },
+    {
+      "id": "118ad003-c377-47fb-bdce-3c931a72dd17",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på mengder av varer til soverommet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-07"
+    },
+    {
+      "id": "17d87493-f490-4869-83df-3370401cd286",
+      "butikk": "Kid",
+      "beskriving": "Thomas hotellpute: 2 for 1 (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-07"
+    },
+    {
+      "id": "5fdcfc00-86ab-48a9-aaeb-825234a8a832",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Kärcher for medlemmer",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-07"
+    },
+    {
+      "id": "f384c5ae-d162-47e4-a34c-f7278311e9d2",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Fiskars for medlemmer",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-07"
+    },
+    {
+      "id": "6ac04047-9b19-4caa-a6b9-eb339e09624b",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Gardena for medlemmer",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-07"
+    },
+    {
+      "id": "9c0064dd-5a28-4fa1-959c-a68c76694b22",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Ryobi for medlemmer",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-07"
+    },
+    {
+      "id": "dab5a535-dcf0-4296-a43f-90f2162061b6",
+      "butikk": "Clas Ohlson",
+      "beskriving": "20% rabatt på alle produkter fra Hozelock for medlemmer",
+      "kode": null,
+      "utløper": "2024-06-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-07"
     }
   ]
 }
