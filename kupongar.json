@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-07",
+  "oppdatert": "2026-06-08",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3710,49 +3710,49 @@
       "lagt_til": "2026-06-07"
     },
     {
-      "id": "5fdcfc00-86ab-48a9-aaeb-825234a8a832",
-      "butikk": "Clas Ohlson",
-      "beskriving": "20% rabatt på alle produkter fra Kärcher for medlemmer",
+      "id": "9ea747a7-32c9-421a-b27b-20256ad990fb",
+      "butikk": "Barnas Hus",
+      "beskriving": "Spar opptil 30% på bilstoler",
       "kode": null,
-      "utløper": "2024-06-23",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-07"
+      "lagt_til": "2026-06-08"
     },
     {
-      "id": "f384c5ae-d162-47e4-a34c-f7278311e9d2",
-      "butikk": "Clas Ohlson",
-      "beskriving": "20% rabatt på alle produkter fra Fiskars for medlemmer",
+      "id": "8a9db4c3-413c-4dac-b432-078445d47051",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp: Knallpris på hotellferie i Norge og Sverige",
       "kode": null,
-      "utløper": "2024-06-23",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-07"
+      "lagt_til": "2026-06-08"
     },
     {
-      "id": "6ac04047-9b19-4caa-a6b9-eb339e09624b",
-      "butikk": "Clas Ohlson",
-      "beskriving": "20% rabatt på alle produkter fra Gardena for medlemmer",
+      "id": "8748371d-1e69-49c2-91f8-84360c9e1677",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp på Coca-Cola Original / Zero Sugar Urge / Fanta Zero Sugar / Sprite Zero Sugar (0,33 l boks, 15 pk)",
       "kode": null,
-      "utløper": "2024-06-23",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-07"
+      "lagt_til": "2026-06-08"
     },
     {
-      "id": "9c0064dd-5a28-4fa1-959c-a68c76694b22",
-      "butikk": "Clas Ohlson",
-      "beskriving": "20% rabatt på alle produkter fra Ryobi for medlemmer",
+      "id": "b2622db7-00fa-4219-9e8c-7ad48f3cc628",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp på Smak* Fersken Paraguayo (500 g, pr pk)",
       "kode": null,
-      "utløper": "2024-06-23",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-07"
+      "lagt_til": "2026-06-08"
     },
     {
-      "id": "dab5a535-dcf0-4296-a43f-90f2162061b6",
-      "butikk": "Clas Ohlson",
-      "beskriving": "20% rabatt på alle produkter fra Hozelock for medlemmer",
+      "id": "011b32d5-b205-4e50-a436-9e06e94587cd",
+      "butikk": "Kid",
+      "beskriving": "Thomas hotellpute 2 for 1 (Ukens medlemstilbud)",
       "kode": null,
-      "utløper": "2024-06-23",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-07"
+      "lagt_til": "2026-06-08"
     }
   ]
 }
