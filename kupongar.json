@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-08",
+  "oppdatert": "2026-06-09",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3753,6 +3753,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-08"
+    },
+    {
+      "id": "0da12337-db2b-45ab-8a84-be5015044f8a",
+      "butikk": "Strawberry",
+      "beskriving": "Sommersalg med hotellrom til faste priser: 900 kr, 1300 kr, 1600 kr eller 1900 kr. Gjelder over 170 hotell.",
+      "kode": null,
+      "utløper": "2026-06-14",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-09"
     }
   ]
 }
