@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-09",
+  "oppdatert": "2026-06-10",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3762,6 +3762,42 @@
       "utløper": "2026-06-14",
       "kjelde": "epost",
       "lagt_til": "2026-06-09"
+    },
+    {
+      "id": "d193c92a-0b4b-4d46-af8a-d2026010f76c",
+      "butikk": "Komplett",
+      "beskriving": "Dreame X50 Ultra Robotstøvsuger (hvit) - spar 6 505,-. Nå 7 990,- (før 14 495,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-10"
+    },
+    {
+      "id": "7c189c4a-9aeb-4c3d-815a-f062d8c6b65c",
+      "butikk": "Komplett",
+      "beskriving": "Dreame Robotic Mower A1 Pro 1000m2 - spar 3 500,-. Nå 9 990,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-10"
+    },
+    {
+      "id": "0956d6db-1e8b-4daf-b0d4-71cef367b0eb",
+      "butikk": "Barnas Hus",
+      "beskriving": "15% rabatt på et valgfritt kjøp",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-10"
+    },
+    {
+      "id": "7ed13893-c423-444f-979c-b071e40b4cdf",
+      "butikk": "Strawberry",
+      "beskriving": "Sommersalg med hotellrom til 900 kr, 1300 kr, 1600 kr eller 1900 kr per natt på over 170 hotell.",
+      "kode": null,
+      "utløper": "2026-06-14",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-10"
     }
   ]
 }
