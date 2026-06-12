@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-11",
+  "oppdatert": "2026-06-12",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3816,6 +3816,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-11"
+    },
+    {
+      "id": "6603161f-7e19-437f-9246-3ae1f1a5ead9",
+      "butikk": "Strawberry",
+      "beskriving": "Sommersalg",
+      "kode": null,
+      "utløper": "2021-06-14",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-12"
+    },
+    {
+      "id": "383ec22c-e623-4387-940a-f9feabad3678",
+      "butikk": "Norwegian.no",
+      "beskriving": "Spar opptil 50 % ved å bestille ekstra innsjekket bagasje på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-12"
+    },
+    {
+      "id": "e4f44bd8-dbec-4646-9a0d-e3ac3494deb6",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på Reima og Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-12"
+    },
+    {
+      "id": "30423128-b992-41af-89a6-36b4d6f1104e",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på sommersalget (early access)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-12"
+    },
+    {
+      "id": "cf5c4a2d-2225-497b-badb-69de6305ae43",
+      "butikk": "Komplett",
+      "beskriving": "Spar 6 505,- på Dreame X50 Ultra Robotstøvsuger (hvit). Nå 7 990,- (før 14 495,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-12"
+    },
+    {
+      "id": "584e7e4d-cab1-4cf0-b827-baf8a255e9b7",
+      "butikk": "Komplett",
+      "beskriving": "Spar 3 500,- på Dreame Robotic Mower A1 Pro 1000m2. Nå 9 990,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-12"
     }
   ]
 }
