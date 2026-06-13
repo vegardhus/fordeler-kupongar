@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-12",
+  "oppdatert": "2026-06-13",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3818,15 +3818,6 @@
       "lagt_til": "2026-06-11"
     },
     {
-      "id": "6603161f-7e19-437f-9246-3ae1f1a5ead9",
-      "butikk": "Strawberry",
-      "beskriving": "Sommersalg",
-      "kode": null,
-      "utløper": "2021-06-14",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-12"
-    },
-    {
       "id": "383ec22c-e623-4387-940a-f9feabad3678",
       "butikk": "Norwegian.no",
       "beskriving": "Spar opptil 50 % ved å bestille ekstra innsjekket bagasje på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
@@ -3870,6 +3861,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-12"
+    },
+    {
+      "id": "a21c8907-7d65-4a17-9b60-d84217d1f45a",
+      "butikk": "Kid",
+      "beskriving": "Sommersalget 50% rabatt, gjelder ved kjøp av tre eller flere varer. Kun for medlemmer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-13"
+    },
+    {
+      "id": "ad152862-4e33-4be9-941d-8bd1fea2b5b7",
+      "butikk": "Kid",
+      "beskriving": "LED belysning 2 for 1. Ukens medlemstilbud.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-13"
+    },
+    {
+      "id": "260b8542-73c6-4aca-9160-7cf73711cca6",
+      "butikk": "Strawberry",
+      "beskriving": "Siste sjanse for Sommersalget",
+      "kode": null,
+      "utløper": "2021-06-14",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-13"
+    },
+    {
+      "id": "f6302a1f-d050-474b-996d-d51276259f7a",
+      "butikk": "Norwegian.no",
+      "beskriving": "Spar opptil 50 % på innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-13"
     }
   ]
 }
