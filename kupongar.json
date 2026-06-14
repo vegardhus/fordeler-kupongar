@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-13",
+  "oppdatert": "2026-06-14",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3881,15 +3881,6 @@
       "lagt_til": "2026-06-13"
     },
     {
-      "id": "260b8542-73c6-4aca-9160-7cf73711cca6",
-      "butikk": "Strawberry",
-      "beskriving": "Siste sjanse for Sommersalget",
-      "kode": null,
-      "utløper": "2021-06-14",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-13"
-    },
-    {
       "id": "f6302a1f-d050-474b-996d-d51276259f7a",
       "butikk": "Norwegian.no",
       "beskriving": "Spar opptil 50 % på innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
@@ -3897,6 +3888,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-13"
+    },
+    {
+      "id": "4cec8c7b-ab7c-4d73-bf05-679211c82799",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på klær og sko",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-14"
+    },
+    {
+      "id": "978d05e7-27bc-4320-9d9d-5915aaea27c8",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Supima Pinstripe pyjamas i fargen Archive Linen til særpris. Førpris 1.390 DKK, nå 950 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-14"
+    },
+    {
+      "id": "cfb5e5dd-03a9-4a9d-93ca-195222bc7c0d",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på sommersalget ved kjøp av tre eller flere varer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-14"
+    },
+    {
+      "id": "133e3d10-e674-4053-9213-67ee84ba876a",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på LED belysning (Ukens medlemstilbud).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-14"
+    },
+    {
+      "id": "adee8fc2-14e7-41d5-a909-10d79adc12d3",
+      "butikk": "Strawberry",
+      "beskriving": "Sommersalget",
+      "kode": null,
+      "utløper": "2021-06-14",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-14"
     }
   ]
 }
