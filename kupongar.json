@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-14",
+  "oppdatert": "2026-06-15",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3755,15 +3755,6 @@
       "lagt_til": "2026-06-08"
     },
     {
-      "id": "0da12337-db2b-45ab-8a84-be5015044f8a",
-      "butikk": "Strawberry",
-      "beskriving": "Sommersalg med hotellrom til faste priser: 900 kr, 1300 kr, 1600 kr eller 1900 kr. Gjelder over 170 hotell.",
-      "kode": null,
-      "utløper": "2026-06-14",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-09"
-    },
-    {
       "id": "d193c92a-0b4b-4d46-af8a-d2026010f76c",
       "butikk": "Komplett",
       "beskriving": "Dreame X50 Ultra Robotstøvsuger (hvit) - spar 6 505,-. Nå 7 990,- (før 14 495,-).",
@@ -3787,15 +3778,6 @@
       "beskriving": "15% rabatt på et valgfritt kjøp",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-06-10"
-    },
-    {
-      "id": "7ed13893-c423-444f-979c-b071e40b4cdf",
-      "butikk": "Strawberry",
-      "beskriving": "Sommersalg med hotellrom til 900 kr, 1300 kr, 1600 kr eller 1900 kr per natt på over 170 hotell.",
-      "kode": null,
-      "utløper": "2026-06-14",
       "kjelde": "epost",
       "lagt_til": "2026-06-10"
     },
@@ -3926,13 +3908,58 @@
       "lagt_til": "2026-06-14"
     },
     {
-      "id": "adee8fc2-14e7-41d5-a909-10d79adc12d3",
+      "id": "4f8dfffc-afc1-454b-bd8c-0c9cee392885",
       "butikk": "Strawberry",
-      "beskriving": "Sommersalget",
+      "beskriving": "Få gavekort på 1000 kr når du blir strømkunde hos Ishavskraft.",
       "kode": null,
-      "utløper": "2021-06-14",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-14"
+      "lagt_til": "2026-06-15"
+    },
+    {
+      "id": "c3161fbd-2328-45bb-91b2-ae1a2aa0fd3e",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 64% på TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-15"
+    },
+    {
+      "id": "a8a5ba51-2fc9-4444-aebd-e9124379d5d0",
+      "butikk": "Kid",
+      "beskriving": "50% på sesongens varer, ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-15"
+    },
+    {
+      "id": "16275c57-1b78-43e9-ad83-894fd300d6b7",
+      "butikk": "Kid",
+      "beskriving": "50% på mengder av varer til soverommet (Soveromsdager)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-15"
+    },
+    {
+      "id": "70c4bb50-d7ee-46ff-b2b8-a3457c8976e8",
+      "butikk": "Kid",
+      "beskriving": "Selma lingardiner 2 for 1",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-15"
+    },
+    {
+      "id": "64700ae4-0204-4388-96ab-d0d88b6402c2",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% på masse klær & sko",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-15"
     }
   ]
 }
