@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-15",
+  "oppdatert": "2026-06-16",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -3960,6 +3960,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-15"
+    },
+    {
+      "id": "8cd20aa8-9004-407b-b775-453363ab2366",
+      "butikk": "Komplett",
+      "beskriving": "Dreame X50 Ultra Robotstøvsuger (hvit) til 7 990,- (spar 6 505,- fra 14 495,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-16"
+    },
+    {
+      "id": "6c997ae6-c487-4a53-b0b4-4676f2ee3bcd",
+      "butikk": "Komplett",
+      "beskriving": "Dreame L50 Ultra AE (sort) til 5 990,- (spar 2 500,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-16"
+    },
+    {
+      "id": "57601231-b74e-4c69-acd4-106c9d8f5b3c",
+      "butikk": "Strawberry",
+      "beskriving": "Klippekort med 5 hotellnetter til fastpris over hele Norden",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-16"
+    },
+    {
+      "id": "975c8676-411b-4a3f-aa8b-6fb81c5b15aa",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Clear Stripe håndklæder til kampagnepris (290 DKK, normalpris 580 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-16"
+    },
+    {
+      "id": "e78ba81e-c4d9-44fa-b142-3a817101e60f",
+      "butikk": "Strawberry",
+      "beskriving": "Få gavekort på 1000 kr når du blir strømkunde hos Ishavskraft (Sommerkampanje).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-16"
+    },
+    {
+      "id": "8f2ad1e8-5514-42e6-91df-7d5995fa70b5",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 64% på TV i forbindelse med VM",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-16"
     }
   ]
 }
