@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-16",
+  "oppdatert": "2026-06-17",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4014,6 +4014,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-16"
+    },
+    {
+      "id": "ff5f3a33-7b1f-4952-9725-611fee877eed",
+      "butikk": "Coop",
+      "beskriving": "15 pk Cola, Fanta, Sprite, Urge til 75 kr +pant",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-17"
+    },
+    {
+      "id": "42ede854-e165-4b3a-a857-3aea4725a682",
+      "butikk": "Komplett Club",
+      "beskriving": "Tilbod på Dreame X50 Ultra Robotstøvsuger (hvit). Spar 6 505,-. Nå: 7 990,- (Førpris: 14 495,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-17"
+    },
+    {
+      "id": "0d8d6d19-8fbf-4d57-874d-6ddfa968a7c8",
+      "butikk": "Komplett Club",
+      "beskriving": "Tilbod på Dreame L50 Ultra AE (sort) Robotstøvsuger. Spar 2 500,-. Nå: 5 990,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-17"
     }
   ]
 }
