@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-17",
+  "oppdatert": "2026-06-18",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4041,6 +4041,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-17"
+    },
+    {
+      "id": "2b83bd81-b5c6-4458-8f19-834c17cef039",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar stort på hele Samsung S26-serien",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-18"
+    },
+    {
+      "id": "5589a7e9-b45b-4e44-83b1-57b1c2310caf",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% rabatt på Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-18"
+    },
+    {
+      "id": "571967ca-591d-4506-9cc8-db06bb21c5db",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% rabatt på alle sommervarer ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-18"
+    },
+    {
+      "id": "e81d7985-020f-4979-861a-f8df15d09d30",
+      "butikk": "Coop",
+      "beskriving": "15 pk Cola, Fanta, Sprite, Urge til kun 75 kr +pant",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-18"
     }
   ]
 }
