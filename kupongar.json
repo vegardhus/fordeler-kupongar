@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-18",
+  "oppdatert": "2026-06-19",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4077,6 +4077,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-18"
+    },
+    {
+      "id": "b6e52396-aa11-49e4-95be-f76bf7ca3e56",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 5 000,- på Samsung Galaxy S26 256GB (nå 7 490,-, før 12 490,-) og få en Galaxy Tab S10 Lite (verdi 4 990 kr) inkludert ved kjøp av en Galaxy S26-serie telefon (gjelder ikke 512GB).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-19"
+    },
+    {
+      "id": "7aade5d2-0945-400d-9e9d-1c064af3530c",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 3 690,- på Samsung Galaxy Tab S10 Lite WiFi 128GB (gray) (nå 2 990,-, før 6 680,-) og få Galaxy Buds 2 (verdi 1 690 kr) inkludert.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-19"
+    },
+    {
+      "id": "ccf66af5-0827-4564-91d4-4240010a2efa",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 7 690,- på TCL 65\" T8C 4K QLED Google TV (2025).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-19"
+    },
+    {
+      "id": "0f2d3404-2afe-477f-8d92-b7f811bb17b4",
+      "butikk": "Barnas Hus",
+      "beskriving": "-40% på Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-19"
+    },
+    {
+      "id": "ea784ea8-99db-4a9a-8cf2-0c3b8e8759c6",
+      "butikk": "Strawberry",
+      "beskriving": "Klippekort med 5 hotellnetter til fastpris over hele Norden.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-19"
     }
   ]
 }
