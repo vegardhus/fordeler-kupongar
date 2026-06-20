@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-19",
+  "oppdatert": "2026-06-20",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4122,6 +4122,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-19"
+    },
+    {
+      "id": "3f453bc9-ede8-4707-ab5f-7870012875aa",
+      "butikk": "Kid",
+      "beskriving": "50% på sesongens varer til soverommet, ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-20"
+    },
+    {
+      "id": "3fe3fc4f-9c74-4af9-8baa-a64cc790bed0",
+      "butikk": "Komplett.no",
+      "beskriving": "Kjøp Samsung Galaxy S26 (ikke 512GB) og få Galaxy Tab S10 Lite (verdi 4 990 kr) inkludert. Samsung Galaxy S26 256GB er nedsatt med 5 000 kr (nå 7 490 kr, før 12 490 kr).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-20"
+    },
+    {
+      "id": "af1ca2c6-dbf8-4f1a-8c3a-ceb7b4419002",
+      "butikk": "Komplett.no",
+      "beskriving": "Kjøp Samsung Galaxy Tab S10 Lite WiFi 128GB (nå 2 990 kr, før 6 680 kr, spar 3 690 kr) og få Galaxy Buds 2 (verdi 1 690 kr) inkludert.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-20"
+    },
+    {
+      "id": "66c715f3-6de1-4f97-81e7-55d137647bdd",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 7 690 kr på TCL 65\" T8C 4K QLED Google TV (2025).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-20"
     }
   ]
 }
