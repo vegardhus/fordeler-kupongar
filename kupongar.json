@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-20",
+  "oppdatert": "2026-06-21",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4158,6 +4158,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-20"
+    },
+    {
+      "id": "d24b3794-3fbc-41bf-bc77-935f11c23fd8",
+      "butikk": "Barnas Hus",
+      "beskriving": "Spar 1100 kr på Bugaboo reisevogn",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-21"
+    },
+    {
+      "id": "2f787db5-5d40-48de-a585-e25c5e41f6a9",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Køkkenpakke (1 stk. Core-køkkenhåndklæde i Coral Pink + enten Becker 63 i Capri Blue eller Comet i Grass Green) til særpris 220 DKK (normalpris 290 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-21"
+    },
+    {
+      "id": "18570ee5-2bc4-4dbd-a353-ae1ac66feb84",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 5 000,- på Samsung Galaxy S26 256GB (nå 7 490,-, før 12 490,-) og få en Galaxy Tab S10 Lite (verdi 4 990 kr) inkludert ved kjøp av Galaxy S26-serien (gjelder ikke 512GB). Tilbudet gjelder denne helgen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-21"
+    },
+    {
+      "id": "ee7d64bf-aa8a-49eb-ad18-211f71663f75",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 3 690,- på Samsung Galaxy Tab S10 Lite WiFi 128GB (nå 2 990,-, før 6 680,-) og få Galaxy Buds 2 (verdi 1 690 kr) inkludert ved kjøp.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-21"
     }
   ]
 }
