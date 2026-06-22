@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-21",
+  "oppdatert": "2026-06-22",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4194,6 +4194,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-21"
+    },
+    {
+      "id": "df7d0372-100d-4b25-a2e5-c9ad81704ac8",
+      "butikk": "Circle K (via Coop Medlem)",
+      "beskriving": "Få 3-pk boller (verdi 44,90) når du fyller mer enn 20 liter drivstoff.",
+      "kode": null,
+      "utløper": "2026-07-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-22"
+    },
+    {
+      "id": "9cd485f7-ff30-427a-9548-9891100f0bd3",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 50% på Epoq-kjøkken og vaskerom",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-22"
+    },
+    {
+      "id": "3e31de92-6ae7-4b60-b616-2b9a75c732ec",
+      "butikk": "Barnas Hus",
+      "beskriving": "-15% på bilstoler og tilbehør",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-22"
+    },
+    {
+      "id": "2f445c15-5993-4064-9ef9-ced0325abf1d",
+      "butikk": "Kid",
+      "beskriving": "50% på sesongens varer ved kjøp av 3 varer eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-22"
+    },
+    {
+      "id": "1fa85060-15d9-4aa4-bb9b-4ebe824c48e2",
+      "butikk": "Coop",
+      "beskriving": "15-pakning Cola, Fanta, Sprite, Urge til 75 kr + pant",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-22"
     }
   ]
 }
