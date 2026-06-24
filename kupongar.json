@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-23",
+  "oppdatert": "2026-06-24",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4241,15 +4241,6 @@
       "lagt_til": "2026-06-22"
     },
     {
-      "id": "7b62d865-3aad-49a3-bb11-e60f158cecdd",
-      "butikk": "Strawberry",
-      "beskriving": "Opptil 25 % rabatt på over 200 hoteller i Norden.",
-      "kode": null,
-      "utløper": "2024-06-28",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-23"
-    },
-    {
       "id": "7acc94fe-03c3-435a-954e-48bea615dbf0",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Sommerdyner til særpris. Førpris fra 1.450 DKK, nå fra 790 DKK.",
@@ -4266,6 +4257,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-23"
+    },
+    {
+      "id": "70aceacf-4f97-418f-b939-c2194dff8bd9",
+      "butikk": "Elkjøp",
+      "beskriving": "70 dager gratis Nextory, deretter 20% rabatt i 2 måneder",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-24"
+    },
+    {
+      "id": "ae8b3c66-1292-482d-9e0b-c748c2e73dee",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på MAM og Bambino",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-24"
+    },
+    {
+      "id": "a73cfd46-cf7e-4645-909a-3f375b5d2e48",
+      "butikk": "Strawberry",
+      "beskriving": "Opptil 25 % rabatt på hotell i Norden",
+      "kode": null,
+      "utløper": "2024-06-28",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-24"
+    },
+    {
+      "id": "5948ee50-ead8-4bd6-b81b-e7175e470aee",
+      "butikk": "Circle K (via Coop Medlem)",
+      "beskriving": "Få 3-pk boller (verdi 44,90) når du fyller mer enn 20 liter bensin/diesel.",
+      "kode": null,
+      "utløper": "2026-07-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-24"
     }
   ]
 }
