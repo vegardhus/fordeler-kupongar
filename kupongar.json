@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-24",
+  "oppdatert": "2026-06-25",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4277,15 +4277,6 @@
       "lagt_til": "2026-06-24"
     },
     {
-      "id": "a73cfd46-cf7e-4645-909a-3f375b5d2e48",
-      "butikk": "Strawberry",
-      "beskriving": "Opptil 25 % rabatt på hotell i Norden",
-      "kode": null,
-      "utløper": "2024-06-28",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-24"
-    },
-    {
       "id": "5948ee50-ead8-4bd6-b81b-e7175e470aee",
       "butikk": "Circle K (via Coop Medlem)",
       "beskriving": "Få 3-pk boller (verdi 44,90) når du fyller mer enn 20 liter bensin/diesel.",
@@ -4293,6 +4284,42 @@
       "utløper": "2026-07-27",
       "kjelde": "epost",
       "lagt_til": "2026-06-24"
+    },
+    {
+      "id": "8d37aa46-5df2-4d44-b5ef-0f899983dc76",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 25% på utvalgte HP laptops",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-25"
+    },
+    {
+      "id": "e9b8c246-c900-476b-9e88-490e043513a1",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% på sesongens varer ved kjøp av 3 varer eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-25"
+    },
+    {
+      "id": "3cbfbafc-fb26-43ad-b1fd-88c979044c51",
+      "butikk": "Barnas Hus",
+      "beskriving": "50-40% på ALLE salgsvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-25"
+    },
+    {
+      "id": "0b06c253-bc29-4a58-bd19-4b52a7df91c6",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Køkkenpakke (1 stk. Core-køkkenhåndklæde i Coral Pink + Becker 63 i Capri Blue ELLER Comet i Grass Green) til særpris 220 DKK (normalpris 290 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-25"
     }
   ]
 }
