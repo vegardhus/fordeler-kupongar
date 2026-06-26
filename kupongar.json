@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-25",
+  "oppdatert": "2026-06-26",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4320,6 +4320,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-25"
+    },
+    {
+      "id": "409c25d4-da3e-4138-8a78-1b153e7f08bc",
+      "butikk": "Elkjøp",
+      "beskriving": "25% rabatt på utvalgte HP laptops",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-26"
+    },
+    {
+      "id": "9f5d6e5d-70fb-438a-9dab-0f73dfca3b40",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "50% på sesongens varer ved kjøp av 3 varer eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-26"
     }
   ]
 }
