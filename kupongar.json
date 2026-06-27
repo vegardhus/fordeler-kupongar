@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-26",
+  "oppdatert": "2026-06-27",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4338,6 +4338,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-26"
+    },
+    {
+      "id": "0f178898-d6a7-4070-8670-cb0171453196",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på alle sommervarer ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-27"
+    },
+    {
+      "id": "c254d8e4-2fc3-4d5f-9435-046fda41a59b",
+      "butikk": "Kid",
+      "beskriving": "Sommerkrepp fra 199,- (medlemspris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-27"
+    },
+    {
+      "id": "de9625dd-f248-4eec-871f-63ad6f842a80",
+      "butikk": "Strawberry",
+      "beskriving": "Opptil 25 % rabatt på hoteller i Norden",
+      "kode": null,
+      "utløper": "2024-06-28",
+      "kjelde": "epost",
+      "lagt_til": "2026-06-27"
     }
   ]
 }
