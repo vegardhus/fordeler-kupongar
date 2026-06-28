@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-27",
+  "oppdatert": "2026-06-28",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4358,13 +4358,22 @@
       "lagt_til": "2026-06-27"
     },
     {
-      "id": "de9625dd-f248-4eec-871f-63ad6f842a80",
-      "butikk": "Strawberry",
-      "beskriving": "Opptil 25 % rabatt på hoteller i Norden",
+      "id": "66f3eddc-1486-4ba5-964c-df3a34b3343a",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Even sengetøj i hør og bomuld til særpris fra 990 DKK (førpris fra 1.390 DKK).",
       "kode": null,
-      "utløper": "2024-06-28",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-06-27"
+      "lagt_til": "2026-06-28"
+    },
+    {
+      "id": "9f4d7041-da64-4a17-b6e6-b37c20a1533f",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på alle sommervarer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-28"
     }
   ]
 }
