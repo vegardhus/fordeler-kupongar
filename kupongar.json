@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-28",
+  "oppdatert": "2026-06-29",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4374,6 +4374,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-28"
+    },
+    {
+      "id": "2502a1ec-334c-41cd-b254-7ced2570a27a",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil -30 % på kofferter (klubbpris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-29"
+    },
+    {
+      "id": "abfa6f49-1f89-4137-80c1-0ea050956610",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 66% på nye tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-29"
+    },
+    {
+      "id": "526a0530-cdb2-47ea-886a-995660d893ed",
+      "butikk": "Kid",
+      "beskriving": "50% på alle hagemøbler og utepotter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-29"
+    },
+    {
+      "id": "06ed8357-cdeb-43a0-a1a2-752fe8859868",
+      "butikk": "Kid",
+      "beskriving": "Halv pris på sesongens varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-06-29"
     }
   ]
 }
