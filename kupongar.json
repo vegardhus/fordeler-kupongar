@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-06-30",
+  "oppdatert": "2026-07-01",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4421,15 +4421,6 @@
       "lagt_til": "2026-06-30"
     },
     {
-      "id": "e39a4915-d0ff-48b1-a5c7-c5055b51fbb8",
-      "butikk": "Strawberry",
-      "beskriving": "3x Spenn (bonuspoeng) på hotellnetter",
-      "kode": null,
-      "utløper": "2024-07-01",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-30"
-    },
-    {
       "id": "45375769-95b2-42eb-9a53-f8a3cef9fccc",
       "butikk": "Clas Ohlson",
       "beskriving": "Opptil -30 % på kofferter (Klubbpris)",
@@ -4437,6 +4428,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-06-30"
+    },
+    {
+      "id": "077758b1-7ee7-46dd-bdb7-9ea5fd5bb2e7",
+      "butikk": "Coop",
+      "beskriving": "15 pk Coca Cola, Fanta, Sprite, Urge til 75 kr + pant",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "c4e94d53-521b-45f8-a2a7-115e6c0018a3",
+      "butikk": "Komplett Club",
+      "beskriving": "Delta i trekningen av et gavekort på 5 000 kr når du handler",
+      "kode": null,
+      "utløper": "2024-07-12",
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "d8ca9158-d3ce-4547-9af2-d9f211daf64b",
+      "butikk": "Komplett Club",
+      "beskriving": "Centurion Lite L1 Laptop 15,6\" FHD til 3 990,- (spar 1 000,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "b45dbd05-f07c-4850-8101-ef1c3e078d70",
+      "butikk": "Komplett Club",
+      "beskriving": "MacBook Pro 14 M5 (2025) 512GB (stellarsvart) til 19 990,- (spar 2 000,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "cd775c7d-ada9-46b2-aee5-67bf7380fe86",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på Vertic strandhåndkle (Capri Blue og Cashmere). Førpris 590 DKK, nå 390 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "4eaf88c5-6332-4487-bb2a-b0d71c076100",
+      "butikk": "Elkjøp",
+      "beskriving": "50% på Epoq kjøkken og vaskerom",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "fa80bf8e-29a0-4560-b1ea-e0f479fdbf88",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på alle sommerleker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "ff253c1c-1b4e-4550-8d77-e6adc8e6b364",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Sommerdyne til særpris: fra 790 DKK (førpris fra 1.450 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-01"
     }
   ]
 }
