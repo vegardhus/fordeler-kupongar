@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-01",
+  "oppdatert": "2026-07-02",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4439,15 +4439,6 @@
       "lagt_til": "2026-07-01"
     },
     {
-      "id": "c4e94d53-521b-45f8-a2a7-115e6c0018a3",
-      "butikk": "Komplett Club",
-      "beskriving": "Delta i trekningen av et gavekort på 5 000 kr når du handler",
-      "kode": null,
-      "utløper": "2024-07-12",
-      "kjelde": "epost",
-      "lagt_til": "2026-07-01"
-    },
-    {
       "id": "d8ca9158-d3ce-4547-9af2-d9f211daf64b",
       "butikk": "Komplett Club",
       "beskriving": "Centurion Lite L1 Laptop 15,6\" FHD til 3 990,- (spar 1 000,-)",
@@ -4500,6 +4491,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-01"
+    },
+    {
+      "id": "98e2df8d-aba4-497f-8fd8-85b0033f3248",
+      "butikk": "Strawberry",
+      "beskriving": "Bo 1 natt, og få det talt som 2 kvalifiserende netter i lojalitetsprogrammet.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-02"
+    },
+    {
+      "id": "8d18864c-1849-4bcb-a7ef-92b9addfb4e0",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 66%",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-02"
+    },
+    {
+      "id": "c215a102-1b1c-4993-b082-2ee2d0c6003a",
+      "butikk": "Barnas Hus",
+      "beskriving": "50-40% på klær, yttertøy og sko",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-02"
+    },
+    {
+      "id": "0606de61-ee2c-4c90-8866-1d36a5a614d9",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% rabatt på sesongens varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-02"
+    },
+    {
+      "id": "02d59d9c-cf3c-4fc3-9ca1-5ffb9e4dca81",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "2 for 1 på all solskjerming (ukens medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-02"
+    },
+    {
+      "id": "f4ba8405-ea86-4b1c-8841-e39ff7f0ac74",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "2 for 1 på Selma lingardin",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-02"
+    },
+    {
+      "id": "8e6ec3b8-fd23-44a3-a765-ea47a2e858fa",
+      "butikk": "Strawberry",
+      "beskriving": "3x poeng på hotellnetter",
+      "kode": null,
+      "utløper": "2024-07-01",
+      "kjelde": "epost",
+      "lagt_til": "2026-07-02"
     }
   ]
 }
