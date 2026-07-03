@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-02",
+  "oppdatert": "2026-07-03",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4547,13 +4547,22 @@
       "lagt_til": "2026-07-02"
     },
     {
-      "id": "8e6ec3b8-fd23-44a3-a765-ea47a2e858fa",
-      "butikk": "Strawberry",
-      "beskriving": "3x poeng på hotellnetter",
+      "id": "4a46c6f8-4c5c-4d61-a73f-4279fa4abd59",
+      "butikk": "Barnas Hus",
+      "beskriving": "Gravid- og ammepute til 1299,-",
       "kode": null,
-      "utløper": "2024-07-01",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-07-02"
+      "lagt_til": "2026-07-03"
+    },
+    {
+      "id": "161e82fc-edc3-4353-84c7-3ea95b10fcc9",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 66% på utvalgte produkter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-03"
     }
   ]
 }
