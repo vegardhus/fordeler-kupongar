@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-03",
+  "oppdatert": "2026-07-04",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4563,6 +4563,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-03"
+    },
+    {
+      "id": "2d5297a3-0a95-4a4a-859a-296592bcb9a2",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Stripe 1979 strandtaske og clutch til introduktionspris. Førpris 780 DKK, nå 490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-04"
+    },
+    {
+      "id": "b72263f7-afe0-4777-85f4-1c6a097f7bfc",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på sesongens varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-04"
+    },
+    {
+      "id": "edb463f0-1e03-44cb-87ce-960ea58808e5",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på all solskjerming (ukens medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-04"
+    },
+    {
+      "id": "2895787a-a22b-410f-b6a3-e120f106e7f4",
+      "butikk": "Strawberry",
+      "beskriving": "Bo 1 natt og få 2 kvalifiserende netter til lojalitetsprogrammet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-04"
+    },
+    {
+      "id": "f20d7c3b-d19f-4325-a46e-5dbf9abcf939",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 66% på TV, mobil, PC og hvitevarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-04"
     }
   ]
 }
