@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-04",
+  "oppdatert": "2026-07-05",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4608,6 +4608,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-04"
+    },
+    {
+      "id": "f9a6902b-b131-4752-ac9d-582e1d03c4cf",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Stripe 1979 strandtaske og clutch til introduktionspris (490 DKK, før 780 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-05"
     }
   ]
 }
