@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-05",
+  "oppdatert": "2026-07-06",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4617,6 +4617,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-05"
+    },
+    {
+      "id": "ea25abea-0922-4fac-9688-b2a370bed838",
+      "butikk": "Clas Ohlson",
+      "beskriving": "15 % rabatt når du handler minst 2 varer på nett",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-06"
+    },
+    {
+      "id": "4315d7ad-dbdf-4e73-9dd4-26898581eb15",
+      "butikk": "Elkjøp",
+      "beskriving": "54% rabatt på en LG vask",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-06"
+    },
+    {
+      "id": "bfe7ef78-2bda-46e9-bc5f-412dba1849d4",
+      "butikk": "Elkjøp",
+      "beskriving": "40% rabatt på en Samsung laptop",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-06"
+    },
+    {
+      "id": "143331db-c245-430a-949f-b5459204468f",
+      "butikk": "Barnas Hus",
+      "beskriving": "60-50% på ALLE salgsvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-06"
+    },
+    {
+      "id": "55fee66b-8926-49b9-8ddb-1723966c15fa",
+      "butikk": "Kid Interiør",
+      "beskriving": "60% rabatt på sesongens varer ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-06"
     }
   ]
 }
