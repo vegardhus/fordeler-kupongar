@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-06",
+  "oppdatert": "2026-07-07",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4662,6 +4662,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-06"
+    },
+    {
+      "id": "f2565c66-2410-4ad8-bea7-fe0ce611b8b6",
+      "butikk": "Elkjøp",
+      "beskriving": "54% rabatt på en LG vaskemaskin",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-07"
     }
   ]
 }
