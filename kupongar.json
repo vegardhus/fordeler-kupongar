@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-07",
+  "oppdatert": "2026-07-08",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4671,6 +4671,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-07"
+    },
+    {
+      "id": "f05bbc3e-0ffe-430a-b424-8ba447f43671",
+      "butikk": "Komplett",
+      "beskriving": "Ecovacs GOAT A1600 LiDAR PRO robotgressklipper til 9 990,- (spar 7 009,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-08"
+    },
+    {
+      "id": "2dd14d5e-6b77-487a-a3fe-099483c2326a",
+      "butikk": "Komplett",
+      "beskriving": "Worx WR340E robotgressklipper + kanttrimningskit til 13 990,- (spar 4 989,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-08"
     }
   ]
 }
