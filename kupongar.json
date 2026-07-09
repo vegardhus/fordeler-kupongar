@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-08",
+  "oppdatert": "2026-07-09",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4689,6 +4689,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-08"
+    },
+    {
+      "id": "805d4d2a-f0a1-4b3f-99a9-d7c3c2799752",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 66% på sommersalget",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-09"
+    },
+    {
+      "id": "ef7d6c5c-195e-404f-9621-b4a075c47d0a",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Even Stripe toilettaske og kosmetikpung til introduktionspris (350 DKK, normalpris 690 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-09"
+    },
+    {
+      "id": "ed113b05-4261-42f5-85ad-7b8bf40a0637",
+      "butikk": "Kid",
+      "beskriving": "60% på sesongens varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-09"
+    },
+    {
+      "id": "d7d8dbe4-43b4-4067-986f-bb739829bd28",
+      "butikk": "Kid",
+      "beskriving": "50% på hagemøbler og utepotter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-09"
+    },
+    {
+      "id": "6a3d0d64-5089-4a56-9427-2a2fb61377b0",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil -30% på Cybex-vogn og bilstol",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-09"
     }
   ]
 }
