@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-09",
+  "oppdatert": "2026-07-10",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4734,6 +4734,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-09"
+    },
+    {
+      "id": "455ac511-2b8b-4db3-b864-af402128f935",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Even Stripe toilettaske og kosmetikpung til introduktionspris. Få et sæt for 350 DKK (normalpris 690 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-10"
+    },
+    {
+      "id": "a34e7784-9e66-42e2-a6ea-33b62d2e7b4b",
+      "butikk": "Kid Interiør",
+      "beskriving": "60% rabatt på sesongens varer ved kjøp av tre eller flere varer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-10"
     }
   ]
 }
