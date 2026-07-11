@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-10",
+  "oppdatert": "2026-07-11",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4752,6 +4752,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-10"
+    },
+    {
+      "id": "2e103599-436d-45ea-b496-53189369fa28",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "60% på sesongens varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-11"
+    },
+    {
+      "id": "0514a30e-4e6a-4bf2-9cdf-2eae62f139bf",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "2 for 1 på lystette gardiner og liftgardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-11"
+    },
+    {
+      "id": "e8d96bf5-a787-4639-8849-ddef9d064f15",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Even Stripe toilettaske og kosmetikpung til introduktionspris. Normalpris 690 DKK, introduktionspris 350 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-11"
     }
   ]
 }
