@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-11",
+  "oppdatert": "2026-07-12",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4779,6 +4779,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-11"
+    },
+    {
+      "id": "681c3b81-a12b-4721-aae7-da622b759c8b",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "60% rabatt på sesongens varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-12"
     }
   ]
 }
