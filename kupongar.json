@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-12",
+  "oppdatert": "2026-07-13",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4788,6 +4788,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-12"
+    },
+    {
+      "id": "6a6a74a0-5d79-4bc4-94c9-0f0624191fc4",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "2 for 1 på alle dundyner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-13"
+    },
+    {
+      "id": "0f511a79-6f51-403c-a2bd-e808777b916e",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "60% rabatt ved kjøp av tre eller flere sesongvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-13"
+    },
+    {
+      "id": "98c098d9-a99a-4212-9493-22ebf76ea30e",
+      "butikk": "Kid",
+      "beskriving": "60% rabatt på sesongens varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-13"
+    },
+    {
+      "id": "04215d1f-95f1-4965-9eb2-a8ac313cb08c",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på lystette gardiner og liftgardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-13"
     }
   ]
 }
