@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-13",
+  "oppdatert": "2026-07-14",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4824,6 +4824,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-13"
+    },
+    {
+      "id": "48a03f99-2bb2-4f59-a5a1-3e27431dec87",
+      "butikk": "Coop",
+      "beskriving": "-40% på Coop syltetøy og juice (1,5 l / 370-500 g)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-14"
     }
   ]
 }
