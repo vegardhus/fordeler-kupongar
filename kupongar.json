@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-14",
+  "oppdatert": "2026-07-15",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4833,6 +4833,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-14"
+    },
+    {
+      "id": "eec4de90-6c7b-4ebe-918b-45d874eee8bc",
+      "butikk": "Komplett Club",
+      "beskriving": "Phanteks XT Pro Ultra V2 Mid Tower til 775,- (førpris 999,-, spar 224,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-15"
+    },
+    {
+      "id": "d6801419-f21d-4031-8990-8c2a1ae48378",
+      "butikk": "Komplett Club",
+      "beskriving": "AOC 27\" gamingskjerm Q27G4ZD til 3 990,- (spar 2 000,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-15"
+    },
+    {
+      "id": "00b16fa8-e3f3-4434-af90-4d5362d4bb87",
+      "butikk": "Barnas Hus",
+      "beskriving": "Reisevogn til 1690,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-15"
+    },
+    {
+      "id": "ef044fcd-2246-41c1-b7e0-d7775dd9dc5b",
+      "butikk": "Coop",
+      "beskriving": "-40% på Coop syltetøy og juice/nektar/iste (1,5 l / 370-500 g)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-15"
+    },
+    {
+      "id": "1594cbd6-b94e-4f89-ab03-5d8a05863f28",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Even Stripe toilettaske og kosmetikpung sæt til introduktionspris. Normalpris 690 DKK, introduktionspris 350 DKK. Vælg mellem farverne Blue Haze og Archive Linen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-15"
+    },
+    {
+      "id": "b4e5ac16-603c-471f-b2f5-d0ead38faa44",
+      "butikk": "Komplett",
+      "beskriving": "Ecovacs GOAT A1600 LiDAR PRO robotgressklipper til 9 990,- (spar 7 009,- fra førpris 16 999,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-15"
     }
   ]
 }
