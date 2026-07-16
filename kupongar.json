@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-15",
+  "oppdatert": "2026-07-16",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4887,6 +4887,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-15"
+    },
+    {
+      "id": "ac68d5d6-7c96-4a0f-89fe-8a915379bd13",
+      "butikk": "Elkjøp",
+      "beskriving": "Sommersalget: Spar opptil 66% på utvalgte varer. Siste sjanse.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-16"
+    },
+    {
+      "id": "0089e98d-c34a-4509-8ae0-27ec2d79e3ff",
+      "butikk": "Kid",
+      "beskriving": "70% på sommervarer ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-16"
+    },
+    {
+      "id": "c53f7ef4-3df7-479f-b29a-e56b868ed89e",
+      "butikk": "Barnas Hus",
+      "beskriving": "25% rabatt på alle produkter fra BabyBjörn",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-16"
+    },
+    {
+      "id": "c914f394-2586-414b-a2ae-c90fda56ab19",
+      "butikk": "Komplett Club",
+      "beskriving": "Phanteks XT Pro Ultra V2 Mid Tower til 775,- (spar 224,- fra 999,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-16"
+    },
+    {
+      "id": "ce40f69e-3baa-4247-93fc-cba8582877dd",
+      "butikk": "Komplett Club",
+      "beskriving": "AOC 27\" gamingskjerm Q27G4ZD til 3990,- (spar 2000,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-16"
     }
   ]
 }
