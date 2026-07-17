@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-16",
+  "oppdatert": "2026-07-17",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4932,6 +4932,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-16"
+    },
+    {
+      "id": "cc6b5316-924d-4f92-80c8-a007747c6186",
+      "butikk": "Elkjøp",
+      "beskriving": "Sommersalget går mot slutten, spar opptil 66%",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-17"
+    },
+    {
+      "id": "aad6818e-7516-4197-b3d5-b0469e593446",
+      "butikk": "Barnas Hus",
+      "beskriving": "25% rabatt på alt fra BabyBjörn",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-17"
+    },
+    {
+      "id": "9dd3f942-efb4-4d76-bf19-da9a84e330e8",
+      "butikk": "Komplett",
+      "beskriving": "Phanteks XT Pro Ultra V2 Mid Tower til 775,- (spar 224,- fra førpris 999,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-17"
+    },
+    {
+      "id": "cda4f717-015e-4733-b629-df49a937eeee",
+      "butikk": "Komplett",
+      "beskriving": "AOC 27\" gamingskjerm Q27G4ZD til 3 990,- (spar 2 000,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-17"
+    },
+    {
+      "id": "94842f02-e1a2-47cd-99ac-79902bbcd503",
+      "butikk": "Coop",
+      "beskriving": "-40% på Coop syltetøy (370-500 g) og Coop juice/nektar/iste (1,5 l)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-17"
     }
   ]
 }
