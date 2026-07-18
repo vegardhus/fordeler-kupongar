@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-17",
+  "oppdatert": "2026-07-18",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4977,6 +4977,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-17"
+    },
+    {
+      "id": "74e4ce8c-4765-484d-821c-07116798fd8f",
+      "butikk": "Elkjøp",
+      "beskriving": "Tilgang til klubbpriser",
+      "kode": null,
+      "utløper": "2024-07-31",
+      "kjelde": "epost",
+      "lagt_til": "2026-07-18"
+    },
+    {
+      "id": "43d78855-4a51-4224-bae0-0ef7f33d561c",
+      "butikk": "Elkjøp",
+      "beskriving": "Tilgang til partnertilbud",
+      "kode": null,
+      "utløper": "2024-07-31",
+      "kjelde": "epost",
+      "lagt_til": "2026-07-18"
+    },
+    {
+      "id": "c86b01a0-fd06-4aa3-ace7-32a5dc73a69d",
+      "butikk": "Elkjøp",
+      "beskriving": "Kjøp 4 betal for 3",
+      "kode": null,
+      "utløper": "2024-07-31",
+      "kjelde": "epost",
+      "lagt_til": "2026-07-18"
+    },
+    {
+      "id": "b2737627-42e0-4d9b-b856-c107e24bd668",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "70% rabatt ved kjøp av tre eller flere sesongvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-18"
+    },
+    {
+      "id": "dc7e2f2c-f432-48b1-bf5d-b986487c55e2",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Alle dundyner 2 for 1 (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-18"
+    },
+    {
+      "id": "e5dee271-e6a1-4565-bba7-6d8c07058c2a",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "70% på sommervarer ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-18"
     }
   ]
 }
