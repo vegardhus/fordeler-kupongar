@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-20",
+  "oppdatert": "2026-07-21",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5103,6 +5103,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-20"
+    },
+    {
+      "id": "a5b01574-768d-4c69-a487-f89195ad4b4c",
+      "butikk": "Strawberry",
+      "beskriving": "20% rabatt på sommerbestillinger",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-21"
+    },
+    {
+      "id": "bd7ed15a-6dd0-4dee-b807-711f93f57039",
+      "butikk": "Barnas Hus",
+      "beskriving": "Spar opptil 30% på seng, babycall, madrasser og mer!",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-21"
+    },
+    {
+      "id": "d2a2ca55-7ace-4144-a01b-56bbbe6b78e2",
+      "butikk": "Barnas Hus",
+      "beskriving": "-70% på ALLE salgsvarer!",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-21"
+    },
+    {
+      "id": "cc2af6c6-485c-4700-b94e-85b832392f25",
+      "butikk": "Kid interiør",
+      "beskriving": "70% rabatt på alle sesongvarer ved kjøp av tre eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-21"
+    },
+    {
+      "id": "4fc5c02b-c82e-494a-bb0b-05c5b2113b67",
+      "butikk": "Elkjøp",
+      "beskriving": "Kjøp 4, betal for 3",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-21"
     }
   ]
 }
