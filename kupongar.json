@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-21",
+  "oppdatert": "2026-07-22",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5148,6 +5148,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-21"
+    },
+    {
+      "id": "2f192699-8e0a-4a3e-94c8-52482458cb76",
+      "butikk": "Komplett",
+      "beskriving": "6 måneder Viaplay Total ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8 (verdi 4 794 kr)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-22"
+    },
+    {
+      "id": "f19da75e-5ec3-4ec1-8f51-fdf3f7ebe497",
+      "butikk": "Komplett",
+      "beskriving": "Galaxy Buds4 Pro ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8 (verdi 2 990 kr)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-22"
+    },
+    {
+      "id": "02f0537e-b396-4c44-a99b-08d97c694658",
+      "butikk": "Komplett",
+      "beskriving": "Opptil 2 000 kr ekstra i innbytteverdi for din gamle telefon ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-22"
+    },
+    {
+      "id": "b1bc40e4-8187-4456-b5b1-46324c3e3a9d",
+      "butikk": "Strawberry",
+      "beskriving": "20% rabatt på sommeropphold",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-22"
+    },
+    {
+      "id": "6c9cc135-9dd3-4737-9340-f9341062f872",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Frottépakke med 2 Damask Terry håndklæder (50x100 cm, Cool Grey) og 1 Noble Botanics håndsæbe til særpris 330 DKK (førpris 720 DKK). Tilbuddet gælder kun online.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-22"
     }
   ]
 }
