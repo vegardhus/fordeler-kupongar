@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-22",
+  "oppdatert": "2026-07-23",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5193,6 +5193,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-22"
+    },
+    {
+      "id": "26fd5f0b-6796-4aff-91eb-02657e4663d9",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1500 kr på iPhone ved kjøp med abonnement",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-23"
+    },
+    {
+      "id": "a4a60df1-e21e-496c-b6e6-930034ceb403",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Abild 35 badehåndklæde (100x150 cm) med tote bag til jubilæumspris. Normalpris 590 DKK, nå 350 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-23"
+    },
+    {
+      "id": "3cd32781-0582-4bf4-b765-e8ba3b266e21",
+      "butikk": "Komplett Club",
+      "beskriving": "Lanseringstilbud på Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8. Få fordeler verdt opptil 9 784 kr, inkludert 6 måneder Viaplay Total (verdi 4 794 kr), Galaxy Buds4 Pro (verdi 2 990 kr), og opptil 2 000 kr ekstra i innbytteverdi for din gamle telefon.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-23"
     }
   ]
 }
