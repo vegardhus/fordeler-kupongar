@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-23",
+  "oppdatert": "2026-07-24",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5220,6 +5220,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-23"
+    },
+    {
+      "id": "61320dcb-10b5-40e4-b6c7-831272dcebdc",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1500.- på iPhone ved kjøp med abonnement",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-24"
+    },
+    {
+      "id": "0e08b1a3-a693-4fba-9f81-bd940c7f2809",
+      "butikk": "Komplett Club",
+      "beskriving": "Lanseringstilbud: Få Viaplay Total i 6 måneder (verdi 4794 kr), Galaxy Buds4 Pro (verdi 2990 kr) og opptil 2000 kr ekstra i innbytteverdi ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8. Total verdi opptil 9784 kr.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-24"
+    },
+    {
+      "id": "ff4c3559-9a26-47aa-af73-2a6bc9dbaad0",
+      "butikk": "Coop Hotellkupp",
+      "beskriving": "Sommersalg på hotell",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-24"
+    },
+    {
+      "id": "65cdc42f-31e3-44d9-91cf-a32a83ba8dfe",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger er tilgjengelige på din konto",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-24"
+    },
+    {
+      "id": "81908a3d-2823-4cba-8746-e2f450e5f109",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp på Farris 1,5 l (alle varianter)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-24"
     }
   ]
 }
