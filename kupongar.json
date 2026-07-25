@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-24",
+  "oppdatert": "2026-07-25",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5265,6 +5265,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-24"
+    },
+    {
+      "id": "2c41cf0b-4bb6-457c-8674-e7abf0b412b7",
+      "butikk": "Kid",
+      "beskriving": "50% på alle gardiner og pynteputer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-25"
+    },
+    {
+      "id": "bc2ab49f-674a-4b74-8b89-c2e75e9c25aa",
+      "butikk": "Komplett",
+      "beskriving": "6 måneder Viaplay Total ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8 (verdi 4794 kr)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-25"
+    },
+    {
+      "id": "49f9092c-7daa-4b44-8f22-df92aa638262",
+      "butikk": "Komplett",
+      "beskriving": "Galaxy Buds4 Pro ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8 (verdi 2990 kr)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-25"
+    },
+    {
+      "id": "afdab636-a63a-48f5-9a97-417e563d50be",
+      "butikk": "Komplett",
+      "beskriving": "Opptil 2000 kr ekstra i innbytteverdi for din gamle telefon ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-25"
+    },
+    {
+      "id": "85df59cc-dbf2-43d2-bd9a-d6176f17ce09",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp på all Farris 1,5 l",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-25"
+    },
+    {
+      "id": "0b1d49cc-6386-47c8-9cb0-3a7ea1e2859b",
+      "butikk": "Barnas Hus",
+      "beskriving": "70% rabatt på alle salgsvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-25"
     }
   ]
 }
