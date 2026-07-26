@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-25",
+  "oppdatert": "2026-07-26",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5319,6 +5319,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-25"
+    },
+    {
+      "id": "3bbd8ef1-a435-4885-8737-1eb522885430",
+      "butikk": "Komplett Club",
+      "beskriving": "6 måneder Viaplay Total ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8. Verdi 4 794 kr. Tilbudet gjelder i lanseringsperioden og har begrenset antall koder.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-26"
+    },
+    {
+      "id": "a3eab021-8674-4648-9df7-18b4e633bab1",
+      "butikk": "Komplett Club",
+      "beskriving": "Galaxy Buds4 Pro ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8. Verdi 2 990 kr. Tilbudet gjelder i lanseringsperioden.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-26"
+    },
+    {
+      "id": "2898ac86-2d65-4f88-882b-cdb215e48203",
+      "butikk": "Komplett Club",
+      "beskriving": "Opptil 2 000 kr ekstra i innbytteverdi for din gamle telefon ved kjøp av Galaxy Z Fold8, Z Fold8 Ultra eller Z Flip8. Tilbudet gjelder i lanseringsperioden.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-26"
     }
   ]
 }
