@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-26",
+  "oppdatert": "2026-07-27",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5346,6 +5346,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-26"
+    },
+    {
+      "id": "597d85c9-cfc2-44d2-a5b8-10aa6c19b4c3",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-27"
+    },
+    {
+      "id": "71b2ab2a-f9a4-4c5c-953d-1e1ee46b2e0f",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på sengesett",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-27"
+    },
+    {
+      "id": "6f736b29-e922-485e-bb52-d8f2b260d033",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på sengetepper",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-27"
+    },
+    {
+      "id": "0ccd7c6a-ca1a-4bba-9b85-30ad97c918c9",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på Hotel Selection håndkleserie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-27"
     }
   ]
 }
