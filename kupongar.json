@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-27",
+  "oppdatert": "2026-07-28",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -4196,15 +4196,6 @@
       "lagt_til": "2026-06-21"
     },
     {
-      "id": "df7d0372-100d-4b25-a2e5-c9ad81704ac8",
-      "butikk": "Circle K (via Coop Medlem)",
-      "beskriving": "Få 3-pk boller (verdi 44,90) når du fyller mer enn 20 liter drivstoff.",
-      "kode": null,
-      "utløper": "2026-07-27",
-      "kjelde": "epost",
-      "lagt_til": "2026-06-22"
-    },
-    {
       "id": "9cd485f7-ff30-427a-9548-9891100f0bd3",
       "butikk": "Elkjøp",
       "beskriving": "Spar 50% på Epoq-kjøkken og vaskerom",
@@ -4273,15 +4264,6 @@
       "beskriving": "30% rabatt på MAM og Bambino",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-06-24"
-    },
-    {
-      "id": "5948ee50-ead8-4bd6-b81b-e7175e470aee",
-      "butikk": "Circle K (via Coop Medlem)",
-      "beskriving": "Få 3-pk boller (verdi 44,90) når du fyller mer enn 20 liter bensin/diesel.",
-      "kode": null,
-      "utløper": "2026-07-27",
       "kjelde": "epost",
       "lagt_til": "2026-06-24"
     },
@@ -5382,6 +5364,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-27"
+    },
+    {
+      "id": "a0c7ef4b-fcf5-4575-b6b0-6be72408459d",
+      "butikk": "Clas Ohlson",
+      "beskriving": "15 % rabatt når du handler minst to varer på nett!",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-28"
+    },
+    {
+      "id": "0264e394-c6cd-4006-b87e-b4759c3d91f2",
+      "butikk": "Barnas Hus",
+      "beskriving": "Ullbonanza! Nå: 199,- pr del",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-28"
+    },
+    {
+      "id": "917578ec-0bec-40b4-b9f0-5228ffef5589",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,- du handler for. Gjelder ved kjøp av flere favoritter.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-28"
+    },
+    {
+      "id": "bddf9868-3dba-4818-b30a-1869a7171c28",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på sengesett og sengetepper",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-28"
     }
   ]
 }
