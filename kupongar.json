@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-28",
+  "oppdatert": "2026-07-29",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5400,6 +5400,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-28"
+    },
+    {
+      "id": "ad00c055-cba6-45a8-b374-f94f29df44d7",
+      "butikk": "Komplett Club",
+      "beskriving": "iPhone 17 Pro 256GB til medlemspris. Spar 1000,- (førpris 15990,-, nå 14990,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-29"
+    },
+    {
+      "id": "62c35646-f3fd-4d1d-b27e-e9e8323c470c",
+      "butikk": "Komplett Club",
+      "beskriving": "Apple AirPods Pro 3 Trådløse Ørepropper til medlemspris. Spar 100,- (førpris 2890,-, nå 2790,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-29"
+    },
+    {
+      "id": "a6c7afc9-ea28-4c7a-a743-6ac4925f4781",
+      "butikk": "Komplett Club",
+      "beskriving": "AirTag (2. gen.) sporingsbrikke - 4-pakning til medlemspris (1199,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-29"
+    },
+    {
+      "id": "8ef61805-5854-45de-842d-531f5850c639",
+      "butikk": "Clas Ohlson",
+      "beskriving": "15 % rabatt når du handler minst to varer på nett",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-29"
+    },
+    {
+      "id": "0945b96f-719a-4497-ad76-55dde9655e1d",
+      "butikk": "Strawberry",
+      "beskriving": "Sommerens favorittkampanje for smakfulle sommerdager i Göteborg",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-29"
+    },
+    {
+      "id": "241387f7-c057-46da-bc85-4d91aaf2b37d",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,- du handler for. Mix dine favoritter og få mer for pengene.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-29"
     }
   ]
 }
