@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-29",
+  "oppdatert": "2026-07-30",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5454,6 +5454,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-29"
+    },
+    {
+      "id": "ebb55026-1a55-4fb8-8940-2e08190bdab5",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 56% på PC-tilbud under 'PC dager'.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "04c39e5d-f2a7-47cb-b695-0e020d3a6d01",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20% rabatt på alle lagner (sengetøy). Inkluderer Supima, Egyptian Satin og Signature kvaliteter, i mange farger, størrelser og varianter (flate lagner, lagner til boksmadrass og til dobbel elevationsseng).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "57daa6c4-90df-4fd2-9514-20ef7dc09fde",
+      "butikk": "Barnas Hus",
+      "beskriving": "-25% på sekker fra Beckmann",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "dcfa94ce-12d6-41c5-9339-3abab797257e",
+      "butikk": "Kid",
+      "beskriving": "40% på alle lamper og lyslenker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "c40cf53c-4d7a-490f-8988-ac3c5bb2a7ae",
+      "butikk": "Komplett Club",
+      "beskriving": "iPhone 17 Pro 256GB til medlemspris. Spar 1000,- (før 15990,-, nå 14990,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "1e982a00-9daf-41ee-9fbe-8a4b45ac5cb1",
+      "butikk": "Komplett Club",
+      "beskriving": "Apple AirPods Pro 3 Trådløse Ørepropper til medlemspris. Spar 100,- (før 2890,-, nå 2790,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "61f44f10-d64f-45e5-8dbf-aacd18c20f08",
+      "butikk": "Komplett Club",
+      "beskriving": "AirTag (2. gen.) sporingsbrikke - 4-pakning til medlemspris. Nå 1199,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "17b29bea-58bf-47a7-970e-13e39831b489",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,- du handler for. Mix dine favoritter.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-30"
     }
   ]
 }
