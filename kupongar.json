@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-30",
+  "oppdatert": "2026-07-31",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5526,6 +5526,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-30"
+    },
+    {
+      "id": "c28400eb-57bf-4fb8-aa3b-7a5366c2f411",
+      "butikk": "Elkjøp",
+      "beskriving": "PC dager: Spar opptil 56% på PC-tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-31"
+    },
+    {
+      "id": "83be141e-bdf1-4ee3-ac37-221d8ec38dc6",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20 % rabatt på alle lagner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-31"
+    },
+    {
+      "id": "1b3775be-9355-491d-9633-9be969eca442",
+      "butikk": "Komplett Club",
+      "beskriving": "1000 kr rabatt på iPhone 17 Pro 256GB (nå 14 990,-, før 15 990,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-31"
+    },
+    {
+      "id": "0625699f-3173-4951-af6f-ff6623509b02",
+      "butikk": "Komplett Club",
+      "beskriving": "100 kr rabatt på Apple AirPods Pro 3 Trådløse Ørepropper (nå 2 790,-, før 2 890,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-31"
+    },
+    {
+      "id": "f8e87ac6-4c03-40ee-8848-8ba33fc8a777",
+      "butikk": "Komplett Club",
+      "beskriving": "AirTag (2. gen.) sporingsbrikke - 4-pakning til medlemspris: 1 199,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-07-31"
     }
   ]
 }
