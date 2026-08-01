@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-07-31",
+  "oppdatert": "2026-08-01",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5571,6 +5571,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-07-31"
+    },
+    {
+      "id": "474d13d2-57b9-4583-a9aa-d3f30db4c370",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "50% på gardiner og pynteputer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-01"
+    },
+    {
+      "id": "8923af8a-11cc-4aae-8c18-957679759c31",
+      "butikk": "Kid",
+      "beskriving": "40% rabatt på alle lamper og lyslenker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-01"
+    },
+    {
+      "id": "72336640-147c-4459-a17e-4646679b2631",
+      "butikk": "Komplett Club",
+      "beskriving": "iPhone 17 Pro 256GB til medlemspris. Spar 1000,- (før 15990,-, nå 14990,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-01"
+    },
+    {
+      "id": "cfa26b8d-f20f-4c5d-9012-7039e7aaf0ad",
+      "butikk": "Komplett Club",
+      "beskriving": "Apple AirPods Pro 3 Trådløse Ørepropper til medlemspris. Spar 100,- (før 2890,-, nå 2790,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-01"
+    },
+    {
+      "id": "2fec9ef3-3b7e-4867-b911-b1c5010d4d22",
+      "butikk": "Komplett Club",
+      "beskriving": "AirTag (2. gen.) sporingsbrikke - 4-pakning til medlemspris: 1199,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-01"
     }
   ]
 }
