@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-01",
+  "oppdatert": "2026-08-02",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5616,6 +5616,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-01"
+    },
+    {
+      "id": "a5ca6697-4068-4151-b3aa-ef04d75f4f41",
+      "butikk": "Barnas Hus",
+      "beskriving": "Spar 1500,- på vår bestselgende vogn",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-02"
+    },
+    {
+      "id": "ef4d54bb-d3bd-4492-9e2b-45ac6100a700",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20% rabatt på alle lagner (Supima, Egyptian Satin, Signature). Tilbudet utløper i dag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-02"
+    },
+    {
+      "id": "ecd38298-9d6a-411d-8a21-6b00beb2c6ed",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "50% på soveromsvarer (gardiner og pynteputer)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-02"
+    },
+    {
+      "id": "491bc6ba-3508-4a72-837d-9eca6079b1e9",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 56% på PC-tilbud under PC dager.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-02"
     }
   ]
 }
