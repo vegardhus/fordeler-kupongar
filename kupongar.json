@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-02",
+  "oppdatert": "2026-08-03",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5652,6 +5652,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-02"
+    },
+    {
+      "id": "edd93138-42a7-4d96-99df-b629eb064e7b",
+      "butikk": "Coop",
+      "beskriving": "6 bokser Tine IsKaffe til 69,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-03"
+    },
+    {
+      "id": "a05b510a-4639-4893-8179-b696c1394d4f",
+      "butikk": "Coop",
+      "beskriving": "Blåbær 400 g til 59,90 kr (149,75 kr/kg)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-03"
+    },
+    {
+      "id": "57f8d7fa-4584-4cf1-abb7-fa5a57766b15",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil -40 % på rutere og overvåkningskameraer med klubbpris",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-03"
+    },
+    {
+      "id": "c9dd3346-3c3f-45b4-a7b0-38dae4050d27",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil 30% på et stort utvalg!",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-03"
+    },
+    {
+      "id": "31ad8cb5-fbcc-4a60-af24-04207e1697be",
+      "butikk": "Kid",
+      "beskriving": "Living håndkleserie 2 for 1",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-03"
     }
   ]
 }
