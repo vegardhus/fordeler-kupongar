@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-03",
+  "oppdatert": "2026-08-04",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5697,6 +5697,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-03"
+    },
+    {
+      "id": "4b813e73-3a01-46f6-ad59-0fa7dc77c1ef",
+      "butikk": "Strawberry",
+      "beskriving": "Opptil 20% rabatt på hotellopphold",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-04"
+    },
+    {
+      "id": "6b40662e-3804-4914-8c41-ff274c5faad6",
+      "butikk": "Coop",
+      "beskriving": "Blåbær 400 g til 59,90,- (basert på 149,75 kr/kg)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-04"
+    },
+    {
+      "id": "e7e56172-e2df-4b4e-82b6-0a39e04de23f",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Klubbpris! Opptil -40 % på rutere og overvåkningskameraer.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-04"
+    },
+    {
+      "id": "1bb355ab-7850-4a9d-9115-659b633a0dec",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil 30% på et stort utvalg (Barnehagestart)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-04"
+    },
+    {
+      "id": "79b5be76-2ef4-4e7b-a585-297e2f0e754c",
+      "butikk": "Kid Interiør",
+      "beskriving": "Living håndkleserie 2 for 1",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-04"
+    },
+    {
+      "id": "0697ebb1-ce27-49cc-a0c0-48c10e7ad567",
+      "butikk": "Elkjøp",
+      "beskriving": "PC dager med helt rå PC-tilbud. Spar opptil 56% på PC-deals.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-04"
     }
   ]
 }
