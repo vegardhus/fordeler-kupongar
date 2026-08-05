@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-04",
+  "oppdatert": "2026-08-05",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5751,6 +5751,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-04"
+    },
+    {
+      "id": "f5cbf479-dfbe-4dd6-a6d9-71455671cc8e",
+      "butikk": "Norwegian",
+      "beskriving": "Spar opptil 50 % på innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-05"
+    },
+    {
+      "id": "9bb1338d-4585-4c70-a114-5c35cf161a5f",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på matbokser og drikkeflasker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-05"
+    },
+    {
+      "id": "3a56ab49-e70b-4760-9293-c2229a144eff",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil -40 % på rutere og overvåkningskameraer (klubbpris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-05"
+    },
+    {
+      "id": "f6fa72dd-1e44-4162-b615-70db74e4b53c",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20 % på alle lagner (sengetøy)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-05"
+    },
+    {
+      "id": "93f97cca-e17a-4269-a24e-57b476c73e01",
+      "butikk": "Elkjøp",
+      "beskriving": "PC dager med tilbud på PC-er. Spar opptil 56% på PC-deals.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-05"
     }
   ]
 }
