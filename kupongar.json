@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-05",
+  "oppdatert": "2026-08-06",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5796,6 +5796,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-05"
+    },
+    {
+      "id": "913ac8c4-73e9-48ce-9b6a-56ab2f2bc9c3",
+      "butikk": "Elkjøp",
+      "beskriving": "Helgetilbud på Galaxy S26 og S26 Ultra. Spar tusenvis.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-06"
+    },
+    {
+      "id": "a0ba466b-69c6-4c74-80c6-924fed8728ec",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Strandhåndklæde VERTIC (Capri Blue og Cashmere) til kampagnepris. Førpris 590 DKK, no 390 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-06"
+    },
+    {
+      "id": "7044d95a-429d-4e77-88a1-03082ec9c8a5",
+      "butikk": "Barnas Hus",
+      "beskriving": "Parkdresser fra 599,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-06"
+    },
+    {
+      "id": "0f5365e1-c7fc-4088-b1ee-a0a963da3677",
+      "butikk": "Barnas Hus",
+      "beskriving": "Regnsett til 449,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-06"
+    },
+    {
+      "id": "8dd64f5c-4a30-405e-8715-cce50f666a6e",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Halv pris på alle gardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-06"
+    },
+    {
+      "id": "625b7c29-3b2a-4ebc-969d-76a383dac4b9",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Opptil 50% på solskjerming",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-06"
+    },
+    {
+      "id": "9f925909-df64-4e7c-8c28-7bc01fd5f333",
+      "butikk": "Norwegian.no",
+      "beskriving": "Spar opptil 50 % ved å bestille ekstra innsjekket bagasje på nett i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-06"
     }
   ]
 }
