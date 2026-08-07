@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-06",
+  "oppdatert": "2026-08-07",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5859,6 +5859,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-06"
+    },
+    {
+      "id": "aa86b347-a616-480c-9edd-f24acda540b7",
+      "butikk": "Elkjøp",
+      "beskriving": "Helgetilbud på Galaxy S26 og S26 Ultra",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-07"
     }
   ]
 }
