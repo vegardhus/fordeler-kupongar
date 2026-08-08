@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-07",
+  "oppdatert": "2026-08-08",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5868,6 +5868,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-07"
+    },
+    {
+      "id": "8b726e6c-e10a-40fb-8206-b07b88481667",
+      "butikk": "Kid",
+      "beskriving": "50% på Hotel Selection håndkleserie hos Kid Horisont, Bergen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-08"
+    },
+    {
+      "id": "e80fff9c-15fb-4e31-ba92-17c6f71b021e",
+      "butikk": "Kid",
+      "beskriving": "Halv pris på alle gardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-08"
     }
   ]
 }
