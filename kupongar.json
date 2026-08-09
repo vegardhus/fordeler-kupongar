@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-08",
+  "oppdatert": "2026-08-09",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5886,6 +5886,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-08"
+    },
+    {
+      "id": "c656de7b-2445-4a26-a860-c613857e13b9",
+      "butikk": "Barnas Hus",
+      "beskriving": "Ull til barnehagen 199,- pr del",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-09"
+    },
+    {
+      "id": "8a59ae5b-bd49-4d31-80d9-45de1a92bd7b",
+      "butikk": "Kid",
+      "beskriving": "50% på Hotel Selection håndkleserie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-09"
     }
   ]
 }
