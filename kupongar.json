@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-10",
+  "oppdatert": "2026-08-11",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5931,6 +5931,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-10"
+    },
+    {
+      "id": "936635c1-957c-415d-956d-6ed0d08a827f",
+      "butikk": "Kid",
+      "beskriving": "Krepp sengesett fra 199,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-11"
     }
   ]
 }
