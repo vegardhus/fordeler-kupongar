@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-11",
+  "oppdatert": "2026-08-12",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5940,6 +5940,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-11"
+    },
+    {
+      "id": "eb0dffe3-b46f-46b9-8b55-6fe21a05a40a",
+      "butikk": "Coop",
+      "beskriving": "Tilbud på Tine IsKaffe 6pk",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-12"
+    },
+    {
+      "id": "5cee4340-cb0d-4121-bd49-20fce78840dd",
+      "butikk": "Komplett Club",
+      "beskriving": "Sennheiser MOMENTUM 5 trådløse hodetelefoner, Over-Ear. Nå 3 990,- (førpris 4 490,-). Spar 500,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-12"
+    },
+    {
+      "id": "0c2a0382-ac67-4400-97fe-43d5778b3b8c",
+      "butikk": "Komplett Club",
+      "beskriving": "Sony PS-LX3BT platespiller, trådløs Bluetooth. Nå 2 890,- (førpris 3 290,-). Spar 400,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-12"
+    },
+    {
+      "id": "0d57460c-e56c-4c5f-b71f-aabb631bf286",
+      "butikk": "Komplett Club",
+      "beskriving": "JBL Flip 7 trådløs bluetooth høyttaler, 2-pack. Nå 1 990,-. Spar 989,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-12"
     }
   ]
 }
