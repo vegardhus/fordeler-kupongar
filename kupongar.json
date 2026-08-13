@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-12",
+  "oppdatert": "2026-08-13",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -5976,6 +5976,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-12"
+    },
+    {
+      "id": "5e07e725-b492-4033-a8a2-76488048a11a",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på bambusklær",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-13"
+    },
+    {
+      "id": "d1bc0795-2cfa-4aa2-bd64-f65a5771232e",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "10 stk. vaskeklude i Stripe 1979-design (Blue Hour og Archive Linen) til særpris. Førpris 750 DKK, no 490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-13"
+    },
+    {
+      "id": "1ca7dc8b-9ba8-4e1c-bf42-20ee57697ecb",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 50% på Lenovo laptop",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-13"
+    },
+    {
+      "id": "838e3083-c2b5-4c21-8e6a-37356e14250e",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 44% på TCL 65\" TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-13"
+    },
+    {
+      "id": "d6cabb05-d294-4992-8476-3427d1976b4d",
+      "butikk": "Kid",
+      "beskriving": "40% på bordtekstiler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-13"
+    },
+    {
+      "id": "33f0fe7d-d011-4399-8529-48ee0a270307",
+      "butikk": "Kid",
+      "beskriving": "50% på pynt og dekor",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-13"
+    },
+    {
+      "id": "78ff72dd-9814-4d91-a6e3-83d35c010f24",
+      "butikk": "Coop",
+      "beskriving": "Tine IsKaffe 6pk",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-13"
     }
   ]
 }
