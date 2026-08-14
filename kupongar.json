@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-13",
+  "oppdatert": "2026-08-14",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6039,6 +6039,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-13"
+    },
+    {
+      "id": "6c1383fc-04cd-4542-ac40-eff375fe27de",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% på bambusklær",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-14"
+    },
+    {
+      "id": "4f5feb2e-3516-4ec0-accf-f8df32ff7c61",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "10 stk. vaskeklude i Stripe 1979-design (Blue Hour og Archive Linen) til særpris 490 DKK (førpris 750 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-14"
     }
   ]
 }
