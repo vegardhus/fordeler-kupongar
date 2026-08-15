@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-14",
+  "oppdatert": "2026-08-15",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6057,6 +6057,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-14"
+    },
+    {
+      "id": "5552b807-f146-4d58-bf41-a8cb2e58bc27",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% på alle gardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "dd35ac04-6c6e-4a1c-a58e-b65af87f5c44",
+      "butikk": "Kid Interiør",
+      "beskriving": "30-50% på møbler (Møbeldager)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "d78ce690-4155-4f47-bff9-49453d463148",
+      "butikk": "Kid Interiør",
+      "beskriving": "50% på soveromsvarer (Soveromsdager)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "3016b7ec-73bd-479f-a6f1-244a98898d14",
+      "butikk": "Elkjøp",
+      "beskriving": "50% rabatt på Lenovo laptop",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "d566a77d-a57b-4d38-b3e6-27f27e68cb53",
+      "butikk": "Elkjøp",
+      "beskriving": "44% rabatt på TCL 65\" TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "d4f25ef4-6b7f-4f5f-ae9a-bac26cadeb37",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "40% rabatt på bordtekstiler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "8a506726-a8f7-4573-a263-0c5a80765509",
+      "butikk": "Komplett Club",
+      "beskriving": "Sennheiser MOMENTUM 5 trådløse hodetelefoner, Over-Ear for 3 990,- (spar 500,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "6daa9c7f-a8e0-4a72-8ad9-f3f60f903808",
+      "butikk": "Komplett Club",
+      "beskriving": "Sony PS-LX3BT platespiller, trådløs Bluetooth for 2 890,- (spar 400,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "ec940f08-0ff8-4994-8ace-f34a3901def5",
+      "butikk": "Komplett Club",
+      "beskriving": "JBL Flip 7 trådløs bluetooth høyttaler, 2-pack for 1 990,- (spar 989,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-15"
     }
   ]
 }
