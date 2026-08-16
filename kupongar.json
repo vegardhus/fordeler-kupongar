@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-15",
+  "oppdatert": "2026-08-16",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6138,6 +6138,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-15"
+    },
+    {
+      "id": "0862b482-5b70-40e8-a95b-77b4ae258ae9",
+      "butikk": "Barnas Hus",
+      "beskriving": "Nettkupp! Opptil 30% på vogner og bilstoler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-16"
+    },
+    {
+      "id": "76ad86ba-7777-4555-9d76-b08a40789c4a",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på alle gardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-16"
+    },
+    {
+      "id": "21c442c7-8d58-4092-9fab-f07f73dad79b",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "30-50% på møbler (Møbeldager)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-16"
+    },
+    {
+      "id": "2e148044-46b5-45bf-b7c9-2ac8b8ec00f8",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på soveromsvarer (Soveromsdager)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-16"
+    },
+    {
+      "id": "4b0aa5b2-da6f-43fa-a344-b918c92f8ee4",
+      "butikk": "Barnas Hus",
+      "beskriving": "-30% på bambusklær",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-16"
+    },
+    {
+      "id": "d3fb3dd6-8dd5-4509-a621-497ab9213326",
+      "butikk": "Coop",
+      "beskriving": "Medlemstilbud på Tine IsKaffe 6pk",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-16"
     }
   ]
 }
