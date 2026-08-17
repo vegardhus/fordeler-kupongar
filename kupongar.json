@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-16",
+  "oppdatert": "2026-08-17",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6192,6 +6192,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-16"
+    },
+    {
+      "id": "dc10dc0c-422b-4797-9f7d-c0892692a5ec",
+      "butikk": "Coop",
+      "beskriving": "-40% på alle supper, sauser, gryter, ovnsretter og asiatisk fra Toro",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-17"
+    },
+    {
+      "id": "84ce3541-6bb1-4359-be52-3d8c86f1f47d",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på utvalgte gardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-17"
+    },
+    {
+      "id": "74fc0b12-377f-4085-8eaa-bb815d17ec1e",
+      "butikk": "Coop",
+      "beskriving": "Nye personlige kuponger er tilgjengelige for medlemmer. Se mer på Coop Min Side.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-17"
+    },
+    {
+      "id": "091dded2-312c-4b9b-80a6-ac9d4b5669fc",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp på Tine IsKaffe 6pk. Se detaljer på Coop.no.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-17"
+    },
+    {
+      "id": "1301a8be-93d3-487d-b8b7-fc1d4339ef7b",
+      "butikk": "Norwegian.no",
+      "beskriving": "Spar opptil 50% på innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-17"
     }
   ]
 }
