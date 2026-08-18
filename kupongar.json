@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-17",
+  "oppdatert": "2026-08-18",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6237,6 +6237,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-17"
+    },
+    {
+      "id": "1760d304-73c9-4c99-9ba5-daaadaec7b38",
+      "butikk": "Strawberry",
+      "beskriving": "Få 2x kvalifiserende netter for å nå høyere medlemsnivå raskere.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-18"
+    },
+    {
+      "id": "f17c7a3e-3d92-4968-bfb8-6998f3a51342",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Linen Melange plaid i farven Blue Haze til særpris 390 DKK (normalpris 990 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-18"
+    },
+    {
+      "id": "1901064e-a503-4f64-b7ea-0a4acc54a438",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "2 for 1 på utvalgte gardiner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-18"
     }
   ]
 }
