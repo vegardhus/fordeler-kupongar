@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-18",
+  "oppdatert": "2026-08-19",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6264,6 +6264,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-18"
+    },
+    {
+      "id": "78d5c98c-7c2d-434d-a4d9-dd87f8ebc8a2",
+      "butikk": "Elkjøp",
+      "beskriving": "Klubbpriser",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-19"
+    },
+    {
+      "id": "df6ba360-6870-4dbb-93d5-e7c318806a1f",
+      "butikk": "Elkjøp",
+      "beskriving": "Partnertilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-19"
+    },
+    {
+      "id": "16e7cf36-717f-4576-a6a9-dd7ad0ecc4c3",
+      "butikk": "Elkjøp",
+      "beskriving": "Kjøp 4 betal for 3",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-19"
+    },
+    {
+      "id": "9610e018-bb68-457f-a26d-0f0323054ded",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Klubbpris: 30 % rabatt på matoppbevaring",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-19"
+    },
+    {
+      "id": "fa3260e8-cbfc-4e0b-9d5d-71806487534e",
+      "butikk": "Barnas Hus",
+      "beskriving": "Merinoull 199 kr pr del",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-19"
+    },
+    {
+      "id": "7bbb01d0-ca9a-484a-bd62-201c7ae3f76b",
+      "butikk": "Strawberry",
+      "beskriving": "Få 2x kvalifiserende netter for å nå et høyere medlemsnivå raskere.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-19"
+    },
+    {
+      "id": "b4569002-4eb5-481d-9702-3ed35785dcf8",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Linen Melange plaid i fargen Blue Haze til særpris 390 DKK (normalpris 990 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-19"
     }
   ]
 }
