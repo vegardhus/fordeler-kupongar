@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-19",
+  "oppdatert": "2026-08-20",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6327,6 +6327,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-19"
+    },
+    {
+      "id": "8070b4e5-bb10-4129-8e43-e0b480bcdf5a",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 20% på hvitevarer ved kjøp av minst to",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-20"
+    },
+    {
+      "id": "0572149d-3e94-471f-8b6f-46c3ffc8d989",
+      "butikk": "Elkjøp",
+      "beskriving": "Klubbpriser på utvalgte varer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-20"
+    },
+    {
+      "id": "897d9a24-ab93-4ed4-b0c5-607e66522da2",
+      "butikk": "Elkjøp",
+      "beskriving": "Spesielle tilbud fra partnere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-20"
+    },
+    {
+      "id": "e8f6cf5d-07fe-4079-974f-b1361a8c40bd",
+      "butikk": "Strawberry",
+      "beskriving": "Få 2x kvalifiserande netter for å nå høgare medlemsnivå raskare.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-20"
     }
   ]
 }
