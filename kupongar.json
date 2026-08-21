@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-20",
+  "oppdatert": "2026-08-21",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6363,6 +6363,96 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-20"
+    },
+    {
+      "id": "a7130d94-05ef-4605-868f-0274421c73be",
+      "butikk": "Komplett Club",
+      "beskriving": "Opptil 50 % rabatt på hodetelefoner, høyttalere og mer under 'Lyddager'.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "df9dd053-8db0-4f04-a331-a339b755c6bf",
+      "butikk": "Komplett Club",
+      "beskriving": "Sony PS-LX3BT platespiller, trådløs Bluetooth, automatisk avspilling for 2 890,- (spar 400,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "85111ec2-18a4-4729-909f-6428536c8810",
+      "butikk": "Komplett Club",
+      "beskriving": "JBL PartyBox 520 Partyhøyttaler 2-pack for 12 490,- (spar 6 489,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "106b3514-2856-485f-be0b-ec436611bf11",
+      "butikk": "Komplett Club",
+      "beskriving": "Apple AirPods 4 med Støyredusering for 1 890,- (spar 300,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "afa79ced-a108-49fd-918b-b0d78e82464d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Bestill navnefrotté senest 23. august for levering i desember (garantert julelevering).",
+      "kode": null,
+      "utløper": "2023-08-23",
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "9b1e22c6-8992-4314-b72d-076d8839c710",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Klubbpris: –30 % på matoppbevaring",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "3cf3e71d-fd9d-47f0-bfea-4f8baa80ff93",
+      "butikk": "Barnas Hus",
+      "beskriving": "Merinoull 199 kr per del",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "e50d31e7-dca5-4ccb-a242-2725e1728456",
+      "butikk": "Strawberry",
+      "beskriving": "Få 2x kvalifiserende netter mot høyere medlemsnivå",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "910bad43-2c88-4b13-a455-abed808bcfd0",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Linen Melange plaid (Blue Haze) til særpris 390 DKK (normalpris 990 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
+    },
+    {
+      "id": "7f3c0812-dd54-43b3-ba9a-b5c659597fba",
+      "butikk": "Elkjøp",
+      "beskriving": "Ekstra gode priser på mobil under Mobiluker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-21"
     }
   ]
 }
