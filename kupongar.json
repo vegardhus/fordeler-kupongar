@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-22",
+  "oppdatert": "2026-08-23",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6500,15 +6500,6 @@
       "lagt_til": "2026-08-22"
     },
     {
-      "id": "44893a68-d432-423b-8131-f7bb0ce149e3",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Garanti for levering av navnefrotté i desember ved bestilling",
-      "kode": null,
-      "utløper": "2023-08-23",
-      "kjelde": "epost",
-      "lagt_til": "2026-08-22"
-    },
-    {
       "id": "38c4bb3a-a59d-4cfd-a8bc-d487eafd8eb9",
       "butikk": "Kid",
       "beskriving": "50% rabatt på pynt og dekor",
@@ -6561,6 +6552,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-22"
+    },
+    {
+      "id": "9de9c224-6fdd-4602-a6d0-ddc239c39c02",
+      "butikk": "Barnas Hus",
+      "beskriving": "Regnsett til 399,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-23"
+    },
+    {
+      "id": "0844920b-f3ec-4b2c-ac60-808eadb3cee1",
+      "butikk": "Barnas Hus",
+      "beskriving": "Støvler til 199,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-23"
+    },
+    {
+      "id": "7da0a3b1-9a11-44c6-aabe-7d2a2777781d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Køkkenpakke med 2 stk. Becker 63 viskestykker og 2 stk. 3PLY karklude til særpris (295 DKK, før 425 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-23"
+    },
+    {
+      "id": "dcb261b9-ebc8-4bf5-9268-32ea1edd5352",
+      "butikk": "Komplett",
+      "beskriving": "Opptil 50 % rabatt på hodetelefoner, høyttalere og mer under 'Lyddager'.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-23"
+    },
+    {
+      "id": "eb056b63-5002-4017-af17-e37497cb9af5",
+      "butikk": "Komplett",
+      "beskriving": "Sony PS-LX3BT platespiller, trådløs Bluetooth, automatisk avspilling til 2 890,- (spar 400,- fra førpris 3 290,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-23"
+    },
+    {
+      "id": "fd74ff10-0f79-40e8-b04d-50f076132334",
+      "butikk": "Komplett",
+      "beskriving": "JBL PartyBox 520 Partyhøyttaler 2-pack til 12 490,- (spar 6 489,- fra førpris 18 979,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-23"
+    },
+    {
+      "id": "78eed82d-bc35-47c1-9b45-b137d52bbb32",
+      "butikk": "Komplett",
+      "beskriving": "Apple AirPods 4 med Støyredusering til 1 890,- (spar 300,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-23"
     }
   ]
 }
