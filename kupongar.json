@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-23",
+  "oppdatert": "2026-08-24",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6615,6 +6615,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-23"
+    },
+    {
+      "id": "4b412432-4bde-4732-bade-74cc9ff0f46e",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp: -40 % på supper, sauser, gryter, ovnsretter og asiatisk fra Toro.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-24"
+    },
+    {
+      "id": "55f5a6db-00b2-43a0-b6c5-b49b539adcfa",
+      "butikk": "Kid",
+      "beskriving": "50% på alle varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-24"
+    },
+    {
+      "id": "cab186d6-b370-4de5-bedd-b547b7b7fb66",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Køkkenpakke med 2 stk. Becker 63 viskestykker og 2 stk. 3PLY karklude til særpris. Førpris 425 DKK, no 295 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-24"
     }
   ]
 }
