@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-24",
+  "oppdatert": "2026-08-25",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6642,6 +6642,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-24"
+    },
+    {
+      "id": "07c4171b-9d40-4f2e-869a-5f512f32a3ac",
+      "butikk": "Norwegian",
+      "beskriving": "Spar opptil 50 % på ekstra innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-25"
+    },
+    {
+      "id": "c1db29b9-2214-47d4-85e1-baa7771834c1",
+      "butikk": "Norwegian",
+      "beskriving": "Spar opptil 50% på innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-25"
+    },
+    {
+      "id": "d3b7b26b-6c02-473a-9559-b0f33ad2337b",
+      "butikk": "Strawberry",
+      "beskriving": "30% rabatt på hotell i haust",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-25"
+    },
+    {
+      "id": "8345e2ab-c645-4663-8ea1-a9aac6d8d6f3",
+      "butikk": "Kid",
+      "beskriving": "50% på Pynt og dekor",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-25"
+    },
+    {
+      "id": "07c974cc-1aa8-458a-8499-2f24d37da790",
+      "butikk": "Kid",
+      "beskriving": "40% på Bordtekstiler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-25"
     }
   ]
 }
