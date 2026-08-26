@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-25",
+  "oppdatert": "2026-08-26",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6687,6 +6687,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-25"
+    },
+    {
+      "id": "392a921a-3be6-47ea-87e9-1b30a9f77a85",
+      "butikk": "IKEA",
+      "beskriving": "15 % på nesten alt i varehuset, unntatt kjøkken, mat i restauranten og bistroen. Gjelder også på allerede nedsatte priser.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-26"
+    },
+    {
+      "id": "6a265b2b-2655-451c-a462-599350c9c32f",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp: -40% på supper, sauser, gryter, ovnsretter og asiatisk fra Toro.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-26"
+    },
+    {
+      "id": "e53264f6-e10c-4c9e-bd56-d7b7ac12e042",
+      "butikk": "Elkjøp Skøyen",
+      "beskriving": "Elleville Samsungdager: Spar opptil 66%. Gjelder kun torsdag – søndag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-26"
+    },
+    {
+      "id": "539af658-8e28-4dd3-87f8-41dbaff6dbf4",
+      "butikk": "Barnas Hus",
+      "beskriving": "Bambusklær -30%",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-26"
+    },
+    {
+      "id": "432cf707-9295-42ed-9bb2-115537734924",
+      "butikk": "Barnas Hus",
+      "beskriving": "Merinoull 199 kr",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-26"
+    },
+    {
+      "id": "14538f97-cebc-47c4-bac4-a851fd2d9315",
+      "butikk": "Norwegian",
+      "beskriving": "Spar opptil 50% på ekstra innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang) i stedet for på flyplassen.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-26"
     }
   ]
 }
