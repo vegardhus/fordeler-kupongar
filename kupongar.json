@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-26",
+  "oppdatert": "2026-08-27",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6741,6 +6741,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-26"
+    },
+    {
+      "id": "57548131-b65f-4fce-b475-f7d6fca76ab2",
+      "butikk": "Kid",
+      "beskriving": "50% på alle varer ved kjøp av 3 eller flere (Medlemsfest)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-27"
+    },
+    {
+      "id": "1f49f4ef-f7ab-4a88-b0f4-3a1bdff8ce14",
+      "butikk": "IKEA",
+      "beskriving": "15 % rabatt på nesten alt i varehuset. Unntak: kjøkken, mat i restauranten og bistroen. Gjelder også på allerede nedsatte priser.",
+      "kode": null,
+      "utløper": "2020-08-29",
+      "kjelde": "epost",
+      "lagt_til": "2026-08-27"
+    },
+    {
+      "id": "dc5f79ce-adb0-41f9-b175-161f02628fa2",
+      "butikk": "Coop",
+      "beskriving": "40% rabatt på supper, sauser, gryter, ovnsretter og asiatisk fra Toro.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-27"
+    },
+    {
+      "id": "3c56be40-1cb7-4f01-bc72-67158542656f",
+      "butikk": "Elkjøp Skøyen",
+      "beskriving": "Opptil 66% rabatt under Elleville Samsungdager. Tilbudet gjelder kun torsdag – søndag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-27"
+    },
+    {
+      "id": "f3c18149-20bf-4b43-b279-e2fd89dfa5e0",
+      "butikk": "Norwegian",
+      "beskriving": "Spar opptil 50 % på ekstra innsjekket bagasje ved å bestille på nett (inntil 4 timer før avgang).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-27"
     }
   ]
 }
