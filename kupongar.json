@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-28",
+  "oppdatert": "2026-08-29",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6840,6 +6840,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-28"
+    },
+    {
+      "id": "c35940c0-bd51-46af-be39-043aa662c4fa",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. håndklæder (gæstehåndklæder, håndklæder, badehåndklæder eller badelagner) i farven Walnut til særpris. Førpris fra 380 DKK, særpris fra 220 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-29"
+    },
+    {
+      "id": "83b5ee5f-fb47-491d-8ca4-46d4d4a228eb",
+      "butikk": "Komplett Club",
+      "beskriving": "Samsung 75\" Q6F QLED 4K smart-TV til 8 990,- (spar 9 000,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-29"
+    },
+    {
+      "id": "f0566494-ee65-44d2-8ba0-1e50a7bcfb4d",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 1 208,- (produkt ikke spesifisert)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-29"
+    },
+    {
+      "id": "f843511e-a8d1-41ba-8c84-19d94b359e9c",
+      "butikk": "IKEA",
+      "beskriving": "15 % på nesten alt i varehuset (unntatt kjøkken, mat i restauranten og bistroen). Gjelder også på allerede nedsatte priser.",
+      "kode": null,
+      "utløper": "2026-08-29",
+      "kjelde": "epost",
+      "lagt_til": "2026-08-29"
+    },
+    {
+      "id": "7b9637f9-7322-4f04-867b-136f25e8a1d5",
+      "butikk": "Barnas Hus",
+      "beskriving": "Merinoull til 199 kr",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-29"
     }
   ]
 }
