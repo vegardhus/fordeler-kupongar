@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-29",
+  "oppdatert": "2026-08-30",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6806,15 +6806,6 @@
       "lagt_til": "2026-08-28"
     },
     {
-      "id": "3082cd43-8395-4d32-9de8-5468ff049650",
-      "butikk": "IKEA Family",
-      "beskriving": "15 % rabatt på nesten alt i varehuset, unntatt kjøkken, mat i restauranten og bistroen. Gjelder også på allerede nedsatte priser.",
-      "kode": null,
-      "utløper": "2026-08-29",
-      "kjelde": "epost",
-      "lagt_til": "2026-08-28"
-    },
-    {
       "id": "7cf91282-052a-415f-8909-71b678e43048",
       "butikk": "Coop",
       "beskriving": "Nye kuponger er tilgjengelige for medlemmer. Se dem på Coop sine sider.",
@@ -6869,15 +6860,6 @@
       "lagt_til": "2026-08-29"
     },
     {
-      "id": "f843511e-a8d1-41ba-8c84-19d94b359e9c",
-      "butikk": "IKEA",
-      "beskriving": "15 % på nesten alt i varehuset (unntatt kjøkken, mat i restauranten og bistroen). Gjelder også på allerede nedsatte priser.",
-      "kode": null,
-      "utløper": "2026-08-29",
-      "kjelde": "epost",
-      "lagt_til": "2026-08-29"
-    },
-    {
       "id": "7b9637f9-7322-4f04-867b-136f25e8a1d5",
       "butikk": "Barnas Hus",
       "beskriving": "Merinoull til 199 kr",
@@ -6885,6 +6867,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-29"
+    },
+    {
+      "id": "e3dbe469-35c0-4cb1-a83a-9b7d73be74c6",
+      "butikk": "Komplett Club",
+      "beskriving": "Samsung 75\" Q6F QLED 4K smart-TV, spar 9 000,- (Nå 8 990,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-30"
+    },
+    {
+      "id": "5650a6b1-79a2-471b-8a9b-93e604a79eb6",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil 20% på et stort utvalg under Stokkedager",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-30"
     }
   ]
 }
