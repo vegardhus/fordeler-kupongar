@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-30",
+  "oppdatert": "2026-08-31",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6885,6 +6885,15 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-30"
+    },
+    {
+      "id": "92d50c73-4aae-48b4-8e5d-f5b1450533ba",
+      "butikk": "Strawberry",
+      "beskriving": "Hotellrom til 900 kr, 1300 kr eller 1600 kr som del av eit stort haustsal. Gjeld på 130 hotell.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-08-31"
     }
   ]
 }
