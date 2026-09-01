@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-08-31",
+  "oppdatert": "2026-09-01",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6894,6 +6894,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-08-31"
+    },
+    {
+      "id": "3e5e727c-a5da-44c8-aa56-df514069c9d7",
+      "butikk": "IKEA",
+      "beskriving": "Gode tilbud og second hand-kupp under IKEA Family-dagene, inkludert baklukeloppis",
+      "kode": null,
+      "utløper": "2023-09-12",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "c5403e16-e80f-49f7-8eb7-4b81cc23b215",
+      "butikk": "Strawberry",
+      "beskriving": "Tilbod om 3-retters middag og overnatting",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "2abe6514-2ce9-4a82-b0f1-3d7c0b32a65a",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Supima Percale sengetøj i farven Walnut til særpris. Førpris fra 1.150 DKK, nu fra 850 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "234b95a7-0ac2-48d1-b6d0-5dbecfced4cd",
+      "butikk": "Strawberry",
+      "beskriving": "Hotellrom for 900 kr, 1300 kr eller 1600 kr",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "6452af20-ff1d-407b-9354-b742f736a2ca",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 50% på Samsung vaskemaskin",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "e1460d91-73f2-4efa-8862-539641d799b3",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 55% på Lenovo laptop",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "666e2bec-927c-4f6c-a246-7931cedabe65",
+      "butikk": "IKEA Family",
+      "beskriving": "15 % rabatt på nesten alt i varehuset, også på allerede nedsatte priser. Gjelder ikke kjøkken, mat i restauranten og bistroen.",
+      "kode": null,
+      "utløper": "2026-08-29",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "d7be9efc-760b-4b02-9fa9-7702330f0c8d",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp -40 % på supper, sauser, gryter, ovnsretter og asiatisk fra Toro.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-01"
     }
   ]
 }
