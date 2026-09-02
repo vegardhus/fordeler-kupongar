@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-01",
+  "oppdatert": "2026-09-02",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -6896,15 +6896,6 @@
       "lagt_til": "2026-08-31"
     },
     {
-      "id": "3e5e727c-a5da-44c8-aa56-df514069c9d7",
-      "butikk": "IKEA",
-      "beskriving": "Gode tilbud og second hand-kupp under IKEA Family-dagene, inkludert baklukeloppis",
-      "kode": null,
-      "utløper": "2023-09-12",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-01"
-    },
-    {
       "id": "c5403e16-e80f-49f7-8eb7-4b81cc23b215",
       "butikk": "Strawberry",
       "beskriving": "Tilbod om 3-retters middag og overnatting",
@@ -6950,15 +6941,6 @@
       "lagt_til": "2026-09-01"
     },
     {
-      "id": "666e2bec-927c-4f6c-a246-7931cedabe65",
-      "butikk": "IKEA Family",
-      "beskriving": "15 % rabatt på nesten alt i varehuset, også på allerede nedsatte priser. Gjelder ikke kjøkken, mat i restauranten og bistroen.",
-      "kode": null,
-      "utløper": "2026-08-29",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-01"
-    },
-    {
       "id": "d7be9efc-760b-4b02-9fa9-7702330f0c8d",
       "butikk": "Coop",
       "beskriving": "Medlemskupp -40 % på supper, sauser, gryter, ovnsretter og asiatisk fra Toro.",
@@ -6966,6 +6948,123 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-01"
+    },
+    {
+      "id": "21a73476-d18e-4ae1-819c-91a6e3da058a",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar opp til 13 000 kr på TV",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "8b7aa2f4-7cfc-47ea-8343-4ef10fb65b9e",
+      "butikk": "Komplett Club",
+      "beskriving": "Ukens tilbud (generell tilbudsside)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "91357b59-befe-4f08-b14f-65bd2c5521dc",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming Deals (generell tilbudsside)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "6c36fcd7-5919-4546-9994-5730f6492113",
+      "butikk": "Komplett Club",
+      "beskriving": "iPad 11\" (2025) 128GB WiFi til 5690 kr (spar 300 kr)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "2d860f7a-576c-4754-8a46-fb3d3da26d33",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 400 kr (generelt tilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "41e3744e-4d69-4cc7-84d6-a0a89dac7e73",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil -40 % på SmartStore Home-oppbevaring",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "c8682846-1ff1-43e3-80a3-213232d63bef",
+      "butikk": "Barnas Hus",
+      "beskriving": "-30% på ull fra Reflex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "2e28d78e-5c9c-4335-ab63-365f942f6fbe",
+      "butikk": "Strawberry",
+      "beskriving": "Hotellrom for 900 kr, 1300 kr eller 1600 kr. Velg mellom 130 hotell.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "44c90386-8799-4134-868c-71f83ed57068",
+      "butikk": "Elkjøp",
+      "beskriving": "50% rabatt på Samsung vaskemaskin",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "deaa2ae2-08e4-4f19-925e-914aafa7923d",
+      "butikk": "Elkjøp",
+      "beskriving": "55% rabatt på Lenovo laptop",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "c66772c4-0be7-41a8-9ea1-1bdc107a3f8e",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "e6691ba8-636d-4335-b7a9-f4bf9362f875",
+      "butikk": "Komplett Club",
+      "beskriving": "Nyheter og tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "ce3f36e9-148c-417d-98da-223fc518e6d1",
+      "butikk": "Komplett Club",
+      "beskriving": "Flex tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-02"
     }
   ]
 }
