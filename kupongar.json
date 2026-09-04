@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-02",
+  "oppdatert": "2026-09-04",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7065,6 +7065,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-02"
+    },
+    {
+      "id": "134c151d-8b01-40be-a914-341e62d77386",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Mulberry Silk Quilt til særpris 290 DKK",
+      "kode": null,
+      "utløper": "2020-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "0073e469-7c25-40ed-a87d-fdcd6adae3c8",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20 % på alt* (ikkje Lillerød og allereie nedsatte varer) og få ein gratis tote bag med alle kjøp.",
+      "kode": null,
+      "utløper": "2020-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "d16b9e32-2782-4eca-bee5-55288c70e06f",
+      "butikk": "IKEA",
+      "beskriving": "Doble IKEA Family-poeng ved kjøp i varehuset.",
+      "kode": null,
+      "utløper": "2020-09-12",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "3c307eca-cf38-4f92-aeb9-5e304810f606",
+      "butikk": "Elkjøp",
+      "beskriving": "Samsung Galaxy S25 mobiltelefon til kun 5490,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "70647ca9-8381-4bde-badb-a9817dec32a1",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på alle varer ved kjøp av 3 eller flere (for medlemmer)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "12375c9f-4afe-44c9-a051-d31d58824700",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gratis tote bag ved alle kjøp online og i butikk",
+      "kode": null,
+      "utløper": "2023-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "33391367-18ce-4f2e-bc34-f1dad2f42fbf",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Patenteret fiberdyne til særpris fra 790 DKK",
+      "kode": null,
+      "utløper": "2023-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "e32025b7-ad7b-4011-8721-2aa277bcd5de",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Classic Lines sengetøy til særpris fra 590 DKK",
+      "kode": null,
+      "utløper": "2023-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
+    },
+    {
+      "id": "953c34d3-2f53-4aec-893b-5c365c6bf059",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Patenteret fiberpude til særpris fra 390 DKK",
+      "kode": null,
+      "utløper": "2023-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-04"
     }
   ]
 }
