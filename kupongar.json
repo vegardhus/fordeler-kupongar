@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-05",
+  "oppdatert": "2026-09-06",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7085,33 +7085,6 @@
       "lagt_til": "2026-09-04"
     },
     {
-      "id": "36b96b32-6b5f-4876-a512-b09b4a32bb21",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "20% rabatt på alt (gjelder ikke Lillerød og allerede nedsatte varer) og en gratis tote bag ved alle kjøp online og i butikk.",
-      "kode": null,
-      "utløper": "2020-09-06",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-05"
-    },
-    {
-      "id": "4a8c69c1-c86a-468f-94fe-31e54a4c7cff",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "2 stk. Solid badelagner i fargen Cedar Green for 240 DKK.",
-      "kode": null,
-      "utløper": "2020-09-06",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-05"
-    },
-    {
-      "id": "9a60d7dd-1196-4fdb-9c5e-00f5af2ff38d",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Pakke med 2 gjestehåndklær, 2 håndklær og 2 badehåndklær i fargen Ocean Grey for 690 DKK.",
-      "kode": null,
-      "utløper": "2020-09-06",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-05"
-    },
-    {
       "id": "6d811476-ef98-48f8-a67a-f852f84fcb3a",
       "butikk": "Kid",
       "beskriving": "50% på alle varer ved kjøp av 3 eller flere, for medlemmer",
@@ -7130,33 +7103,6 @@
       "lagt_til": "2026-09-05"
     },
     {
-      "id": "11bfcbee-a6ff-4d25-a317-37a5b82504a2",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Særtilbud på Mulberry Silk Quilt for 290 DKK. Blødt, allergivenligt og åndbart tæppe i Serene Grey.",
-      "kode": null,
-      "utløper": "2020-09-06",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-05"
-    },
-    {
-      "id": "1d21a324-9e98-43d8-bc07-cb3606abc2e6",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Spar 20 % på alt* og få en gratis tote bag med ved alle køb. *Gælder ikke Lillerød og i forvejen nedsatte varer.",
-      "kode": null,
-      "utløper": "2020-09-06",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-05"
-    },
-    {
-      "id": "1a55d420-573e-4472-85c9-9bf6943f7713",
-      "butikk": "IKEA",
-      "beskriving": "Doble IKEA Family-poeng ved kjøp i varehuset",
-      "kode": null,
-      "utløper": "2020-09-12",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-05"
-    },
-    {
       "id": "775433b6-5f42-4fcf-a938-50a20cc7f498",
       "butikk": "Kid",
       "beskriving": "50% på alle varer ved kjøp av 3 eller flere (for medlemmer)",
@@ -7164,6 +7110,96 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-05"
+    },
+    {
+      "id": "bd4e7b18-a487-4c1b-a34a-76a95052fef0",
+      "butikk": "Barnas Hus",
+      "beskriving": "Opptil -30% på bestselgere til baby",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "abe55db4-ccbe-4f45-be78-fd43e6803a6b",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "20% rabatt på nesten alt og gratis tote bag ved alle kjøp (gjelder ikke Lillerød og allerede nedsatte varer).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "26cf3de6-b19d-43ec-9890-9745e92e31d5",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Plain brødkurv (Archive og Light Grey) til særpris 140 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "b7db1855-be09-42c6-99a0-7f2344752a62",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gratis tote bag ved alle kjøp online og i butikk",
+      "kode": null,
+      "utløper": "2020-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "e81f732a-4797-47ea-b7b6-e43471279d9f",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "2 stk. Solid badelagner i fargen Cedar Green for 240 DKK",
+      "kode": null,
+      "utløper": "2020-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "e03595ba-5be8-4114-866f-f475a50010be",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Pakke med 2 gjestehåndklær, 2 håndklær og 2 badehåndklær i fargen Ocean Grey for 690 DKK",
+      "kode": null,
+      "utløper": "2020-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "eea03c63-616b-409d-a218-97c8c9d99cf5",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på alle varer ved kjøp av 3 eller flere, for medlemmer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "1819a2f7-fc9d-4d1d-84ee-ec5de6910e6d",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "30% på møbler og senger",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "03bde23a-39d9-4509-9300-6e2a0cb37fad",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Mulberry Silk Quilt til særpris 290 DKK",
+      "kode": null,
+      "utløper": "2020-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
+    },
+    {
+      "id": "7f7cf6af-5259-4512-86cc-b42b12c96970",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Spar 20 % på alt (unntatt Lillerød og allerede nedsatte varer) og få en gratis tote bag med alle kjøp",
+      "kode": null,
+      "utløper": "2020-09-06",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-06"
     }
   ]
 }
