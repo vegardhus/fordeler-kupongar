@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-08",
+  "oppdatert": "2026-09-10",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7290,6 +7290,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-08"
+    },
+    {
+      "id": "fda64160-e826-4642-b611-575e0b8a7d0b",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger er klare for deg. Her er det penger å spare neste gang du handler.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "9b279d06-731f-40ad-927f-30ad01216383",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på alt til soverommet og badet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "a62dbb76-4400-4f61-86c2-f6f1e55b64e4",
+      "butikk": "Kid",
+      "beskriving": "50% på fiberdyner og -puter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "d425059e-9c9d-40c1-961f-5a238f3fc02c",
+      "butikk": "Komplett Club",
+      "beskriving": "Club Deals (utløper ved midnatt i dag)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "6ba6a2e3-a020-4f0d-96ac-f833490cfa95",
+      "butikk": "Komplett Club",
+      "beskriving": "Ukens Tilbud (utløper ved midnatt i dag)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "b9e77106-79d1-4ddd-8497-2f1aa20a1cc5",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming Deals (utløper ved midnatt i dag)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "e9f7cc4c-03d5-44b5-8c26-7820019cc928",
+      "butikk": "Komplett Club",
+      "beskriving": "Nyheter (utløper ved midnatt i dag)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "d741d04a-4b61-472a-857d-ac03df4ba906",
+      "butikk": "Komplett Club",
+      "beskriving": "Få totalt 6 000 kr rabatt + Galaxy Watch8 BT 44mm (verdi 3 890 kr) ved bruk av rabattkode (utløper ved midnatt i dag)",
+      "kode": "SAM6000",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "e1d14159-32c7-4f24-9979-d39f78a741be",
+      "butikk": "Komplett Club",
+      "beskriving": "Samsung Galaxy S26 256GB for 6 490 kr (førpris 12 490 kr) med rabattkode (utløper ved midnatt i dag)",
+      "kode": "SAM6000",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-10"
     }
   ]
 }
