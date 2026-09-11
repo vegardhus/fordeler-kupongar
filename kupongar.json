@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-10",
+  "oppdatert": "2026-09-11",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7371,6 +7371,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-10"
+    },
+    {
+      "id": "fac08108-a552-4313-bb87-c87da423e0b5",
+      "butikk": "Elkjøp",
+      "beskriving": "Apple AirPods Pro 3 til kun 2390,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-11"
+    },
+    {
+      "id": "67808690-64d4-4824-adb8-4dd13779fbf8",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 1000,- for hver 5000,- du handler hvitevarer for",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-11"
     }
   ]
 }
