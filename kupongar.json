@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-11",
+  "oppdatert": "2026-09-12",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7389,6 +7389,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-11"
+    },
+    {
+      "id": "89d24307-96c9-4c6d-abce-5998ed7b340b",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming Deals",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "868d1bab-c035-4400-ba7d-923f31e8afe0",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Køkkenpakke med 2 stk. Becker 63 viskestykker og 2 stk. 3PLY karklude til særpris (295 DKK, før 425 DKK). Vælg mellem farverne Walnut og Chanterelle.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "b8a13bf0-8bd0-4371-910e-0ce6ae614dca",
+      "butikk": "Coop",
+      "beskriving": "Nye kuponger er tilgjengelige for å spare penger på neste handel. Se dem på Min Side.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "daaae7cd-b717-4f4e-b2df-1e5130f491e7",
+      "butikk": "Komplett",
+      "beskriving": "6 000 kr rabatt på Samsung Galaxy S26 256GB (førpris 12 490,-, nå 6 490,-) og gratis Galaxy Watch8 BT 44mm (verdi 3 890 kr)",
+      "kode": "SAM6000",
+      "utløper": "2023-10-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "55264d17-ce6f-476c-a361-62da5c625cd1",
+      "butikk": "Komplett",
+      "beskriving": "Diverse Club Deals",
+      "kode": null,
+      "utløper": "2023-10-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "b4795256-5824-4f0a-8be4-2feeeb67a0d1",
+      "butikk": "Komplett",
+      "beskriving": "Gaming Deals",
+      "kode": null,
+      "utløper": "2023-10-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "5f2c24de-acba-42f2-9e6e-b86786edb798",
+      "butikk": "IKEA",
+      "beskriving": "Mulighet til å gjøre flotte kupp i IKEA sin gjenbruksbutikk under bakluke-loppis 12. september",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "24b5f49d-ba55-4897-bf2b-474031574a00",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på alt til soverommet (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "296f0e2a-df6a-4901-82e9-f0f4c8df24cf",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på alt til badet (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-12"
     }
   ]
 }
