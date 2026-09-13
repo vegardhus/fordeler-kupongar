@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-12",
+  "oppdatert": "2026-09-13",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7418,33 +7418,6 @@
       "lagt_til": "2026-09-12"
     },
     {
-      "id": "daaae7cd-b717-4f4e-b2df-1e5130f491e7",
-      "butikk": "Komplett",
-      "beskriving": "6 000 kr rabatt på Samsung Galaxy S26 256GB (førpris 12 490,-, nå 6 490,-) og gratis Galaxy Watch8 BT 44mm (verdi 3 890 kr)",
-      "kode": "SAM6000",
-      "utløper": "2023-10-27",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-12"
-    },
-    {
-      "id": "55264d17-ce6f-476c-a361-62da5c625cd1",
-      "butikk": "Komplett",
-      "beskriving": "Diverse Club Deals",
-      "kode": null,
-      "utløper": "2023-10-27",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-12"
-    },
-    {
-      "id": "b4795256-5824-4f0a-8be4-2feeeb67a0d1",
-      "butikk": "Komplett",
-      "beskriving": "Gaming Deals",
-      "kode": null,
-      "utløper": "2023-10-27",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-12"
-    },
-    {
       "id": "5f2c24de-acba-42f2-9e6e-b86786edb798",
       "butikk": "IKEA",
       "beskriving": "Mulighet til å gjøre flotte kupp i IKEA sin gjenbruksbutikk under bakluke-loppis 12. september",
@@ -7470,6 +7443,114 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-12"
+    },
+    {
+      "id": "971c295c-327d-404f-bd6f-7e5900169aad",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% på bestselgere til baby",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "85cfb6af-a882-4f10-ae58-8b24e8b8df17",
+      "butikk": "Komplett.no",
+      "beskriving": "Ukens tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "adceb509-1268-499d-ae9a-43de7e77a682",
+      "butikk": "Komplett.no",
+      "beskriving": "Gaming deals",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "2a66ac06-5bc3-4311-add7-d969f2cec350",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Køkkenpakke med 2 stk. Becker 63 viskestykker og 2 stk. 3PLY karklude til særpris (295 DKK, førpris 425 DKK). Vælg mellem farverne Walnut og Chanterelle.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "99cbd187-e13a-44fa-bdfa-efedbfe01327",
+      "butikk": "Elkjøp",
+      "beskriving": "Apple AirPods Pro 3 til 2390,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "98a8bc46-8823-40e5-962e-88798d2b3f71",
+      "butikk": "Komplett Club",
+      "beskriving": "Club-tilbud (diverse produkter)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "42ad39d1-0dae-4539-a746-9d7ccca742b4",
+      "butikk": "Komplett Club",
+      "beskriving": "Ukens tilbud (diverse produkter)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "a6f2ae40-c7f0-497d-b7f2-9a344a673388",
+      "butikk": "Komplett Club",
+      "beskriving": "Gaming-tilbud (diverse produkter)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "9977ce7e-84b0-47a8-9977-23ec08f1c3a8",
+      "butikk": "Komplett Club",
+      "beskriving": "Nyheter og tilbud (diverse produkter)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "10a16d38-7c6c-4fbd-afbd-dc0d8987c9d5",
+      "butikk": "Komplett Club",
+      "beskriving": "Få 6000 kr rabatt + Galaxy Watch8 BT 44mm (verdi 3890 kr)",
+      "kode": "SAM6000",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "569a3330-56f5-4114-9eaf-a75cd419ffa3",
+      "butikk": "Komplett Club",
+      "beskriving": "Samsung Galaxy S26 256GB for 6490 kr (førpris 12490 kr)",
+      "kode": "SAM6000",
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "70f78bbd-35c5-4de1-99fb-52b73d9d5785",
+      "butikk": "Barnas Hus",
+      "beskriving": "Fri frakt over 1000 kr",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-13"
     }
   ]
 }
