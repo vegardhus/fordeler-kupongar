@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-13",
+  "oppdatert": "2026-09-14",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7551,6 +7551,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-13"
+    },
+    {
+      "id": "ad5e191e-b4ba-4c89-bdf9-32850b468741",
+      "butikk": "Clas Ohlson",
+      "beskriving": "Opptil -30% på bord- og taklamper fra Northlight",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-14"
+    },
+    {
+      "id": "8b525f57-33fe-4210-a14f-d060fa404be2",
+      "butikk": "Ving (via Coop Medlem)",
+      "beskriving": "Trippel medlemsrabatt på alle charterreiser",
+      "kode": null,
+      "utløper": "2027-04-30",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-14"
+    },
+    {
+      "id": "e1d416ee-8606-4470-88b1-265138f84010",
+      "butikk": "Coop",
+      "beskriving": "2 pakker à 4 Kvikk Lunsj (totalt 8 stk) for 70,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-14"
     }
   ]
 }
