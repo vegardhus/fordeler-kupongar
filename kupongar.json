@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-14",
+  "oppdatert": "2026-09-15",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7578,6 +7578,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-14"
+    },
+    {
+      "id": "7a25ab49-1132-4815-84d7-3f6738f563ef",
+      "butikk": "Strawberry",
+      "beskriving": "Opptil 30% rabatt på opphold denne sesongen",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-15"
+    },
+    {
+      "id": "85de51ec-bab1-45a4-bb72-0bc473015ce3",
+      "butikk": "Coop / Ving",
+      "beskriving": "Trippel medlemsrabatt på alle charterreiser med Ving med avreise 1. januar–30. april 2027.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-15"
+    },
+    {
+      "id": "eca9687a-8445-4421-9c50-a9cbd6e1a2bd",
+      "butikk": "Coop",
+      "beskriving": "2 pakker à 4 Freia Kvikk Lunsj (188 g per pakke) for 70,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-15"
+    },
+    {
+      "id": "a05bd245-16d2-484d-a189-16208b00dc99",
+      "butikk": "Kid",
+      "beskriving": "2 for 1 på alt til soverommet og badet (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-15"
     }
   ]
 }
