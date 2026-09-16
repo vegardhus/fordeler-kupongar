@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-15",
+  "oppdatert": "2026-09-16",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7614,6 +7614,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-15"
+    },
+    {
+      "id": "7abd8f31-8015-41c4-abcd-704b333d5504",
+      "butikk": "IKEA",
+      "beskriving": "Ny, lavere pris på mange populære produkter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-16"
+    },
+    {
+      "id": "29f5c1ac-311e-48db-9010-b94725d3e08c",
+      "butikk": "IKEA",
+      "beskriving": "IKEA 365+ grønnsakskniv til 199,–",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-16"
+    },
+    {
+      "id": "0a1f062b-a78b-4996-90f5-5c1563795771",
+      "butikk": "Komplett Club",
+      "beskriving": "JBL Charge Essential 3 SE bærbar høyttaler til 1290,- (spar 700,- fra førpris 1990,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-16"
     }
   ]
 }
