@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-16",
+  "oppdatert": "2026-09-18",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7641,6 +7641,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-16"
+    },
+    {
+      "id": "d381aeea-d8da-4e15-9175-8b441d239344",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Medlemspris på Eden sateng sengesett til 499,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "0b051d9c-9ed2-4eeb-9c4b-1161200b638e",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Birgitta sateng sengesett til 399,- per sett ved kjøp av 2 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "241a1dde-1797-4e4d-874e-2cf532e2762e",
+      "butikk": "Elkjøp",
+      "beskriving": "TV-DEALS! Spar opptil 68% på TV-er fra kjente merkevarer som Samsung, LG og TCL.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "9e5ada49-3f7d-4e36-92da-338d4421f0f9",
+      "butikk": "Barnas Hus",
+      "beskriving": "Fôret regnsett til 599,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "aa65d233-5b93-4f0b-9726-7794b8f9308e",
+      "butikk": "Komplett Club",
+      "beskriving": "JBL Charge Essential 3 SE bærbar høyttaler til 1 290,- (spar 700,- fra førpris 1 990,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "9ccf937c-6496-485b-847f-65e155191227",
+      "butikk": "Elkjøp",
+      "beskriving": "Klubbpriser på Sage kaffemaskin, TCL TV og kjøkkenmaskin",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "5f96d6a4-eb40-48c9-8172-b62a50e8149a",
+      "butikk": "Strawberry",
+      "beskriving": "Opptil 30% rabatt på opphold",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "3eb268cb-2ddc-409c-91f3-2399caab8880",
+      "butikk": "Coop",
+      "beskriving": "2 pakker à 4 Freia Kvikk Lunsj (totalt 8 Kvikk Lunsj) for 70,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-18"
     }
   ]
 }
