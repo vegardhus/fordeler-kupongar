@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-18",
+  "oppdatert": "2026-09-19",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7713,6 +7713,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-18"
+    },
+    {
+      "id": "02b22228-8d42-44f0-a304-d5ae5d629728",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på fiberdyner og -puter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "1141eafc-d1de-4766-a2d6-88661f5b7973",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Medlemspris: Eden sengesett fra 499,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "47b0eeca-63a1-4558-970a-b8e67213b305",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Medlemspris: Birgitta sengesett fra 399,- ved kjøp av 2 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "c8cebc18-ad5e-4b10-9852-e2e337207b8b",
+      "butikk": "Komplett Club",
+      "beskriving": "Club-tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "2c880470-b4e3-425e-8ace-0eecc3b36b4d",
+      "butikk": "Kid",
+      "beskriving": "Medlemspris: Eden sateng sengesett 499,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "4f0b595a-fcfc-49f9-b1af-d9839ad6edfd",
+      "butikk": "Kid",
+      "beskriving": "Birgitta sateng sengesett 399,- ved kjøp av 2 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "6b14f2fc-da78-4d4b-8b2e-347f56037a82",
+      "butikk": "Coop (via Ving)",
+      "beskriving": "Trippel medlemsrabatt på alle charterreiser med Ving",
+      "kode": null,
+      "utløper": "2027-04-30",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "84791017-84a4-4e91-bbb7-af72ba2175fe",
+      "butikk": "Coop",
+      "beskriving": "2 pakker à 4 Kvikk Lunsj (188 g per pakke) for 70,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-19"
     }
   ]
 }
