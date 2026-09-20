@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-19",
+  "oppdatert": "2026-09-20",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7785,6 +7785,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-19"
+    },
+    {
+      "id": "ca8cdce3-e716-4075-8d5e-232d8a463eef",
+      "butikk": "Barnas hus",
+      "beskriving": "Bursdagsrabatt",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-20"
+    },
+    {
+      "id": "47a94739-3a50-4180-8c6e-67dfd3eec606",
+      "butikk": "Kid",
+      "beskriving": "Medlemspris: Eden sengesett fra 499,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-20"
+    },
+    {
+      "id": "41e1d59d-9e0a-41ac-bdbf-53dd1c07edd6",
+      "butikk": "Kid",
+      "beskriving": "Birgitta sengesett fra 399,- ved kjøp av 2 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-20"
+    },
+    {
+      "id": "f3bba367-d625-4bad-ab75-bd25f9deaf43",
+      "butikk": "Barnas Hus",
+      "beskriving": "Fôret regnsett nå kun 599,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-20"
     }
   ]
 }
