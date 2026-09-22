@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-20",
+  "oppdatert": "2026-09-22",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7821,6 +7821,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-20"
+    },
+    {
+      "id": "69b3d3f2-5e1f-4c07-a82a-ae518068d17b",
+      "butikk": "Quality Hotel (Strawberry)",
+      "beskriving": "Opptil 30% rabatt på høstferie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-22"
+    },
+    {
+      "id": "e6603cf5-ff67-481c-8016-22edaed8e6bb",
+      "butikk": "Kid",
+      "beskriving": "Eden sengesett fra 499,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-22"
+    },
+    {
+      "id": "bea90fa7-3bb8-420e-b08f-ffbc6c4f5bd3",
+      "butikk": "Kid",
+      "beskriving": "Birgitta sengesett fra 399,- ved kjøp av 2 eller flere (medlemspris)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-22"
+    },
+    {
+      "id": "bdaf62bf-74e9-4d91-98b4-3a9fce1bdcb3",
+      "butikk": "Kid",
+      "beskriving": "Alle gardiner og pynteputer 50%",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-22"
+    },
+    {
+      "id": "166736ea-8645-41c2-ad13-ecee1447574f",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Birgitta sengesett fra 399,- ved kjøp av 2 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-22"
+    },
+    {
+      "id": "591c53d3-44c0-4355-bc51-5abeb1aff6c5",
+      "butikk": "Komplett.no",
+      "beskriving": "Tilgang til Komplett Club-fordeler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-22"
     }
   ]
 }
