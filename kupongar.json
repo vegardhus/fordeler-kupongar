@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-22",
+  "oppdatert": "2026-09-23",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7875,6 +7875,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-22"
+    },
+    {
+      "id": "62bb9102-ac1d-409a-a7b6-40729b6cc837",
+      "butikk": "IKEA",
+      "beskriving": "Goodiebag til dei 100 første vaksne som kjem i julegenser til varehuset. Deles ut frå kl. 10.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-23"
+    },
+    {
+      "id": "63de0c10-2bb1-4ebc-a986-124e76758c34",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Helårsdyne med klasse 1 andedun til særpris. Førpris fra 2.750 DKK, no 1.490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-23"
+    },
+    {
+      "id": "4d53b72a-2665-4c63-a177-2c14a43bbff4",
+      "butikk": "Komplett Club",
+      "beskriving": "Dreame X50 Ultra Robotstøvsuger (sort) til 7 990,- (spar 3 100,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-23"
+    },
+    {
+      "id": "21349901-7ee8-46ec-ac08-a981aa4b6b5a",
+      "butikk": "Ving",
+      "beskriving": "Opptil trippel rabatt på neste ferie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-23"
+    },
+    {
+      "id": "fddb849a-5ff5-4d15-9f5b-8a77902823f6",
+      "butikk": "Coop",
+      "beskriving": "Medlemskupp på Freia Kvikk Lunsj 188 g. 4 pk",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-23"
     }
   ]
 }
