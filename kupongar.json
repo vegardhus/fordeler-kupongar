@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-23",
+  "oppdatert": "2026-09-24",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7920,6 +7920,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-23"
+    },
+    {
+      "id": "3eb37da5-e877-4655-8aa8-fe20e083479a",
+      "butikk": "IKEA",
+      "beskriving": "BESTÅ TV-benk med dører til ny lavere pris (2.445,-, tidligere 2.995,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-24"
+    },
+    {
+      "id": "800c4314-c779-4e44-9799-2cebe36adc49",
+      "butikk": "IKEA",
+      "beskriving": "Nye, lavere priser på utvalgte produkter som BESTÅ oppbevaringssystem og POÄNG lenestoler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-24"
+    },
+    {
+      "id": "f42ece90-49b6-4180-b1f7-2fac0f6ff5c2",
+      "butikk": "IKEA",
+      "beskriving": "Lavere priser på utvalgte produkter kun tilgjengelig i varehuset",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-24"
+    },
+    {
+      "id": "35527d23-e127-44d6-8497-e44858a422b8",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 68% på gode tilbud til høstens oppgraderinger",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-24"
+    },
+    {
+      "id": "272dea8e-1c79-4165-b4ea-b31b00f5b576",
+      "butikk": "Kid",
+      "beskriving": "40% på alt til høstens små og store borddekkinger",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-24"
+    },
+    {
+      "id": "c4938463-6e3a-4d35-914d-eb22d6892cc0",
+      "butikk": "Quality Hotel",
+      "beskriving": "Opptil 30% rabatt på haustferieopphald.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-24"
     }
   ]
 }
