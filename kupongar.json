@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-24",
+  "oppdatert": "2026-09-25",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -7974,6 +7974,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-24"
+    },
+    {
+      "id": "7c543402-36da-4dae-8832-97fb89ac9f3c",
+      "butikk": "IKEA",
+      "beskriving": "BESTÅ TV-benk med dører til ny lavere pris: 2.445,- (før 2.995,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-25"
+    },
+    {
+      "id": "88b0d7cc-0291-4fd5-af1d-60899ebd0414",
+      "butikk": "IKEA",
+      "beskriving": "Nye, lavere priser på BESTÅ oppbevaringssystem og POÄNG lenestoler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-25"
+    },
+    {
+      "id": "1a74b447-b900-4afa-9435-21459c393177",
+      "butikk": "IKEA",
+      "beskriving": "Noen lavere priser kun tilgjengelig i varehus",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-25"
+    },
+    {
+      "id": "bfc03d98-7541-47c5-9d06-220199a963b9",
+      "butikk": "IKEA",
+      "beskriving": "Goodiebag fylt med små juleoverraskelser til de 100 første voksne som kommer i julegenser.",
+      "kode": null,
+      "utløper": "2020-09-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-25"
+    },
+    {
+      "id": "13714754-3ec4-4606-9571-3a6f2ae996ff",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Helårsdyne (andedun) med klasse 1 dun til særpris. Førpris frå 2.750 DKK, no 1.490 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-25"
+    },
+    {
+      "id": "bfaf306b-9e24-43c9-994e-f80b5bdd8d53",
+      "butikk": "Komplett Club",
+      "beskriving": "Dreame X50 Ultra Robotstøvsuger (sort) for 7 990,- (spar 3 100,- fra førpris 11 090,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-25"
     }
   ]
 }
