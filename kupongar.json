@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-25",
+  "oppdatert": "2026-09-26",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8003,15 +8003,6 @@
       "lagt_til": "2026-09-25"
     },
     {
-      "id": "bfc03d98-7541-47c5-9d06-220199a963b9",
-      "butikk": "IKEA",
-      "beskriving": "Goodiebag fylt med små juleoverraskelser til de 100 første voksne som kommer i julegenser.",
-      "kode": null,
-      "utløper": "2020-09-26",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-25"
-    },
-    {
       "id": "13714754-3ec4-4606-9571-3a6f2ae996ff",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Helårsdyne (andedun) med klasse 1 dun til særpris. Førpris frå 2.750 DKK, no 1.490 DKK.",
@@ -8028,6 +8019,60 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-25"
+    },
+    {
+      "id": "11eda69e-77b1-4089-a82a-76aa4da8a3bb",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på sengesett, laken, putevar, dundyner og -puter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-26"
+    },
+    {
+      "id": "fcff7de9-9b20-4a59-b6ec-e8f90fccbcb5",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på alt baderomstilbehør og Living håndkleserie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-26"
+    },
+    {
+      "id": "9a42716f-5a62-4d88-8b8e-903de5bb9097",
+      "butikk": "IKEA",
+      "beskriving": "BESTÅ TV-benk med dører til ny lavere pris: 2.445,- (tidligere 2.995,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-26"
+    },
+    {
+      "id": "bdd287ff-2e0c-4aa7-bd18-a720708b65bc",
+      "butikk": "IKEA",
+      "beskriving": "Enkelte produkter har lavere priser kun tilgjengelig i varehuset",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-26"
+    },
+    {
+      "id": "9e7d2293-5916-4b20-be37-825bb5522689",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "40% på alt til høstens små og store borddekkinger",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-26"
+    },
+    {
+      "id": "9d164d51-bb14-4630-a046-05466907f522",
+      "butikk": "IKEA",
+      "beskriving": "Goodiebag til dei 100 første vaksne som kjem i julegenser til varehuset.",
+      "kode": null,
+      "utløper": "2020-09-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-26"
     }
   ]
 }
