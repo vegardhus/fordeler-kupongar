@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-26",
+  "oppdatert": "2026-09-27",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8066,13 +8066,49 @@
       "lagt_til": "2026-09-26"
     },
     {
-      "id": "9d164d51-bb14-4630-a046-05466907f522",
-      "butikk": "IKEA",
-      "beskriving": "Goodiebag til dei 100 første vaksne som kjem i julegenser til varehuset.",
+      "id": "732dcab5-8d80-42ec-b79e-df03e8ba4ddd",
+      "butikk": "Barnas Hus",
+      "beskriving": "30% rabatt på Joha og Name It",
       "kode": null,
-      "utløper": "2020-09-26",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-09-26"
+      "lagt_til": "2026-09-27"
+    },
+    {
+      "id": "d85228d7-fb56-44e0-a7f9-9a8751301fc2",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Cloud dunsokker for voksne til 390 DKK (før 990 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-27"
+    },
+    {
+      "id": "dab21c34-5624-4133-8ad4-f05688e22e4f",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Cloud dunsokker for barn til 290 DKK (før 790 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-27"
+    },
+    {
+      "id": "efa11908-734f-470c-ad52-f69d975ef1db",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett, laken, putevar, dundyner og -puter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-27"
+    },
+    {
+      "id": "6a7fea0f-7c74-4154-a743-fd63c2f850e3",
+      "butikk": "Kid",
+      "beskriving": "Alt baderomstilbehør & Living håndkleserie halv pris",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-27"
     }
   ]
 }
