@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-27",
+  "oppdatert": "2026-09-28",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8109,6 +8109,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-27"
+    },
+    {
+      "id": "746a13ea-e8a2-4d8c-873e-78c0e5115231",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "CLOUD dunsokker til voksne: Førpris 990 DKK, no 390 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-28"
+    },
+    {
+      "id": "2b12e1a0-c082-4939-83db-c498e3dc6255",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "CLOUD dunsokker til barn: Førpris 790 DKK, no 290 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-28"
+    },
+    {
+      "id": "740c95fd-c1b5-48b6-9c20-503e85861196",
+      "butikk": "Kid",
+      "beskriving": "50% på alt baderomstilbehør og Living håndkleserie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-28"
     }
   ]
 }
