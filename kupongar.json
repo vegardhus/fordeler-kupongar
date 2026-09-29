@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-28",
+  "oppdatert": "2026-09-29",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8136,6 +8136,24 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-28"
+    },
+    {
+      "id": "17bea297-7a95-4b67-b2c6-8ecc4232db95",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Cloud dunsokker (voksne) til særpris: 390 DKK (før 990 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-29"
+    },
+    {
+      "id": "0dd37146-eb48-46ff-9453-dcdc7b010290",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Cloud dunsokker (børn) til særpris: 290 DKK (før 790 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-29"
     }
   ]
 }
