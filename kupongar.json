@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-29",
+  "oppdatert": "2026-09-30",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8154,6 +8154,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-29"
+    },
+    {
+      "id": "4718e725-4088-4f72-aec3-598c71ff34fb",
+      "butikk": "Komplett",
+      "beskriving": "Marshall Heston 60 soundbar til 4 990,- (spar 1 000,-). Førpris 5 990,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "157b590a-25c5-4b85-a343-850233a09232",
+      "butikk": "Elkjøp",
+      "beskriving": "Opptil 68% rabatt på kjente merkevarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "6706df42-c3bf-4825-aab7-7edab53c4015",
+      "butikk": "Elkjøp",
+      "beskriving": "AirPods 4 til klubbpris",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "628459a9-6d8c-42a3-8e91-0d94a0d04975",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Cloud dunsokker for voksne: Før 990 DKK, no 390 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "3a18d2cb-6d1b-4b4a-adfa-9c4ecf89635d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Cloud dunsokker for barn: Før 790 DKK, no 290 DKK",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "122471b4-e763-4ab5-9c42-bfbacbb1380d",
+      "butikk": "IKEA Family",
+      "beskriving": "Goodiebag fylt med små juleoverraskelser til de 100 første voksne som kommer i varehuset iført en julegenser.",
+      "kode": null,
+      "utløper": "2020-09-26",
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "0e795739-ab65-44c7-b3f8-5538c6a83a47",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Helårsdyne med klasse 1-dun til særpris (førpris fra 2.750 DKK, no 1.490 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "ee6706d2-a14a-45ba-8680-f0a63751803c",
+      "butikk": "Komplett Club",
+      "beskriving": "Dreame X50 Ultra Robotstøvsuger (sort) til 7 990,- (spar 3 100,- fra førpris 11 090,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-09-30"
     }
   ]
 }
