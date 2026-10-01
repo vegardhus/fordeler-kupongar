@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-09-30",
+  "oppdatert": "2026-10-01",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8201,15 +8201,6 @@
       "lagt_til": "2026-09-30"
     },
     {
-      "id": "122471b4-e763-4ab5-9c42-bfbacbb1380d",
-      "butikk": "IKEA Family",
-      "beskriving": "Goodiebag fylt med små juleoverraskelser til de 100 første voksne som kommer i varehuset iført en julegenser.",
-      "kode": null,
-      "utløper": "2020-09-26",
-      "kjelde": "epost",
-      "lagt_til": "2026-09-30"
-    },
-    {
       "id": "0e795739-ab65-44c7-b3f8-5538c6a83a47",
       "butikk": "Georg Jensen Damask",
       "beskriving": "Helårsdyne med klasse 1-dun til særpris (førpris fra 2.750 DKK, no 1.490 DKK)",
@@ -8226,6 +8217,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-09-30"
+    },
+    {
+      "id": "9b2ab30b-cf93-4edf-a63e-e244415e4037",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på sengesett, laken og putevar (Dunfest)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-01"
+    },
+    {
+      "id": "011f52f2-6fdb-4bca-8d82-6e94cd6da834",
+      "butikk": "Komplett Club",
+      "beskriving": "Generelle Club-deals",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-01"
+    },
+    {
+      "id": "4596483e-db25-42aa-9f8e-004ca21c32f6",
+      "butikk": "Komplett Club",
+      "beskriving": "Marshall Heston 60 soundbar til 4 990,- (spar 1 000,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-01"
+    },
+    {
+      "id": "d4eb88af-e856-47cb-9270-bc48016db6d5",
+      "butikk": "Barnas Hus",
+      "beskriving": "50-60% rabatt på alle salgsvarer",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-01"
     }
   ]
 }
