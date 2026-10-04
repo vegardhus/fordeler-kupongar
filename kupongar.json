@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-03",
+  "oppdatert": "2026-10-04",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8300,24 +8300,6 @@
       "lagt_til": "2026-10-02"
     },
     {
-      "id": "23e6f9db-1f70-4a04-a863-2c763f2f6842",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Opptil 60% rabatt på utgåtte design og 2. sorteringsvarer på lagersalg i Aarhus.",
-      "kode": null,
-      "utløper": "2023-10-08",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-03"
-    },
-    {
-      "id": "2c7bd9b0-7cfa-4036-8203-55acca45e016",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Gratis tote bag ved kjøp på lagersalget i Aarhus.",
-      "kode": null,
-      "utløper": "2023-10-08",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-03"
-    },
-    {
       "id": "6abab023-d8a2-48a1-99cc-038b4a2a42fc",
       "butikk": "Kid interiørklubb",
       "beskriving": "50% på et stort utvalg til soverommet",
@@ -8332,15 +8314,6 @@
       "beskriving": "40% på alt til barn og baby",
       "kode": null,
       "utløper": null,
-      "kjelde": "epost",
-      "lagt_til": "2026-10-03"
-    },
-    {
-      "id": "1347921c-2390-42da-8345-a47709a67fe4",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Gåsedunsdyne til særpris, fra 3.500 DKK (før 5.490 DKK)",
-      "kode": null,
-      "utløper": "2023-10-18",
       "kjelde": "epost",
       "lagt_til": "2026-10-03"
     },
@@ -8415,6 +8388,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-03"
+    },
+    {
+      "id": "2ffa4d22-2b4a-4389-8d4b-64fde024082d",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 800 kr på kjøpet ditt (relatert til Huawei Watch GT 7)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-04"
+    },
+    {
+      "id": "5ef1e267-c0df-4c3a-b0d4-54e8a3b4a64a",
+      "butikk": "Kid",
+      "beskriving": "50% på et stort utvalg til soverommet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-04"
+    },
+    {
+      "id": "2d20703d-3fda-4525-bf47-74c92cc59962",
+      "butikk": "Kid",
+      "beskriving": "40% på alt til barn og baby",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-04"
+    },
+    {
+      "id": "d0b55cdc-771d-485d-ab47-b7fb3b810f4b",
+      "butikk": "IKEA",
+      "beskriving": "SNÖSISKA lysestake til IKEA Family-pris 39,- (vanlig pris 49,-)",
+      "kode": null,
+      "utløper": "2026-10-11",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-04"
+    },
+    {
+      "id": "65e06303-1e27-4c51-952b-9e97759a231d",
+      "butikk": "IKEA",
+      "beskriving": "20% rabatt på alle lysholdere og lykter for IKEA Family-medlemmer",
+      "kode": null,
+      "utløper": "2026-10-11",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-04"
     }
   ]
 }
