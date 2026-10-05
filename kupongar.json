@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-04",
+  "oppdatert": "2026-10-05",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8433,6 +8433,69 @@
       "utløper": "2026-10-11",
       "kjelde": "epost",
       "lagt_til": "2026-10-04"
+    },
+    {
+      "id": "b27ad36b-61cd-43b1-b044-b4c2b6d5d898",
+      "butikk": "Elkjøp",
+      "beskriving": "Ekstra gode tilbud på mobil under Mobilukene",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-05"
+    },
+    {
+      "id": "a732a96d-131f-4601-8440-c3f50f86a7e6",
+      "butikk": "Elkjøp",
+      "beskriving": "AirPods 4 på klubbtilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-05"
+    },
+    {
+      "id": "76f305a4-ac13-4e49-b028-961bba0680d2",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-05"
+    },
+    {
+      "id": "d89adc49-4608-46b5-830c-2fe0ce514d84",
+      "butikk": "Kid",
+      "beskriving": "50% på dundyner",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-05"
+    },
+    {
+      "id": "f18450ba-16f6-4f07-b588-407c5575e7a4",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Lagersalg i Aarhus med opptil 60% rabatt på utgåtte design og 2. sorteringsvarer.",
+      "kode": null,
+      "utløper": "2023-10-08",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-05"
+    },
+    {
+      "id": "7b253a2c-2449-493f-8a95-ddff0eab137d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gratis tote bag ved kjøp på lagersalget i Aarhus.",
+      "kode": null,
+      "utløper": "2023-10-08",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-05"
+    },
+    {
+      "id": "f6813495-983e-4600-bf80-b3d19076fa28",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gåsedunsdyner til særpris, fra 3.500 DKK (førpris fra 5.490 DKK)",
+      "kode": null,
+      "utløper": "2023-10-18",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-05"
     }
   ]
 }
