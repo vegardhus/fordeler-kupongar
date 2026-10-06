@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-05",
+  "oppdatert": "2026-10-06",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8471,31 +8471,31 @@
       "lagt_til": "2026-10-05"
     },
     {
-      "id": "f18450ba-16f6-4f07-b588-407c5575e7a4",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Lagersalg i Aarhus med opptil 60% rabatt på utgåtte design og 2. sorteringsvarer.",
+      "id": "ed83f3f9-e60d-4c51-afd3-3aeecbabc921",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett og dundyner",
       "kode": null,
-      "utløper": "2023-10-08",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-10-05"
+      "lagt_til": "2026-10-06"
     },
     {
-      "id": "7b253a2c-2449-493f-8a95-ddff0eab137d",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Gratis tote bag ved kjøp på lagersalget i Aarhus.",
+      "id": "b895e655-f81f-49e4-8d2e-cb7bde309580",
+      "butikk": "IKEA",
+      "beskriving": "SNÖSISKA lysestake for 39,- (vanlig pris 49,-)",
       "kode": null,
-      "utløper": "2023-10-08",
+      "utløper": "2026-10-11",
       "kjelde": "epost",
-      "lagt_til": "2026-10-05"
+      "lagt_til": "2026-10-06"
     },
     {
-      "id": "f6813495-983e-4600-bf80-b3d19076fa28",
+      "id": "9b4e8e23-4240-406e-b2b8-b67d37f446c0",
       "butikk": "Georg Jensen Damask",
-      "beskriving": "Gåsedunsdyner til særpris, fra 3.500 DKK (førpris fra 5.490 DKK)",
+      "beskriving": "Gåsedunsdyne til særpris. Førpris frå 5.490 DKK, særpris frå 3.500 DKK.",
       "kode": null,
       "utløper": "2023-10-18",
       "kjelde": "epost",
-      "lagt_til": "2026-10-05"
+      "lagt_til": "2026-10-06"
     }
   ]
 }
