@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-06",
+  "oppdatert": "2026-10-07",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8489,13 +8489,31 @@
       "lagt_til": "2026-10-06"
     },
     {
-      "id": "9b4e8e23-4240-406e-b2b8-b67d37f446c0",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Gåsedunsdyne til særpris. Førpris frå 5.490 DKK, særpris frå 3.500 DKK.",
+      "id": "5fedbfbf-1658-4a5d-b758-6f195e631a13",
+      "butikk": "Komplett",
+      "beskriving": "Outlet-tilbud",
       "kode": null,
-      "utløper": "2023-10-18",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-10-06"
+      "lagt_til": "2026-10-07"
+    },
+    {
+      "id": "b24ae165-b1e7-4c39-bf3d-4e41a35901df",
+      "butikk": "Coop Hotellkupp",
+      "beskriving": "Spar opptil 30 % med eksklusive pakketilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-07"
+    },
+    {
+      "id": "d272bdbe-f569-4888-9554-9a58d5bfb49b",
+      "butikk": "Barnas Hus",
+      "beskriving": "-30% på klær, yttertøy og sko",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-07"
     }
   ]
 }
