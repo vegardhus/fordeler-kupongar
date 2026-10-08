@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-07",
+  "oppdatert": "2026-10-08",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8514,6 +8514,51 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-07"
+    },
+    {
+      "id": "d53f9c9b-1843-4f77-a339-2c458c2abe85",
+      "butikk": "Strawberry",
+      "beskriving": "30% rabatt på neste opphald i samband med 30-årsjubileum",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-08"
+    },
+    {
+      "id": "b2e8b3bd-5293-479b-acee-8e8d0f993c7d",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Opptil 60% rabatt på utgåtte design og 2. sorteringsvarer (håndklær, sengetøy, viskestykker, accessories, pledd, dyner, puter, duker og servietter) under lagersalget.",
+      "kode": null,
+      "utløper": "2020-10-08",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-08"
+    },
+    {
+      "id": "cf5ecc3d-c410-4c44-90de-84e98d6c6d82",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gratis tote bag ved kjøp under lagersalget.",
+      "kode": null,
+      "utløper": "2020-10-08",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-08"
+    },
+    {
+      "id": "c6d5b1ed-0a9f-4d76-9dde-384412955abc",
+      "butikk": "Elkjøp",
+      "beskriving": "Samsung 50\" TV til kun 3490,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-08"
+    },
+    {
+      "id": "90173e4f-a02a-443c-bbbd-9b8feaf66ab3",
+      "butikk": "Kid Interiør",
+      "beskriving": "3 for 2 på alle julekuler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-08"
     }
   ]
 }
