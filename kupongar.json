@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-08",
+  "oppdatert": "2026-10-09",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8525,24 +8525,6 @@
       "lagt_til": "2026-10-08"
     },
     {
-      "id": "b2e8b3bd-5293-479b-acee-8e8d0f993c7d",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Opptil 60% rabatt på utgåtte design og 2. sorteringsvarer (håndklær, sengetøy, viskestykker, accessories, pledd, dyner, puter, duker og servietter) under lagersalget.",
-      "kode": null,
-      "utløper": "2020-10-08",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-08"
-    },
-    {
-      "id": "cf5ecc3d-c410-4c44-90de-84e98d6c6d82",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Gratis tote bag ved kjøp under lagersalget.",
-      "kode": null,
-      "utløper": "2020-10-08",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-08"
-    },
-    {
       "id": "c6d5b1ed-0a9f-4d76-9dde-384412955abc",
       "butikk": "Elkjøp",
       "beskriving": "Samsung 50\" TV til kun 3490,-",
@@ -8559,6 +8541,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-08"
+    },
+    {
+      "id": "0a526977-ba66-46ca-8783-3dea7d0041ce",
+      "butikk": "Komplett Club",
+      "beskriving": "Club Deals",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-09"
+    },
+    {
+      "id": "be4a2530-a8be-427a-85d5-c478fdd7bd92",
+      "butikk": "Strawberry",
+      "beskriving": "30% rabatt på neste opphald i samband med 30-årsjubileum.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-09"
+    },
+    {
+      "id": "f3f31cca-e231-4d6c-a962-a9d95b55c4b0",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Opptil 60% rabatt på utgåtte design og 2. sorteringsvarer under lagersalget.",
+      "kode": null,
+      "utløper": "2023-10-08",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-09"
+    },
+    {
+      "id": "c7a5d548-258c-4a9d-8c9a-dc48a0a8ede2",
+      "butikk": "Barnas Hus",
+      "beskriving": "Høstsalg! 200+ varer lagt til!",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-09"
     }
   ]
 }
