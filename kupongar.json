@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-09",
+  "oppdatert": "2026-10-10",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8561,15 +8561,6 @@
       "lagt_til": "2026-10-09"
     },
     {
-      "id": "f3f31cca-e231-4d6c-a962-a9d95b55c4b0",
-      "butikk": "Georg Jensen Damask",
-      "beskriving": "Opptil 60% rabatt på utgåtte design og 2. sorteringsvarer under lagersalget.",
-      "kode": null,
-      "utløper": "2023-10-08",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-09"
-    },
-    {
       "id": "c7a5d548-258c-4a9d-8c9a-dc48a0a8ede2",
       "butikk": "Barnas Hus",
       "beskriving": "Høstsalg! 200+ varer lagt til!",
@@ -8577,6 +8568,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-09"
+    },
+    {
+      "id": "d6ba5d15-92da-40a1-a3d0-1be8456aa20a",
+      "butikk": "Kid",
+      "beskriving": "50% på utvalgte varer til soverommet (gardiner, pynteputer, pledd)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-10"
+    },
+    {
+      "id": "a397ebeb-9a40-4ecd-866e-67ad26ebe615",
+      "butikk": "Strawberry",
+      "beskriving": "30% rabatt på neste opphald",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-10"
+    },
+    {
+      "id": "cd114b1f-7ff3-4646-8570-d7fd145c5f64",
+      "butikk": "Komplett Club",
+      "beskriving": "Outlet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-10"
+    },
+    {
+      "id": "c5330849-7a05-4055-9fc3-af7c15ed8607",
+      "butikk": "Komplett Club",
+      "beskriving": "Flex",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-10"
     }
   ]
 }
