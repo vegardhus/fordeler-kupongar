@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-10",
+  "oppdatert": "2026-10-11",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8604,6 +8604,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-10"
+    },
+    {
+      "id": "84ad85c9-c649-4a8c-9229-dabd25b2a5e6",
+      "butikk": "Barnas Hus",
+      "beskriving": "-30% på ALT fra Reima",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-11"
+    },
+    {
+      "id": "3558fcaa-9bea-497d-82bd-8c909718eac9",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Lagersalg med opptil 60% rabatt på utgåtte design og 2. sorteringsvarer.",
+      "kode": null,
+      "utløper": "2023-10-08",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-11"
+    },
+    {
+      "id": "76c22c9a-8863-4f35-a3d4-8df8c547f610",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gratis tote bag ved kjøp på lagersalget.",
+      "kode": null,
+      "utløper": "2023-10-08",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-11"
     }
   ]
 }
