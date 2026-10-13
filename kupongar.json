@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-12",
+  "oppdatert": "2026-10-13",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8579,15 +8579,6 @@
       "lagt_til": "2026-10-12"
     },
     {
-      "id": "f9de252e-7e61-4c71-845c-d88b22aa4a27",
-      "butikk": "Coop",
-      "beskriving": "2% ekstra bonus ved betaling med Coopay og BankAxept",
-      "kode": null,
-      "utløper": "2020-10-13",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-12"
-    },
-    {
       "id": "dc90fe6e-6ac9-4d9c-94e9-0c03eb89a7d5",
       "butikk": "Elkjøp",
       "beskriving": "Spar 1000 kr for hver 5000 kr du handler for",
@@ -8622,6 +8613,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-12"
+    },
+    {
+      "id": "a725729d-8640-480c-a6a0-a22603101a0d",
+      "butikk": "IKEA Family",
+      "beskriving": "20 % på alle dyner",
+      "kode": null,
+      "utløper": "2026-10-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-13"
+    },
+    {
+      "id": "92aa0f2f-1e14-455e-a66c-b3e71a3452eb",
+      "butikk": "Strawberry",
+      "beskriving": "Få trippel Spenn på neste hotellopphald",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-13"
+    },
+    {
+      "id": "618e743b-5997-4013-afdb-44fb49658218",
+      "butikk": "Coop",
+      "beskriving": "2% ekstra bonus på kjøpet ved betaling med Coopay og BankAxept",
+      "kode": null,
+      "utløper": "2020-10-13",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-13"
+    },
+    {
+      "id": "b7470db6-e3ee-4a47-aea9-4cf0018d660d",
+      "butikk": "Elkjøp",
+      "beskriving": "50% rabatt på Epoq kjøkken",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-13"
     }
   ]
 }
