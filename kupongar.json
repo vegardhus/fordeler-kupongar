@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-13",
+  "oppdatert": "2026-10-14",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8633,15 +8633,6 @@
       "lagt_til": "2026-10-13"
     },
     {
-      "id": "618e743b-5997-4013-afdb-44fb49658218",
-      "butikk": "Coop",
-      "beskriving": "2% ekstra bonus på kjøpet ved betaling med Coopay og BankAxept",
-      "kode": null,
-      "utløper": "2020-10-13",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-13"
-    },
-    {
       "id": "b7470db6-e3ee-4a47-aea9-4cf0018d660d",
       "butikk": "Elkjøp",
       "beskriving": "50% rabatt på Epoq kjøkken",
@@ -8649,6 +8640,69 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-13"
+    },
+    {
+      "id": "4dcd0b47-a475-4d18-b1b8-6a2b1de65cef",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for voksne: 590 DKK (førpris 1.190 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-14"
+    },
+    {
+      "id": "2b8c8117-b92c-4501-9aa4-7a444838af95",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for barn: 350 DKK (førpris 590 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-14"
+    },
+    {
+      "id": "ffaffaee-5c63-4f3c-9bed-2b49b7b8c3b3",
+      "butikk": "Komplett Club",
+      "beskriving": "Medlemskupp på utvalgte favoritter (Club Deals)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-14"
+    },
+    {
+      "id": "ff484542-0e46-4b76-a878-08d12a00eb46",
+      "butikk": "Komplett Club",
+      "beskriving": "Tilbud på gamingprodukter (Gaming Deals)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-14"
+    },
+    {
+      "id": "20d15be8-5f88-482e-8ec2-7f801ec41e70",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 100,- på Apple AirPods 5 trådløse ørepropper, In-Ear. Nå 1590,- (før 1690,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-14"
+    },
+    {
+      "id": "c316793a-e88f-465f-bb25-8ff15d10e9d8",
+      "butikk": "IKEA",
+      "beskriving": "20 % på alle dyner",
+      "kode": null,
+      "utløper": "2026-10-25",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-14"
+    },
+    {
+      "id": "b4389d73-3f10-49e3-a253-e7e841e7ad82",
+      "butikk": "Strawberry",
+      "beskriving": "Få trippel Spenn (bonuspoeng) på neste hotellopphald.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-14"
     }
   ]
 }
