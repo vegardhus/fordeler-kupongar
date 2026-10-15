@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-14",
+  "oppdatert": "2026-10-15",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8703,6 +8703,78 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-14"
+    },
+    {
+      "id": "2767798b-cd95-412a-a61e-afcd58e8a7de",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 60% hos Elkjøp Glasmagasinet, gjelder kun lørdag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "5c79ef35-8a96-476f-a7f7-dce0867ff063",
+      "butikk": "Barnas Hus",
+      "beskriving": "-30% på yttertøy",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "748ae873-1ad0-432e-b2df-c397f79c9d80",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for voksne: 590 DKK (før 1.190 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "ebaa0cfa-76f2-4f90-9ca0-71f833ca89af",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for barn: 350 DKK (før 590 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "dccbedb5-70a8-4d58-a085-2a8e65602075",
+      "butikk": "Komplett Club",
+      "beskriving": "Medlemsdeals på utvalgte favoritter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "3e1d3256-68bc-43d1-b8e4-721389157c25",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 100,- på Apple AirPods 5 trådløse ørepropper, In-Ear (Nå: 1590,-, Før: 1690,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "1a5e08b0-e374-4fa7-8d0f-55104ac7bcef",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 448,-",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "2cc98f7e-2dec-4e9f-ac74-1b829ac5827f",
+      "butikk": "Barnas Hus",
+      "beskriving": "Spar opptil 2000,- på vogn og bilstol",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-15"
     }
   ]
 }
