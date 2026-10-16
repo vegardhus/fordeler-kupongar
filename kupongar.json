@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-15",
+  "oppdatert": "2026-10-16",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8775,6 +8775,42 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-15"
+    },
+    {
+      "id": "ab6e08cd-3736-410d-8c14-7f3988acbc4f",
+      "butikk": "Komplett",
+      "beskriving": "Gaming-tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-16"
+    },
+    {
+      "id": "810254af-a1dc-426e-a714-71f00ff812c3",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar opptil 60% på Tigerlørdag hos Elkjøp Glasmagasinet. Gjelder kun lørdag.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-16"
+    },
+    {
+      "id": "4b796cda-9b0f-42b0-9a80-432c1086b679",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonstilbod på pyjamas i bomuldsflannel for vaksne. Førpris 1.190 DKK, no 590 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-16"
+    },
+    {
+      "id": "83b7b588-2c81-4a85-a6db-405fc66447cb",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonstilbod på pyjamas i bomuldsflannel for barn. Førpris 590 DKK, no 350 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-16"
     }
   ]
 }
