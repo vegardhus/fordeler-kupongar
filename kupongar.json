@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-16",
+  "oppdatert": "2026-10-17",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8811,6 +8811,87 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-16"
+    },
+    {
+      "id": "ab8175b4-2463-41b4-909d-e99b0e289e5f",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på sengesett, dundyner, laken og putevar",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "21eecc45-8d3a-4a76-8367-6ab0d616c4db",
+      "butikk": "Elkjøp Glasmagasinet",
+      "beskriving": "Spar opptil 60% på Tigerlørdag",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "6eb93805-de9b-4de4-98d2-480dd0e82aff",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for voksne (590 DKK, før 1.190 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "dcc68fa2-241a-47d1-a340-1b9b5f491801",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for barn (350 DKK, før 590 DKK)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "31be3510-b207-4caa-960d-d1145f6f485f",
+      "butikk": "Komplett Club",
+      "beskriving": "100,- rabatt på Apple AirPods 5 trådløse ørepropper, In-Ear (Nå: 1590,-, Før: 1690,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "ce7fe484-675b-41da-9b82-6065a206ec0e",
+      "butikk": "Barnas Hus",
+      "beskriving": "Spar opptil 2000,- på vogn og bilstol",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "b94d598d-7299-453a-aa04-3440bd3f8567",
+      "butikk": "Strawberry",
+      "beskriving": "Få trippel Spenn på din neste hotellovernatting.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "8108a7c6-4b8d-4580-896d-a50ae0a23d02",
+      "butikk": "Coop",
+      "beskriving": "3 Freia Storplater (150–200 g) for 90 kr",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
+    },
+    {
+      "id": "4f1bffa7-8c22-4311-978d-be3608a70912",
+      "butikk": "Coop",
+      "beskriving": "2% ekstra bonus ved betaling med Coopay og BankAxept",
+      "kode": null,
+      "utløper": "2020-10-13",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-17"
     }
   ]
 }
