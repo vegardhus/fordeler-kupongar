@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-17",
+  "oppdatert": "2026-10-18",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8885,13 +8885,58 @@
       "lagt_til": "2026-10-17"
     },
     {
-      "id": "4f1bffa7-8c22-4311-978d-be3608a70912",
-      "butikk": "Coop",
-      "beskriving": "2% ekstra bonus ved betaling med Coopay og BankAxept",
+      "id": "07d3c5ef-5096-4034-b700-85a9db881d06",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Gåsedunsdyner til særpris fra 3.500 DKK (førpris fra 5.490 DKK). Siste sjanse i dag.",
       "kode": null,
-      "utløper": "2020-10-13",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-10-17"
+      "lagt_til": "2026-10-18"
+    },
+    {
+      "id": "6ac6c2ff-6afe-4d4b-b0aa-b67020fb0465",
+      "butikk": "Komplett.no",
+      "beskriving": "Ukens tilbud på diverse produkter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-18"
+    },
+    {
+      "id": "de3bab2c-693b-4553-8338-a04e21c4c3d3",
+      "butikk": "Komplett.no",
+      "beskriving": "Spesialtilbud på gamingprodukter",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-18"
+    },
+    {
+      "id": "7b842c6a-b744-4adb-8a70-1746d1614470",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for voksne: 590 DKK (førpris 1.190 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-18"
+    },
+    {
+      "id": "5b29d1bd-8eb9-49bf-87b6-aa16e0eee3c8",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Introduksjonspris på pyjamas i bomullsflanell for barn: 350 DKK (førpris 590 DKK).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-18"
+    },
+    {
+      "id": "f850849e-8882-4aaf-a595-7812603fe85b",
+      "butikk": "Komplett Club",
+      "beskriving": "100 kr rabatt på Apple AirPods 5 trådløse ørepropper (nå 1590,-, før 1690,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-18"
     }
   ]
 }
