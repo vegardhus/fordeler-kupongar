@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-18",
+  "oppdatert": "2026-10-19",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -8937,6 +8937,114 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-18"
+    },
+    {
+      "id": "f5ef5584-32fe-49f5-a2cf-9690e4643bda",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 5000,- på HP laptop 14 som klubbmedlem",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "bafa1c36-8872-4038-88c1-56122d5eb9b7",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på alle varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "56ed19be-45ed-405f-b9ae-8c6ef9e1165b",
+      "butikk": "Kid",
+      "beskriving": "30-50% rabatt på alle møbler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "5de763e7-925e-4e31-b57c-f0a709e4c156",
+      "butikk": "Kid",
+      "beskriving": "50% rabatt på Hotel Selection håndkleserie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "c29656cb-0217-4b53-8990-3d10eaf536b8",
+      "butikk": "Georg Jensen Damask",
+      "beskriving": "Eksklusive gåsedunsdyner til særpris. Førpris frå 5.490 DKK, no frå 3.500 DKK.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "3324a861-2a4a-4aca-b77c-d07725bf9885",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "Thomas hotellpute 2 for 1 (medlemstilbud)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "f0c3e01f-608c-44a0-ab89-4c943a28da0e",
+      "butikk": "Komplett Club",
+      "beskriving": "Se alle medlemskupp",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "e8d52115-02a5-464a-b11b-a4e025c84d05",
+      "butikk": "Komplett Club",
+      "beskriving": "Se alle gamingtilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "43a25c8b-6da8-4ee6-86e1-19dcc6940efa",
+      "butikk": "Komplett Club",
+      "beskriving": "Se nye produkter og tilbud",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "833f8bfc-77b6-4332-b5e1-1adbc1616653",
+      "butikk": "Komplett Club",
+      "beskriving": "Spar 100,- på Apple AirPods 5 trådløse ørepropper, In-Ear (Nå 1590,-, Før 1690,-)",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "116ac683-2d43-4804-9c07-bbc83ab10af6",
+      "butikk": "Strawberry",
+      "beskriving": "Få trippel Spenn (loyalitetspoeng) på ditt neste hotellopphald.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
+    },
+    {
+      "id": "f0427fe7-4ab6-41cf-a853-1ce100cbf709",
+      "butikk": "Coop",
+      "beskriving": "2% ekstra bonus på kjøpet ved betaling med Coopay og BankAxept",
+      "kode": null,
+      "utløper": "2020-10-13",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-19"
     }
   ]
 }
