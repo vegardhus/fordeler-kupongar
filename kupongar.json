@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-19",
+  "oppdatert": "2026-10-20",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -9038,13 +9038,49 @@
       "lagt_til": "2026-10-19"
     },
     {
-      "id": "f0427fe7-4ab6-41cf-a853-1ce100cbf709",
-      "butikk": "Coop",
-      "beskriving": "2% ekstra bonus på kjøpet ved betaling med Coopay og BankAxept",
+      "id": "50f0a613-2ce0-4ba7-a816-0652a8dc8add",
+      "butikk": "Strawberry",
+      "beskriving": "30% rabatt på hausttur eller helgetur",
       "kode": null,
-      "utløper": "2020-10-13",
+      "utløper": null,
       "kjelde": "epost",
-      "lagt_til": "2026-10-19"
+      "lagt_til": "2026-10-20"
+    },
+    {
+      "id": "844bd98f-ff91-4577-bf3c-4436fa8c4ffc",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% rabatt på alle varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-20"
+    },
+    {
+      "id": "162d96e5-3c22-463e-b17a-553a5bd15615",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "30-50% rabatt på alle møbler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-20"
+    },
+    {
+      "id": "38fcee9c-ddd1-482c-b914-cd9272b745e3",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% rabatt på Hotel Selection håndkleserie",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-20"
+    },
+    {
+      "id": "304732c4-0c53-49d0-b18b-bd02da02d46f",
+      "butikk": "Kid",
+      "beskriving": "50% på sengesett, dundyner, laken og putevar",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-20"
     }
   ]
 }
