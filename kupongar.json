@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-20",
+  "oppdatert": "2026-10-21",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -9081,6 +9081,141 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-20"
+    },
+    {
+      "id": "d28b3981-0fc4-40bf-9f57-fea879d653de",
+      "butikk": "Komplett.no",
+      "beskriving": "Ekstra gode KLUBB-priser på mobiler og smartklokker.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "ccbef17d-32b7-4f91-9310-864168973af0",
+      "butikk": "Komplett.no",
+      "beskriving": "KLUBB DEALS (generelle tilbud for klubbmedlemmer).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "d9413649-3f18-4eeb-9acd-82e4ae5839c9",
+      "butikk": "Komplett.no",
+      "beskriving": "Ukens tilbud.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "60a6960e-12d2-4a7e-a192-06c98e63032e",
+      "butikk": "Komplett.no",
+      "beskriving": "Gaming Deals.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "80937f52-ddae-4192-b9fd-7ddad324d22c",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 700,- på Apple iPhone 17 256GB (sort). Nå 11 790,- (før 12 490,-).",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "dd2aeb0a-ca77-4ea7-8952-5860008d1555",
+      "butikk": "Komplett.no",
+      "beskriving": "Spar 2 290,-.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "0ff93873-cd8c-42a0-8383-fef571869365",
+      "butikk": "Coop",
+      "beskriving": "2% ekstra bonus ved betaling med Coopay og BankAxept i fysiske butikker.",
+      "kode": null,
+      "utløper": "2020-10-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "e5fd178c-1b6e-4f8d-81d0-3e2c76952038",
+      "butikk": "Elkjøp",
+      "beskriving": "62% rabatt på Samsung 55\" Neo QLED",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "5e66fa0c-e15f-4958-b958-ecc6df514487",
+      "butikk": "Elkjøp",
+      "beskriving": "Stor Lego-kampanje",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "d717410b-d5e4-46fc-b303-58b28db674f5",
+      "butikk": "Elkjøp",
+      "beskriving": "Mac mini til klubbpris",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "31eae3a8-e95c-4d03-a017-eafb41f42fde",
+      "butikk": "Elkjøp",
+      "beskriving": "JBL-ørepropper til klubbpris",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "a314b25c-00ad-4360-9bb0-f3b11cf016cc",
+      "butikk": "Elkjøp",
+      "beskriving": "Vaskemaskin til klubbpris",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "df1bf007-4b16-4b93-972b-7e80efcb78fc",
+      "butikk": "Barnas Hus",
+      "beskriving": "40% på merinoullsett og heldress",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "fa64d6f9-4e8b-4684-97a7-60e9a6ba03a3",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "50% på alle varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "7e30042b-472a-4eff-b0cf-69871c2cf055",
+      "butikk": "Kid interiørklubb",
+      "beskriving": "30-50% på alle møbler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-21"
     }
   ]
 }
