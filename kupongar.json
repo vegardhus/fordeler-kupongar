@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-21",
+  "oppdatert": "2026-10-22",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -9137,15 +9137,6 @@
       "lagt_til": "2026-10-21"
     },
     {
-      "id": "0ff93873-cd8c-42a0-8383-fef571869365",
-      "butikk": "Coop",
-      "beskriving": "2% ekstra bonus ved betaling med Coopay og BankAxept i fysiske butikker.",
-      "kode": null,
-      "utløper": "2020-10-27",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-21"
-    },
-    {
       "id": "e5fd178c-1b6e-4f8d-81d0-3e2c76952038",
       "butikk": "Elkjøp",
       "beskriving": "62% rabatt på Samsung 55\" Neo QLED",
@@ -9216,6 +9207,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-21"
+    },
+    {
+      "id": "114f9e2f-fe86-406f-ae97-44ee37b9f4b7",
+      "butikk": "Elkjøp",
+      "beskriving": "Spar 11000,- på TCL 65\" TV og få med ramme på kjøpet",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-22"
+    },
+    {
+      "id": "e8723ec9-d13d-4b2e-b4ec-2cb07ebc72e1",
+      "butikk": "Barnas Hus",
+      "beskriving": "-30% på ALT fra Joha",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-22"
+    },
+    {
+      "id": "5cc03609-9120-42c8-bfe0-95893aa1cba6",
+      "butikk": "Kid",
+      "beskriving": "30-50% på alle møbler",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-22"
     }
   ]
 }
