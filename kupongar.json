@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-22",
+  "oppdatert": "2026-10-23",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -9234,6 +9234,33 @@
       "utløper": null,
       "kjelde": "epost",
       "lagt_til": "2026-10-22"
+    },
+    {
+      "id": "0867cf1c-7397-4756-b8ee-35b798d3ef07",
+      "butikk": "Coop",
+      "beskriving": "Få 2% ekstra bonus ved betaling med Coopay og BankAxept",
+      "kode": null,
+      "utløper": "2020-10-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-23"
+    },
+    {
+      "id": "9681c1a1-74ea-48cb-b63c-9b0eadd2d131",
+      "butikk": "Elkjøp",
+      "beskriving": "Få pant ved innbytte av gammel enhet når du kjøper nye Apple-produkter.",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-23"
+    },
+    {
+      "id": "3b30cbe3-3897-4182-909f-8c24de3162b2",
+      "butikk": "Coop",
+      "beskriving": "2% ekstra bonus ved betaling med Coopay og BankAxept i fysiske butikker.",
+      "kode": null,
+      "utløper": "2020-10-27",
+      "kjelde": "epost",
+      "lagt_til": "2026-10-23"
     }
   ]
 }
