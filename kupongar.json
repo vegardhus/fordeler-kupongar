@@ -1,5 +1,5 @@
 {
-  "oppdatert": "2026-10-23",
+  "oppdatert": "2026-10-24",
   "kupongar": [
     {
       "id": "e5178f5b-ddec-4f37-8507-a6edd07d7afa",
@@ -9236,15 +9236,6 @@
       "lagt_til": "2026-10-22"
     },
     {
-      "id": "0867cf1c-7397-4756-b8ee-35b798d3ef07",
-      "butikk": "Coop",
-      "beskriving": "Få 2% ekstra bonus ved betaling med Coopay og BankAxept",
-      "kode": null,
-      "utløper": "2020-10-27",
-      "kjelde": "epost",
-      "lagt_til": "2026-10-23"
-    },
-    {
       "id": "9681c1a1-74ea-48cb-b63c-9b0eadd2d131",
       "butikk": "Elkjøp",
       "beskriving": "Få pant ved innbytte av gammel enhet når du kjøper nye Apple-produkter.",
@@ -9254,13 +9245,49 @@
       "lagt_til": "2026-10-23"
     },
     {
-      "id": "3b30cbe3-3897-4182-909f-8c24de3162b2",
+      "id": "bd0340d6-dafb-4da5-ab1d-e7be4107e8cf",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "50% på alle varer ved kjøp av 3 eller flere",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-24"
+    },
+    {
+      "id": "4d66f6a3-05e0-4279-bf53-1ca850728cdf",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "40% på alle store tepper",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-24"
+    },
+    {
+      "id": "e969eb51-ff4b-4f1d-afa6-2c2fcd232619",
+      "butikk": "Kid Interiørklubb",
+      "beskriving": "30% på senger, sengegavler og sengebenker",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-24"
+    },
+    {
+      "id": "3d536a07-70ea-4651-ba8a-46d59d233dba",
       "butikk": "Coop",
-      "beskriving": "2% ekstra bonus ved betaling med Coopay og BankAxept i fysiske butikker.",
+      "beskriving": "Få 2% ekstra bonus på kjøp ved bruk av Coopay med BankAxept som betalingsmåte.",
       "kode": null,
       "utløper": "2020-10-27",
       "kjelde": "epost",
-      "lagt_til": "2026-10-23"
+      "lagt_til": "2026-10-24"
+    },
+    {
+      "id": "97f35804-e88e-41f9-9e69-7bdd43678029",
+      "butikk": "Elkjøp",
+      "beskriving": "Bytt inn og få de nyeste Apple-produktene med pant",
+      "kode": null,
+      "utløper": null,
+      "kjelde": "epost",
+      "lagt_til": "2026-10-24"
     }
   ]
 }
